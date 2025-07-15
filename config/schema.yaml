@@ -1,0 +1,31 @@
+columns:
+  CustomerID: object
+  Age: int
+  Gender: object
+  Income_Level: object
+  Eyewear_Type: object
+  Brand: object
+  Price: float
+  Purchase_Frequency: int
+  Customer_Tenure_Days: int
+  Customer_Satisfaction: float
+  CLV: float
+  CLV_Class: object
+
+numerical_columns:
+  - Age
+  - Price
+  - Purchase_Frequency
+  - Customer_Tenure_Days
+  - Customer_Satisfaction
+  - CLV
+
+categorical_columns:
+  - Gender
+  - Income_Level
+  - Eyewear_Type
+  - Brand
+
+target_column: CLV_Class
+drop_columns:
+  - CustomerID

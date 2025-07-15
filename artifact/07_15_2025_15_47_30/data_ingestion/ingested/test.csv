@@ -1,0 +1,2001 @@
+CustomerID,Age,Gender,Income_Level,Eyewear_Type,Brand,Price,Purchase_Frequency,Customer_Tenure_Days,Customer_Satisfaction,CLV,CLV_Class
+CUST09372,61,Male,Medium,Optical Glasses,Vogue Eyewear,1301.53,5,1516,0.92,24866.71,High
+CUST00415,34,Female,Low,Sunglasses,Oliver Peoples,1266.9,5,930,0.72,11620.77,High
+CUST00815,42,Male,High,Optical Glasses,Persol,998.24,2,811,0.69,3060.85,Low
+CUST04464,63,Female,Medium,Sunglasses,Persol,1077.27,5,808,0.85,10135.19,High
+CUST03794,58,Male,Medium,Sunglasses,Vogue Eyewear,1264.82,2,265,0.57,1046.86,Low
+CUST02109,21,Female,Low,Sunglasses,Vogue Eyewear,1113.9,4,1449,0.98,17334.36,High
+CUST03757,45,Female,Medium,Sunglasses,Oakley,846.99,3,358,0.66,1644.88,Low
+CUST04708,24,Female,Low,Sunglasses,Persol,1375.68,4,575,0.7,6068.07,Medium
+CUST09451,50,Male,Medium,Optical Glasses,Oakley,1145.83,5,1615,0.93,23575.06,High
+CUST09003,67,Female,Low,Optical Glasses,Ray-Ban,1335.18,5,1033,0.54,10202.6,High
+CUST04037,45,Female,Medium,Optical Glasses,Persol,1273.8,5,855,0.73,10890.99,High
+CUST08984,56,Male,High,Optical Glasses,Vogue Eyewear,1148.44,1,874,0.74,2034.97,Low
+CUST08259,57,Male,Low,Optical Glasses,Persol,1396.93,4,170,0.58,1509.45,Low
+CUST01850,22,Female,Low,Optical Glasses,Ray-Ban,1312.48,4,1929,0.8,22196.37,High
+CUST09279,29,Female,High,Sunglasses,Oliver Peoples,1406.3,1,303,0.94,1097.38,Low
+CUST03623,38,Female,Medium,Sunglasses,Oliver Peoples,1205.83,3,36,0.6,214.08,Low
+CUST03472,26,Female,Medium,Sunglasses,Oliver Peoples,1443.55,2,231,0.81,1480.01,Low
+CUST07614,39,Male,Low,Optical Glasses,Persol,1409.09,2,1180,0.93,8473.07,Medium
+CUST03790,58,Female,Medium,Optical Glasses,Vogue Eyewear,1241.72,1,479,0.89,1450.29,Low
+CUST07880,57,Female,Low,Optical Glasses,Oakley,1511.32,1,1257,0.75,3903.55,Medium
+CUST06289,60,Male,Medium,Sunglasses,Persol,1031.77,1,1525,0.86,3707.31,Medium
+CUST05868,47,Female,Medium,Optical Glasses,Persol,1053.06,1,1563,0.53,2389.98,Low
+CUST05983,45,Male,Medium,Optical Glasses,Oliver Peoples,1080.0,1,1213,0.92,3302.02,Low
+CUST08192,43,Female,Medium,Sunglasses,Oakley,1224.68,2,1585,0.94,9998.09,High
+CUST07224,35,Female,High,Optical Glasses,Oliver Peoples,1182.42,2,438,0.59,1674.31,Low
+CUST00233,54,Female,Low,Sunglasses,Ray-Ban,1072.57,2,779,0.51,2334.91,Low
+CUST07609,26,Female,Medium,Sunglasses,Persol,1080.16,2,1499,0.57,5057.1,Medium
+CUST01683,51,Female,Low,Optical Glasses,Ray-Ban,1153.4,1,1390,0.73,3206.45,Low
+CUST03562,57,Male,Medium,Sunglasses,Oakley,1443.83,4,1301,0.78,16056.66,High
+CUST06918,45,Female,Low,Sunglasses,Ray-Ban,978.21,4,224,0.67,1608.87,Low
+CUST08079,25,Male,Medium,Optical Glasses,Oliver Peoples,1277.14,1,1739,0.92,5598.0,Medium
+CUST07727,51,Male,Medium,Optical Glasses,Oakley,1242.87,3,1885,0.78,15019.66,High
+CUST09570,39,Male,Medium,Optical Glasses,Vogue Eyewear,1250.87,3,1595,0.64,10494.97,High
+CUST07707,68,Male,Medium,Sunglasses,Persol,1109.88,3,557,0.98,4979.5,Medium
+CUST08471,48,Male,Medium,Sunglasses,Persol,1236.71,4,1605,0.6,13051.53,High
+CUST09015,63,Male,Medium,Optical Glasses,Ray-Ban,817.6,5,559,0.65,4069.52,Medium
+CUST09547,69,Male,Low,Optical Glasses,Vogue Eyewear,1000.32,5,419,0.8,4593.25,Medium
+CUST06092,22,Female,High,Sunglasses,Persol,958.67,3,919,0.51,3693.03,Medium
+CUST06181,67,Female,High,Optical Glasses,Vogue Eyewear,1200.02,1,158,0.76,394.79,Low
+CUST03339,68,Male,Medium,Sunglasses,Ray-Ban,1257.73,2,899,0.54,3345.63,Low
+CUST07058,40,Male,Low,Sunglasses,Oakley,1204.09,3,173,0.76,1301.21,Low
+CUST03982,41,Male,Low,Sunglasses,Vogue Eyewear,1456.99,2,891,0.57,4054.58,Medium
+CUST06029,61,Male,Low,Sunglasses,Vogue Eyewear,1139.54,2,1806,0.79,8908.64,High
+CUST07122,65,Male,High,Sunglasses,Oakley,1198.65,1,1633,0.78,4182.93,Medium
+CUST04314,25,Female,Low,Sunglasses,Persol,1235.45,1,467,0.85,1343.59,Low
+CUST05484,44,Female,Medium,Optical Glasses,Ray-Ban,1277.41,4,1548,0.65,14085.81,High
+CUST03784,37,Female,Low,Optical Glasses,Persol,1378.43,5,984,0.84,15607.6,High
+CUST04609,31,Male,Low,Sunglasses,Ray-Ban,1276.09,3,1157,0.93,11285.64,High
+CUST09716,49,Male,Low,Optical Glasses,Persol,1119.31,4,493,0.84,5079.77,Medium
+CUST08639,36,Female,High,Optical Glasses,Vogue Eyewear,1003.07,3,1424,1.0,11740.04,High
+CUST03685,42,Female,Medium,Sunglasses,Oliver Peoples,1116.76,2,1024,0.59,3697.0,Medium
+CUST09470,45,Male,Low,Optical Glasses,Persol,1193.69,5,1861,0.98,29822.3,High
+CUST00101,62,Female,Low,Optical Glasses,Oliver Peoples,1362.21,3,1876,0.97,20374.03,High
+CUST07488,20,Female,High,Sunglasses,Vogue Eyewear,1066.35,2,1582,0.94,8689.03,Medium
+CUST00362,38,Female,Medium,Sunglasses,Persol,1408.59,2,1349,0.65,6767.79,Medium
+CUST06848,46,Female,Low,Sunglasses,Ray-Ban,1139.6,5,1202,0.55,10320.4,High
+CUST08026,34,Male,High,Optical Glasses,Oakley,1381.32,3,880,0.56,5594.91,Medium
+CUST05206,35,Female,Medium,Optical Glasses,Vogue Eyewear,1248.14,3,1528,1.0,15675.27,High
+CUST04595,42,Female,Low,Sunglasses,Vogue Eyewear,1160.6,3,505,0.57,2745.85,Low
+CUST08603,59,Male,High,Sunglasses,Ray-Ban,1192.42,3,1057,0.87,9012.64,High
+CUST05077,68,Male,Medium,Optical Glasses,Ray-Ban,1302.61,5,337,0.75,4510.06,Medium
+CUST09957,68,Female,High,Optical Glasses,Oakley,1200.69,4,1803,0.75,17793.24,High
+CUST04441,42,Male,Low,Optical Glasses,Oliver Peoples,1409.03,2,232,0.86,1540.44,Low
+CUST05208,39,Male,Medium,Sunglasses,Vogue Eyewear,1449.43,3,1696,0.96,19396.47,High
+CUST03925,40,Male,Low,Sunglasses,Persol,1462.68,2,1503,0.51,6143.5,Medium
+CUST01868,46,Male,High,Sunglasses,Ray-Ban,1314.88,5,436,0.88,6910.87,Medium
+CUST06089,66,Male,High,Optical Glasses,Persol,1145.99,4,534,0.99,6639.33,Medium
+CUST08413,34,Female,Medium,Optical Glasses,Persol,1226.13,1,1989,0.98,6547.94,Medium
+CUST06305,39,Female,High,Optical Glasses,Ray-Ban,1085.02,2,1731,0.54,5557.32,Medium
+CUST06405,64,Female,Medium,Sunglasses,Vogue Eyewear,1124.35,1,1039,0.89,2848.49,Low
+CUST08411,49,Female,High,Sunglasses,Ray-Ban,1123.37,5,1292,0.79,15706.87,High
+CUST03063,20,Male,High,Sunglasses,Vogue Eyewear,1087.91,1,1096,0.69,2254.03,Low
+CUST00677,27,Female,Medium,Sunglasses,Persol,1210.6,4,750,0.61,6069.58,Medium
+CUST08128,25,Male,Medium,Sunglasses,Persol,1055.71,4,1669,0.59,11392.53,High
+CUST05462,52,Female,Low,Optical Glasses,Vogue Eyewear,1239.26,3,1347,0.58,7957.68,Medium
+CUST00126,29,Male,Medium,Optical Glasses,Vogue Eyewear,972.95,1,1778,0.55,2606.71,Low
+CUST00380,23,Female,Medium,Sunglasses,Persol,1070.66,5,622,0.85,7754.22,Medium
+CUST01875,44,Male,Medium,Optical Glasses,Oliver Peoples,1133.19,5,1349,0.64,13402.07,High
+CUST04412,46,Male,Medium,Optical Glasses,Ray-Ban,1061.13,3,157,0.6,821.58,Low
+CUST08975,53,Female,High,Optical Glasses,Oliver Peoples,1238.98,1,1126,0.77,2943.07,Low
+CUST06908,41,Male,Low,Sunglasses,Oakley,1639.15,3,894,0.79,9515.06,High
+CUST03194,62,Male,Medium,Optical Glasses,Persol,1053.65,3,1469,0.69,8778.0,Medium
+CUST03552,31,Female,Medium,Optical Glasses,Oliver Peoples,1031.58,3,808,0.99,6782.31,Medium
+CUST01207,46,Male,Medium,Optical Glasses,Oliver Peoples,1215.95,1,1637,0.53,2890.33,Low
+CUST00068,57,Female,Medium,Optical Glasses,Oliver Peoples,1215.49,5,1531,0.64,16314.87,High
+CUST02840,62,Female,Medium,Optical Glasses,Persol,1099.85,1,1732,0.61,3183.6,Low
+CUST04882,67,Female,Low,Sunglasses,Oliver Peoples,1393.15,5,94,0.54,968.72,Low
+CUST05838,69,Male,Medium,Optical Glasses,Vogue Eyewear,1233.41,5,1251,0.55,11625.31,High
+CUST03535,29,Male,Medium,Sunglasses,Ray-Ban,1252.05,3,1876,0.75,14479.19,High
+CUST03402,37,Male,Medium,Sunglasses,Ray-Ban,1306.02,4,1458,0.78,16276.8,High
+CUST00030,42,Male,Medium,Optical Glasses,Oakley,1048.65,3,488,0.81,3406.93,Low
+CUST04117,21,Female,Medium,Optical Glasses,Persol,1214.62,2,1791,0.82,9774.33,High
+CUST04230,61,Male,Medium,Optical Glasses,Oakley,1411.4,4,446,0.73,5035.88,Medium
+CUST04402,40,Female,Low,Optical Glasses,Oliver Peoples,1097.11,3,330,0.68,2023.49,Low
+CUST06160,25,Male,High,Sunglasses,Oliver Peoples,1384.41,1,104,0.95,374.74,Low
+CUST06771,43,Male,Low,Optical Glasses,Oliver Peoples,1496.54,2,367,0.91,2738.63,Low
+CUST04788,46,Female,High,Optical Glasses,Ray-Ban,1119.25,4,1011,0.67,8308.45,Medium
+CUST08201,48,Female,Low,Sunglasses,Ray-Ban,1131.79,5,815,0.69,8718.66,Medium
+CUST06539,36,Female,Medium,Optical Glasses,Ray-Ban,1073.57,2,1639,0.59,5688.51,Medium
+CUST00309,37,Male,Medium,Optical Glasses,Oakley,801.56,4,1361,0.61,7292.75,Medium
+CUST05068,30,Male,Medium,Optical Glasses,Oliver Peoples,1229.41,5,1840,0.99,30677.99,High
+CUST07684,68,Male,Medium,Sunglasses,Ray-Ban,1294.12,4,233,0.86,2841.82,Low
+CUST03478,29,Female,Medium,Optical Glasses,Persol,1161.75,3,1565,0.58,8667.29,Medium
+CUST05877,30,Male,Medium,Sunglasses,Oliver Peoples,963.04,4,189,0.79,1575.8,Low
+CUST01511,29,Male,Medium,Optical Glasses,Vogue Eyewear,1373.6,4,1033,0.65,10107.44,High
+CUST05370,52,Male,Low,Optical Glasses,Persol,1052.93,4,1211,0.66,9222.63,High
+CUST07110,44,Female,High,Optical Glasses,Oliver Peoples,1224.34,2,587,0.92,3622.97,Medium
+CUST09852,41,Female,Medium,Optical Glasses,Oakley,1091.34,2,1862,0.78,8685.03,Medium
+CUST01165,42,Male,High,Sunglasses,Oliver Peoples,1352.51,5,985,0.99,18067.13,High
+CUST03487,38,Female,High,Sunglasses,Vogue Eyewear,1038.72,5,81,0.59,680.01,Low
+CUST09855,42,Female,Low,Optical Glasses,Ray-Ban,1279.19,2,1253,0.55,4830.43,Medium
+CUST07151,36,Female,Medium,Sunglasses,Ray-Ban,1283.96,1,1993,0.93,6520.02,Medium
+CUST02770,19,Male,Low,Optical Glasses,Persol,959.38,4,1514,0.84,13370.97,High
+CUST04866,25,Female,Medium,Optical Glasses,Vogue Eyewear,1429.9,4,1955,0.83,25427.15,High
+CUST08765,39,Female,Medium,Sunglasses,Oliver Peoples,1169.69,4,874,0.88,9858.98,High
+CUST03898,66,Male,Medium,Optical Glasses,Ray-Ban,1338.15,2,640,0.87,4082.64,Medium
+CUST05497,32,Male,High,Sunglasses,Oakley,1030.99,1,1179,0.85,2830.7,Low
+CUST00610,52,Male,Medium,Optical Glasses,Ray-Ban,1049.4,2,1202,0.52,3594.07,Medium
+CUST07105,31,Male,Low,Optical Glasses,Oakley,878.37,1,1217,0.69,2020.8,Low
+CUST02967,30,Female,Medium,Optical Glasses,Vogue Eyewear,1070.49,2,1988,0.94,10961.35,High
+CUST04317,35,Male,Low,Sunglasses,Oakley,1202.5,2,497,0.77,2521.56,Low
+CUST00777,45,Male,Low,Optical Glasses,Persol,1508.11,2,1457,0.66,7946.46,Medium
+CUST00119,59,Female,Low,Optical Glasses,Oliver Peoples,1381.61,5,1011,0.93,17794.95,High
+CUST06634,53,Male,High,Optical Glasses,Ray-Ban,1289.13,3,453,0.67,3215.87,Low
+CUST08503,27,Male,Medium,Sunglasses,Persol,1348.7,2,139,0.77,790.97,Low
+CUST04040,64,Male,Medium,Optical Glasses,Vogue Eyewear,1256.16,1,436,0.73,1095.37,Low
+CUST01921,53,Male,Low,Optical Glasses,Oakley,1360.62,5,878,0.8,13091.77,High
+CUST01240,68,Male,Low,Optical Glasses,Oakley,1252.79,5,1540,0.61,16121.52,High
+CUST06452,39,Male,Low,Optical Glasses,Oakley,1144.12,1,609,0.8,1527.17,Low
+CUST07271,41,Female,Low,Optical Glasses,Persol,1306.65,5,620,0.58,6436.59,Medium
+CUST01565,51,Female,Low,Optical Glasses,Persol,1348.17,5,491,0.59,5350.02,Medium
+CUST05107,30,Male,Medium,Sunglasses,Vogue Eyewear,1513.99,2,738,0.67,4101.96,Medium
+CUST05179,34,Female,Low,Sunglasses,Oakley,1140.54,4,274,0.77,2637.05,Low
+CUST08308,61,Female,High,Sunglasses,Oliver Peoples,1103.9,4,586,0.77,5458.65,Medium
+CUST04197,35,Female,Medium,Optical Glasses,Ray-Ban,1225.57,5,1801,0.79,23886.7,High
+CUST06321,27,Female,Medium,Optical Glasses,Oakley,1126.25,1,894,0.57,1572.37,Low
+CUST05498,33,Female,Medium,Sunglasses,Vogue Eyewear,1083.91,1,568,0.6,1012.05,Low
+CUST02692,32,Female,Medium,Sunglasses,Persol,1236.32,5,394,1.0,6672.74,Medium
+CUST08244,18,Male,Medium,Optical Glasses,Ray-Ban,1289.97,2,743,0.7,3676.24,Medium
+CUST00121,58,Male,Low,Optical Glasses,Oakley,1095.11,4,1750,0.82,17221.73,High
+CUST00082,48,Female,Low,Sunglasses,Persol,1345.34,1,1663,0.6,3677.75,Medium
+CUST06943,53,Female,Low,Optical Glasses,Persol,1300.96,3,1937,0.74,15326.88,High
+CUST05134,20,Male,High,Sunglasses,Oliver Peoples,1348.88,1,267,0.68,670.97,Low
+CUST06537,21,Male,Medium,Sunglasses,Oliver Peoples,1272.85,3,737,0.83,6399.58,Medium
+CUST07314,65,Female,Medium,Optical Glasses,Persol,1260.4,1,991,0.75,2566.55,Low
+CUST02081,32,Female,Medium,Optical Glasses,Vogue Eyewear,1068.02,3,626,0.79,4341.19,Medium
+CUST05739,39,Male,Low,Sunglasses,Oliver Peoples,1234.45,4,83,0.58,651.25,Low
+CUST08371,36,Male,High,Optical Glasses,Oakley,925.92,1,1497,0.75,2848.16,Low
+CUST03791,56,Female,Medium,Sunglasses,Vogue Eyewear,1480.76,3,1058,0.73,9399.86,High
+CUST09356,26,Female,Medium,Sunglasses,Oakley,1227.33,1,1188,0.99,3954.76,Medium
+CUST06385,32,Male,Medium,Optical Glasses,Oakley,1068.79,4,938,0.88,9668.19,High
+CUST07568,44,Male,Low,Sunglasses,Ray-Ban,1137.94,1,1663,0.88,4562.48,Medium
+CUST04992,18,Female,Low,Sunglasses,Ray-Ban,1296.28,2,1743,0.89,11018.52,High
+CUST02320,18,Female,High,Sunglasses,Ray-Ban,1022.16,1,895,0.72,1804.6,Low
+CUST08540,50,Female,Low,Optical Glasses,Persol,1124.81,5,912,0.7,9836.69,High
+CUST02176,53,Male,High,Optical Glasses,Ray-Ban,1069.62,3,177,0.62,964.77,Low
+CUST05555,59,Male,Low,Optical Glasses,Oakley,1388.36,5,365,0.7,4859.26,Medium
+CUST03618,52,Female,High,Sunglasses,Persol,1010.44,5,1718,0.56,13316.77,High
+CUST08028,19,Female,High,Optical Glasses,Ray-Ban,1091.58,3,1722,0.52,8033.79,Medium
+CUST02470,53,Male,Medium,Optical Glasses,Oliver Peoples,1283.53,1,855,0.74,2224.9,Low
+CUST07193,25,Female,Low,Optical Glasses,Oliver Peoples,1252.65,4,606,0.68,5656.9,Medium
+CUST00006,25,Male,Medium,Sunglasses,Vogue Eyewear,1143.83,2,1916,0.6,7205.19,Medium
+CUST03771,35,Male,Low,Optical Glasses,Ray-Ban,1044.55,1,739,0.64,1353.51,Low
+CUST02052,32,Female,Medium,Optical Glasses,Vogue Eyewear,1094.83,2,688,0.62,2558.96,Low
+CUST06285,65,Male,Medium,Optical Glasses,Oliver Peoples,1051.08,1,1238,0.89,3172.88,Low
+CUST04132,55,Male,Low,Optical Glasses,Oliver Peoples,1234.62,4,436,0.78,4601.31,Medium
+CUST00083,65,Male,Low,Optical Glasses,Ray-Ban,1230.16,3,1746,0.76,13416.77,High
+CUST01589,51,Female,Medium,Optical Glasses,Oakley,1099.75,2,336,0.87,1761.53,Low
+CUST08502,22,Male,Low,Sunglasses,Ray-Ban,1172.02,5,1749,0.81,22745.05,High
+CUST04648,36,Male,High,Sunglasses,Vogue Eyewear,1438.9,3,105,0.97,1204.54,Low
+CUST09641,50,Female,Medium,Optical Glasses,Oakley,1329.77,1,1382,0.63,3171.99,Low
+CUST03604,21,Female,Low,Sunglasses,Ray-Ban,1124.82,1,439,0.92,1244.64,Low
+CUST09512,52,Male,Medium,Optical Glasses,Oakley,1147.63,4,89,0.67,749.95,Low
+CUST07382,31,Female,High,Optical Glasses,Vogue Eyewear,967.83,3,808,0.74,4756.31,Medium
+CUST02787,36,Female,High,Optical Glasses,Oakley,1226.6,2,1571,0.79,8341.48,Medium
+CUST06526,28,Male,Medium,Optical Glasses,Oakley,1577.99,3,807,0.92,9629.28,High
+CUST02450,32,Male,Medium,Sunglasses,Oakley,1100.36,5,1728,0.6,15628.13,High
+CUST09330,21,Female,Medium,Sunglasses,Ray-Ban,1263.83,1,1886,0.77,5028.38,Medium
+CUST05796,49,Female,Medium,Sunglasses,Ray-Ban,1227.68,1,1496,0.82,4126.08,Medium
+CUST08567,46,Female,Low,Sunglasses,Ray-Ban,1261.65,5,538,0.72,6694.7,Medium
+CUST00195,44,Male,Medium,Optical Glasses,Oakley,1258.34,2,1629,0.66,7413.11,Medium
+CUST08023,32,Male,Medium,Sunglasses,Persol,1003.37,4,1375,0.64,9676.34,High
+CUST02518,44,Male,Medium,Sunglasses,Oakley,930.89,2,1009,0.86,4426.14,Medium
+CUST00603,53,Female,Low,Optical Glasses,Ray-Ban,1351.8,3,1368,0.94,14287.45,High
+CUST04101,54,Male,Medium,Optical Glasses,Ray-Ban,1208.06,5,103,0.94,1602.25,Low
+CUST04863,35,Female,High,Sunglasses,Oakley,1349.13,4,36,0.95,505.65,Low
+CUST09580,58,Female,Medium,Sunglasses,Oliver Peoples,1169.58,2,87,0.76,423.74,Low
+CUST04106,26,Female,Low,Optical Glasses,Vogue Eyewear,1060.42,2,472,0.64,1755.24,Low
+CUST04939,39,Male,Medium,Sunglasses,Oakley,957.38,1,1573,0.66,2723.1,Low
+CUST09578,48,Male,High,Optical Glasses,Persol,1407.88,1,1749,0.95,6408.94,Medium
+CUST00384,41,Male,High,Sunglasses,Ray-Ban,1397.95,5,1880,0.62,22321.24,High
+CUST04978,42,Female,Medium,Optical Glasses,Persol,1056.12,5,1468,0.79,16778.13,High
+CUST08119,27,Female,Medium,Sunglasses,Oliver Peoples,1333.59,2,1364,1.0,9967.22,High
+CUST04795,20,Female,Medium,Optical Glasses,Oliver Peoples,1193.73,1,1554,0.78,3964.23,Medium
+CUST00464,22,Male,Low,Optical Glasses,Persol,1310.92,5,127,0.87,1984.16,Low
+CUST05512,48,Female,Medium,Optical Glasses,Oakley,1371.95,2,226,0.81,1376.16,Low
+CUST02600,38,Female,High,Optical Glasses,Persol,1364.68,4,1474,0.75,16533.19,High
+CUST08868,23,Male,Medium,Optical Glasses,Oakley,1113.83,5,207,0.62,1958.2,Low
+CUST04538,60,Female,Medium,Sunglasses,Vogue Eyewear,1079.3,3,843,0.73,5459.1,Medium
+CUST08792,41,Male,High,Sunglasses,Oakley,1250.91,2,1727,0.88,10416.89,High
+CUST01420,41,Male,Medium,Optical Glasses,Persol,1204.33,2,339,0.91,2035.75,Low
+CUST08476,45,Male,High,Optical Glasses,Oliver Peoples,964.88,1,427,0.67,756.28,Low
+CUST04781,18,Female,Low,Optical Glasses,Vogue Eyewear,1232.47,3,1727,0.69,12071.08,High
+CUST04012,68,Male,Low,Sunglasses,Vogue Eyewear,1177.09,4,714,0.89,8197.19,Medium
+CUST06925,54,Female,Medium,Sunglasses,Vogue Eyewear,1176.87,3,1627,0.87,13691.9,High
+CUST01088,23,Male,Medium,Sunglasses,Oliver Peoples,1242.39,5,530,0.99,8929.89,High
+CUST09193,43,Male,Medium,Sunglasses,Oakley,1077.56,3,173,0.71,1087.86,Low
+CUST00265,36,Male,Low,Sunglasses,Persol,1385.98,1,1461,0.74,4105.31,Medium
+CUST05164,33,Female,Medium,Sunglasses,Oliver Peoples,1076.38,2,843,0.54,2684.88,Low
+CUST00347,65,Male,Low,Optical Glasses,Oakley,1305.29,1,406,0.94,1364.8,Low
+CUST09774,35,Male,Medium,Optical Glasses,Oliver Peoples,1168.25,1,1535,0.85,4176.09,Medium
+CUST04367,64,Male,Low,Optical Glasses,Persol,1362.13,1,593,0.61,1349.93,Low
+CUST05299,46,Male,Medium,Optical Glasses,Vogue Eyewear,1022.12,3,171,0.6,861.94,Low
+CUST02487,48,Male,Low,Optical Glasses,Ray-Ban,1438.5,5,1107,0.94,20505.13,High
+CUST09964,39,Male,Low,Optical Glasses,Persol,864.82,5,574,0.59,4012.05,Medium
+CUST02502,39,Female,Medium,Sunglasses,Ray-Ban,1146.33,5,387,0.54,3281.64,Low
+CUST01643,48,Female,Low,Sunglasses,Oliver Peoples,1145.29,5,1801,0.88,24865.03,High
+CUST03922,59,Male,Medium,Sunglasses,Oakley,947.83,3,1717,0.89,11904.72,High
+CUST04541,51,Male,Medium,Optical Glasses,Persol,1241.35,2,144,0.91,891.32,Low
+CUST07813,20,Male,Medium,Optical Glasses,Oakley,1190.51,5,504,0.5,4109.71,Medium
+CUST01575,60,Male,Medium,Sunglasses,Oliver Peoples,1164.37,1,57,0.54,98.19,Low
+CUST06018,20,Female,Medium,Optical Glasses,Vogue Eyewear,1410.15,2,614,0.64,3036.34,Low
+CUST02038,42,Male,Medium,Optical Glasses,Oliver Peoples,1332.55,1,1977,0.96,6928.97,Medium
+CUST07736,18,Female,High,Optical Glasses,Oakley,1135.21,2,1092,0.64,4347.26,Medium
+CUST05191,30,Male,Medium,Sunglasses,Persol,829.13,4,1007,0.51,4666.48,Medium
+CUST06157,63,Female,Low,Optical Glasses,Persol,1432.38,2,461,0.94,3401.14,Low
+CUST04477,44,Female,Low,Sunglasses,Persol,1269.6,2,1510,0.87,9139.03,High
+CUST02262,23,Male,Low,Optical Glasses,Persol,1074.27,3,126,0.64,712.02,Low
+CUST05381,34,Female,High,Optical Glasses,Vogue Eyewear,1019.56,5,1677,0.55,12882.07,High
+CUST01156,54,Female,Low,Optical Glasses,Ray-Ban,1150.19,5,886,0.64,8934.3,High
+CUST04083,64,Female,Low,Sunglasses,Oliver Peoples,1217.99,3,1055,0.97,10244.63,High
+CUST05166,66,Female,High,Sunglasses,Oakley,1183.34,5,1553,0.83,20894.7,High
+CUST03543,68,Female,Medium,Sunglasses,Ray-Ban,938.89,2,1162,0.68,4065.06,Medium
+CUST05174,39,Female,Medium,Optical Glasses,Persol,1279.71,3,857,0.93,8383.08,Medium
+CUST03492,68,Male,Medium,Sunglasses,Oliver Peoples,1245.09,5,1845,0.94,29580.27,High
+CUST07647,30,Male,High,Sunglasses,Oliver Peoples,1276.56,3,1268,0.73,9712.07,High
+CUST09165,33,Male,Medium,Optical Glasses,Ray-Ban,1085.13,2,1515,0.84,7566.78,Medium
+CUST00903,46,Female,Medium,Optical Glasses,Persol,962.22,1,1866,0.77,3787.77,Medium
+CUST07861,67,Male,Low,Optical Glasses,Oakley,1323.24,3,386,0.95,3988.21,Medium
+CUST01287,58,Male,Medium,Sunglasses,Oakley,932.56,4,805,0.5,4113.48,Medium
+CUST02670,50,Female,Low,Sunglasses,Oakley,1260.96,1,226,0.88,687.07,Low
+CUST02992,49,Female,Medium,Sunglasses,Persol,1269.98,4,1730,0.94,22632.78,High
+CUST01598,64,Male,Medium,Optical Glasses,Vogue Eyewear,1185.47,4,1974,0.53,13591.92,High
+CUST07216,32,Female,Medium,Optical Glasses,Persol,1346.96,3,1463,0.67,10851.81,High
+CUST02221,22,Male,High,Sunglasses,Oakley,1270.91,5,985,0.95,16291.15,High
+CUST02058,27,Female,Low,Optical Glasses,Oliver Peoples,1054.1,3,492,0.75,3196.96,Low
+CUST01337,39,Male,Medium,Sunglasses,Oakley,1085.63,1,463,0.91,1253.17,Low
+CUST00854,49,Male,High,Sunglasses,Persol,1059.71,2,1410,0.64,5239.9,Medium
+CUST02976,32,Male,Medium,Optical Glasses,Ray-Ban,1200.5,4,1074,0.56,7912.64,Medium
+CUST07566,31,Male,Low,Optical Glasses,Vogue Eyewear,1157.29,5,1982,0.94,29535.94,High
+CUST02724,35,Female,High,Sunglasses,Persol,1155.13,5,1260,0.83,16548.42,High
+CUST05518,53,Male,Medium,Optical Glasses,Oliver Peoples,1065.97,3,331,0.55,1595.01,Low
+CUST05412,43,Female,High,Optical Glasses,Ray-Ban,1334.25,1,415,0.55,834.36,Low
+CUST00366,64,Female,Medium,Optical Glasses,Persol,1382.23,1,1338,0.77,3901.52,Medium
+CUST08223,40,Female,Medium,Optical Glasses,Ray-Ban,977.08,2,495,0.95,2517.65,Low
+CUST03880,60,Male,Medium,Optical Glasses,Oliver Peoples,1207.68,4,402,0.84,4469.14,Medium
+CUST09968,53,Female,Medium,Optical Glasses,Vogue Eyewear,1018.29,4,1714,0.59,11285.0,High
+CUST09129,37,Male,Medium,Optical Glasses,Oliver Peoples,1126.28,1,1049,0.92,2977.95,Low
+CUST03639,18,Male,Medium,Sunglasses,Ray-Ban,1344.98,5,445,0.7,5739.2,Medium
+CUST05195,64,Female,Medium,Optical Glasses,Vogue Eyewear,1342.53,5,690,0.92,11674.49,High
+CUST03860,53,Male,Medium,Optical Glasses,Ray-Ban,938.33,4,1074,0.56,6184.65,Medium
+CUST09081,45,Male,Medium,Sunglasses,Oakley,1199.38,2,1715,0.95,10707.34,High
+CUST01749,27,Female,Medium,Optical Glasses,Oakley,1212.4,4,671,0.63,5616.63,Medium
+CUST06964,59,Male,Medium,Optical Glasses,Persol,1062.41,2,1989,0.77,8915.69,High
+CUST08607,44,Female,Medium,Sunglasses,Ray-Ban,1286.19,3,525,0.67,3718.5,Medium
+CUST01926,46,Female,High,Optical Glasses,Ray-Ban,1198.38,4,1028,0.63,8505.41,Medium
+CUST09858,35,Female,Medium,Optical Glasses,Oakley,1278.18,2,818,0.94,5385.31,Medium
+CUST03386,25,Male,Low,Optical Glasses,Ray-Ban,1190.99,1,502,0.56,917.29,Low
+CUST04076,29,Male,Medium,Optical Glasses,Ray-Ban,1382.87,4,1269,0.92,17692.86,High
+CUST08724,48,Male,High,Optical Glasses,Ray-Ban,976.45,5,809,0.78,8440.54,Medium
+CUST08092,61,Female,Medium,Sunglasses,Ray-Ban,1182.53,1,467,0.57,862.4,Low
+CUST06474,40,Female,High,Optical Glasses,Vogue Eyewear,1332.04,5,1458,0.69,18356.97,High
+CUST07454,46,Female,Low,Optical Glasses,Oliver Peoples,1227.13,1,1522,0.98,5014.62,Medium
+CUST03173,32,Female,High,Sunglasses,Persol,1363.0,4,1536,0.92,21107.75,High
+CUST03586,31,Female,Medium,Sunglasses,Oakley,1183.64,2,808,0.54,2829.84,Low
+CUST04311,51,Female,Medium,Optical Glasses,Ray-Ban,1173.2,1,1717,0.69,3808.01,Medium
+CUST09803,57,Female,High,Sunglasses,Persol,1207.09,5,1173,0.65,12607.48,High
+CUST06300,23,Male,Medium,Sunglasses,Persol,1088.86,3,1790,0.63,10092.39,High
+CUST08713,48,Male,High,Optical Glasses,Ray-Ban,1118.31,4,1224,0.84,12600.57,High
+CUST03323,65,Male,High,Optical Glasses,Vogue Eyewear,1153.64,3,909,0.8,6895.29,Medium
+CUST09657,56,Male,Low,Sunglasses,Oliver Peoples,1376.86,4,1302,0.56,11001.6,High
+CUST04666,46,Female,Medium,Optical Glasses,Oliver Peoples,1187.8,5,1715,0.55,15347.84,High
+CUST07010,48,Female,Low,Optical Glasses,Vogue Eyewear,799.07,2,647,0.76,2152.98,Low
+CUST01829,30,Female,Medium,Sunglasses,Persol,1097.89,2,1815,0.73,7970.68,Medium
+CUST03678,58,Female,Low,Sunglasses,Oliver Peoples,1377.61,2,987,0.55,4097.73,Medium
+CUST02309,38,Male,Medium,Sunglasses,Vogue Eyewear,1139.75,2,1762,0.64,7042.59,Medium
+CUST06102,18,Female,Low,Optical Glasses,Ray-Ban,1316.26,3,537,0.67,3892.42,Medium
+CUST08469,48,Male,Medium,Sunglasses,Oakley,1353.25,5,1248,0.86,19896.11,High
+CUST03950,68,Male,Medium,Optical Glasses,Persol,1156.9,5,1091,0.66,11411.47,High
+CUST08354,28,Female,Medium,Optical Glasses,Oliver Peoples,1127.74,5,129,0.7,1395.0,Low
+CUST09142,64,Female,Medium,Optical Glasses,Oliver Peoples,1077.37,5,155,0.79,1807.18,Low
+CUST08284,30,Female,High,Sunglasses,Vogue Eyewear,994.82,2,272,0.68,1008.23,Low
+CUST09341,22,Male,Medium,Sunglasses,Vogue Eyewear,1142.63,4,1282,0.7,11237.22,High
+CUST05849,67,Female,Medium,Optical Glasses,Oakley,1050.23,3,1014,0.72,6302.07,Medium
+CUST03382,68,Male,Low,Optical Glasses,Oliver Peoples,1176.35,4,105,0.78,1055.81,Low
+CUST06287,59,Female,Medium,Sunglasses,Persol,916.29,2,928,0.67,3121.71,Low
+CUST09450,36,Male,Medium,Optical Glasses,Vogue Eyewear,926.63,5,216,0.75,2056.36,Low
+CUST07866,40,Female,Low,Optical Glasses,Persol,1292.24,5,1790,0.87,27567.2,High
+CUST01796,32,Female,Low,Optical Glasses,Vogue Eyewear,1347.71,5,838,1.0,15470.97,High
+CUST04793,37,Male,High,Sunglasses,Oakley,1171.14,1,522,0.61,1021.68,Low
+CUST04392,30,Male,High,Optical Glasses,Oakley,1322.38,3,1080,0.91,10681.93,High
+CUST06859,33,Female,Medium,Sunglasses,Oakley,1136.15,3,771,0.96,6911.78,Medium
+CUST08243,33,Female,Medium,Sunglasses,Oakley,1367.57,1,1607,0.82,4937.26,Medium
+CUST06407,54,Male,Medium,Optical Glasses,Oliver Peoples,1109.49,2,1774,1.0,10784.85,High
+CUST03231,47,Female,Medium,Optical Glasses,Oakley,1057.17,5,52,0.82,617.5,Low
+CUST01439,38,Male,Medium,Optical Glasses,Vogue Eyewear,1105.95,1,408,0.52,642.84,Low
+CUST02488,24,Female,Medium,Sunglasses,Oliver Peoples,990.96,3,557,0.83,3765.46,Medium
+CUST00907,27,Male,High,Sunglasses,Vogue Eyewear,1169.21,5,569,0.63,5741.46,Medium
+CUST04336,27,Male,Medium,Sunglasses,Vogue Eyewear,1423.35,3,1521,0.74,13167.43,High
+CUST08728,61,Female,Medium,Optical Glasses,Vogue Eyewear,1441.41,4,810,0.86,11003.68,High
+CUST00190,45,Male,Medium,Sunglasses,Oakley,1235.63,5,666,0.77,8680.22,Medium
+CUST04850,40,Female,High,Optical Glasses,Oakley,1395.52,4,1807,0.93,25700.66,High
+CUST04445,28,Female,High,Sunglasses,Oliver Peoples,1210.4,5,45,0.79,589.45,Low
+CUST05180,29,Male,Low,Sunglasses,Oakley,1197.31,2,1913,0.68,8534.29,Medium
+CUST04209,49,Male,High,Sunglasses,Persol,1080.23,3,725,0.85,5471.44,Medium
+CUST02612,61,Female,High,Sunglasses,Ray-Ban,1210.02,4,607,0.75,6036.84,Medium
+CUST01229,46,Male,Low,Sunglasses,Oliver Peoples,1060.38,1,773,0.74,1661.8,Low
+CUST05401,62,Female,Medium,Optical Glasses,Vogue Eyewear,1146.67,3,1799,0.63,10681.66,High
+CUST07876,55,Male,Medium,Optical Glasses,Ray-Ban,1000.73,3,754,0.59,3659.05,Medium
+CUST07610,60,Male,Medium,Optical Glasses,Persol,1021.79,1,282,0.96,757.86,Low
+CUST09761,31,Male,Medium,Optical Glasses,Persol,1261.7,2,130,0.98,880.77,Low
+CUST06203,65,Female,High,Optical Glasses,Persol,1138.4,1,417,0.53,689.31,Low
+CUST00243,49,Female,Medium,Optical Glasses,Oakley,1230.47,3,260,0.66,1735.47,Low
+CUST07159,41,Female,Medium,Optical Glasses,Oliver Peoples,1251.91,4,263,0.74,2670.1,Low
+CUST01126,28,Female,Medium,Optical Glasses,Oakley,1218.51,3,1939,0.87,16894.86,High
+CUST07234,37,Female,Medium,Optical Glasses,Persol,1298.28,4,854,0.61,7411.79,Medium
+CUST09878,56,Female,High,Sunglasses,Persol,1093.05,5,64,0.56,536.64,Low
+CUST04776,57,Male,Medium,Sunglasses,Vogue Eyewear,1376.8,2,1787,0.85,11459.13,High
+CUST08511,27,Female,Medium,Sunglasses,Oliver Peoples,1314.37,1,83,0.89,266.01,Low
+CUST01704,56,Male,High,Sunglasses,Oliver Peoples,1071.12,5,1134,0.82,13644.01,High
+CUST08366,32,Male,Medium,Optical Glasses,Ray-Ban,1028.47,5,103,0.98,1422.11,Low
+CUST08116,19,Male,Medium,Optical Glasses,Vogue Eyewear,1187.54,3,1304,0.75,9545.87,High
+CUST07898,38,Male,Medium,Sunglasses,Oliver Peoples,1105.4,5,514,0.94,7316.23,Medium
+CUST05155,49,Male,High,Sunglasses,Persol,1415.39,3,1650,0.99,19003.06,High
+CUST01390,49,Male,Medium,Optical Glasses,Vogue Eyewear,1149.57,5,899,0.66,9343.64,High
+CUST09543,20,Male,Medium,Optical Glasses,Ray-Ban,1294.61,4,986,0.66,9232.66,High
+CUST09027,18,Female,High,Optical Glasses,Oliver Peoples,1356.77,2,1917,0.93,13254.04,High
+CUST01471,27,Male,Medium,Sunglasses,Persol,1158.31,3,1429,0.83,11291.81,High
+CUST09965,31,Male,High,Optical Glasses,Vogue Eyewear,1084.15,3,592,0.63,3323.38,Low
+CUST05648,54,Female,High,Optical Glasses,Persol,1245.84,2,304,0.68,1411.18,Low
+CUST02498,62,Female,Medium,Sunglasses,Oliver Peoples,1175.93,4,688,0.53,4699.08,Medium
+CUST04667,25,Female,Low,Sunglasses,Vogue Eyewear,974.98,1,1390,0.94,3490.16,Low
+CUST02163,37,Male,Low,Sunglasses,Vogue Eyewear,1032.41,1,838,0.64,1516.99,Low
+CUST03421,49,Female,Medium,Sunglasses,Oakley,1180.14,1,1698,0.81,4446.96,Medium
+CUST00975,52,Male,High,Optical Glasses,Oliver Peoples,1298.89,3,1217,0.99,12862.53,High
+CUST09089,41,Female,Medium,Optical Glasses,Oakley,1168.73,4,1669,0.59,12612.17,High
+CUST05051,65,Male,Medium,Sunglasses,Oakley,1398.31,1,1341,0.99,5085.98,Medium
+CUST02047,58,Female,Medium,Optical Glasses,Ray-Ban,1281.22,1,1961,0.89,6126.3,Medium
+CUST02827,38,Male,Low,Optical Glasses,Oliver Peoples,1014.07,4,659,0.73,5346.18,Medium
+CUST09009,23,Male,Medium,Sunglasses,Oliver Peoples,1311.79,3,1522,0.65,10666.47,High
+CUST05273,18,Male,Low,Optical Glasses,Oakley,1159.96,5,1414,0.58,13031.59,High
+CUST01115,61,Female,Low,Optical Glasses,Oliver Peoples,1368.37,4,866,0.77,9999.52,High
+CUST03945,30,Female,Medium,Optical Glasses,Ray-Ban,1086.85,4,1172,0.78,10888.27,High
+CUST07572,31,Male,Medium,Sunglasses,Ray-Ban,1485.12,4,393,0.64,4093.56,Medium
+CUST06450,46,Female,Low,Optical Glasses,Persol,1009.94,5,141,0.75,1463.03,Low
+CUST02685,43,Male,Low,Optical Glasses,Persol,1137.02,2,782,0.71,3459.16,Low
+CUST03738,36,Male,Medium,Optical Glasses,Ray-Ban,1184.74,5,1715,0.89,24771.62,High
+CUST02026,25,Female,Medium,Optical Glasses,Persol,1135.02,2,1938,0.54,6508.61,Medium
+CUST01590,29,Male,Low,Optical Glasses,Vogue Eyewear,1002.73,1,844,0.97,2249.08,Low
+CUST05511,55,Male,Medium,Optical Glasses,Vogue Eyewear,1093.22,2,606,0.7,2541.06,Low
+CUST07994,20,Female,Medium,Optical Glasses,Ray-Ban,1228.56,4,1772,0.82,19563.25,High
+CUST07729,67,Male,Medium,Optical Glasses,Oakley,1255.97,3,1268,0.65,8508.25,Medium
+CUST00258,26,Female,Low,Sunglasses,Vogue Eyewear,1372.88,2,503,0.51,1929.78,Low
+CUST06894,51,Female,Medium,Optical Glasses,Persol,1302.58,4,1625,1.0,23196.63,High
+CUST01377,19,Male,High,Optical Glasses,Oliver Peoples,1428.09,3,1173,0.64,8811.75,Medium
+CUST06990,54,Male,Low,Optical Glasses,Oliver Peoples,1094.62,3,578,0.86,4472.17,Medium
+CUST00037,64,Female,Low,Optical Glasses,Vogue Eyewear,1200.95,4,1100,0.67,9699.73,High
+CUST05995,21,Female,High,Sunglasses,Oliver Peoples,1197.83,5,792,0.57,7407.51,Medium
+CUST04504,34,Male,Medium,Sunglasses,Vogue Eyewear,1237.14,3,990,0.51,5133.96,Medium
+CUST00576,29,Male,Medium,Optical Glasses,Oliver Peoples,1085.93,5,91,0.63,852.83,Low
+CUST09710,30,Male,Low,Sunglasses,Persol,1119.86,5,1985,0.95,28928.44,High
+CUST02224,29,Female,High,Sunglasses,Vogue Eyewear,1127.98,1,1685,0.57,2968.13,Low
+CUST08006,61,Female,High,Sunglasses,Oliver Peoples,1357.01,4,576,0.59,5053.88,Medium
+CUST08240,47,Female,Medium,Optical Glasses,Oakley,1298.63,2,1953,0.73,10144.9,High
+CUST01052,21,Male,Medium,Optical Glasses,Persol,1299.24,1,1455,0.88,4557.66,Medium
+CUST03429,36,Male,Low,Sunglasses,Oliver Peoples,1233.19,2,260,0.74,1300.09,Low
+CUST08848,33,Male,Medium,Optical Glasses,Oliver Peoples,972.83,3,981,0.81,6353.59,Medium
+CUST04534,46,Male,Low,Sunglasses,Vogue Eyewear,1209.87,2,1631,0.94,10163.84,High
+CUST05591,63,Female,Medium,Optical Glasses,Persol,1313.96,4,268,0.96,3704.72,Medium
+CUST08393,58,Female,Medium,Sunglasses,Vogue Eyewear,1156.1,2,662,0.69,2893.61,Low
+CUST09767,30,Female,High,Sunglasses,Vogue Eyewear,1009.21,2,1304,0.69,4975.6,Medium
+CUST02701,55,Male,Medium,Optical Glasses,Oliver Peoples,1238.22,3,1296,0.67,8837.02,Medium
+CUST06835,63,Male,Low,Sunglasses,Vogue Eyewear,1461.18,3,1764,0.75,15888.83,High
+CUST03356,45,Female,Medium,Optical Glasses,Oakley,1316.15,1,1162,0.79,3310.14,Low
+CUST03383,28,Female,Medium,Optical Glasses,Vogue Eyewear,1231.45,2,1932,0.89,11602.49,High
+CUST09804,29,Female,Medium,Optical Glasses,Ray-Ban,1134.59,1,801,0.79,1967.01,Low
+CUST04680,54,Male,Medium,Optical Glasses,Oliver Peoples,1141.49,1,577,0.67,1209.01,Low
+CUST02032,64,Female,Medium,Optical Glasses,Vogue Eyewear,1211.29,2,326,0.71,1536.25,Low
+CUST01124,34,Female,Medium,Optical Glasses,Oliver Peoples,1223.09,1,1247,0.73,3050.39,Low
+CUST03934,69,Female,Low,Sunglasses,Ray-Ban,1004.24,2,434,0.83,1982.18,Low
+CUST02956,58,Female,High,Optical Glasses,Ray-Ban,1471.68,4,1649,0.95,25265.32,High
+CUST05630,34,Female,Low,Optical Glasses,Oliver Peoples,1314.4,1,848,0.84,2565.13,Low
+CUST05315,49,Male,Medium,Optical Glasses,Ray-Ban,1381.24,3,524,0.77,4580.57,Medium
+CUST08022,40,Male,Medium,Optical Glasses,Vogue Eyewear,1104.11,3,341,0.84,2599.41,Low
+CUST02051,49,Male,Low,Optical Glasses,Persol,1054.38,3,1964,0.51,8680.35,Medium
+CUST01482,57,Female,Medium,Sunglasses,Persol,1378.0,2,1259,0.74,7034.67,Medium
+CUST03690,43,Female,Low,Optical Glasses,Oliver Peoples,1300.57,2,1890,0.97,13064.85,High
+CUST02966,19,Male,Low,Optical Glasses,Oakley,1120.03,1,1541,0.67,3168.21,Low
+CUST05524,33,Female,Medium,Sunglasses,Vogue Eyewear,1251.58,1,755,0.6,1553.33,Low
+CUST04656,38,Male,Low,Optical Glasses,Oliver Peoples,1195.85,3,1424,0.69,9657.49,High
+CUST05541,40,Male,Medium,Optical Glasses,Persol,1242.08,1,1799,0.72,4407.78,Medium
+CUST08935,44,Female,Low,Optical Glasses,Oliver Peoples,1054.84,4,271,0.87,2725.48,Low
+CUST08154,26,Male,Low,Optical Glasses,Vogue Eyewear,1096.28,4,1289,0.75,11614.56,High
+CUST02957,58,Female,Medium,Optical Glasses,Persol,1130.22,2,1181,0.82,5997.41,Medium
+CUST07924,61,Male,Medium,Sunglasses,Ray-Ban,1062.42,4,1420,0.89,14714.37,High
+CUST09859,63,Female,Medium,Optical Glasses,Ray-Ban,1255.35,1,69,0.95,225.45,Low
+CUST05410,33,Female,Low,Optical Glasses,Vogue Eyewear,1352.98,4,1307,0.7,13565.39,High
+CUST09323,59,Male,High,Optical Glasses,Persol,1398.69,4,662,0.65,6595.69,Medium
+CUST03311,34,Male,Medium,Optical Glasses,Vogue Eyewear,1318.88,5,115,0.68,1412.83,Low
+CUST03671,20,Female,Medium,Optical Glasses,Ray-Ban,1120.2,5,1392,0.86,18370.05,High
+CUST01399,49,Female,Low,Sunglasses,Vogue Eyewear,1238.22,4,988,0.64,8580.29,Medium
+CUST03602,58,Female,High,Optical Glasses,Oakley,1104.2,2,1589,0.76,7306.72,Medium
+CUST03889,25,Female,Low,Optical Glasses,Oliver Peoples,1276.5,2,1551,0.67,7268.5,Medium
+CUST00809,49,Female,High,Optical Glasses,Oliver Peoples,1216.96,1,639,0.91,1938.77,Low
+CUST01867,30,Female,Low,Sunglasses,Oakley,1245.14,2,413,0.94,2648.7,Low
+CUST09386,42,Female,High,Sunglasses,Ray-Ban,996.2,2,1788,0.88,8588.83,Medium
+CUST02691,60,Female,High,Optical Glasses,Oakley,1261.67,1,342,0.98,1158.52,Low
+CUST09848,31,Female,Low,Optical Glasses,Vogue Eyewear,1371.28,4,777,0.83,9691.53,High
+CUST06346,65,Male,Low,Optical Glasses,Oliver Peoples,1247.28,2,1509,0.82,8456.76,Medium
+CUST00542,36,Female,High,Optical Glasses,Persol,1180.67,5,779,0.81,10205.36,High
+CUST08144,39,Female,Medium,Optical Glasses,Ray-Ban,1252.79,4,512,0.52,3655.26,Medium
+CUST00066,53,Male,Medium,Optical Glasses,Ray-Ban,1347.2,3,231,0.67,1713.75,Low
+CUST01539,46,Male,Low,Optical Glasses,Ray-Ban,1115.67,1,1195,0.85,3104.77,Low
+CUST00134,61,Male,Low,Optical Glasses,Ray-Ban,1069.12,1,749,0.59,1294.4,Low
+CUST01864,53,Male,Medium,Optical Glasses,Persol,1196.66,3,743,0.73,5334.71,Medium
+CUST02704,52,Female,Medium,Optical Glasses,Oakley,1261.87,3,1812,0.99,18605.29,High
+CUST04747,48,Female,High,Optical Glasses,Vogue Eyewear,1468.02,4,166,0.89,2376.82,Low
+CUST07319,27,Female,Medium,Optical Glasses,Ray-Ban,1190.04,5,104,0.83,1407.18,Low
+CUST03384,29,Female,Low,Optical Glasses,Vogue Eyewear,1271.22,4,1512,0.85,17904.35,High
+CUST06007,42,Male,Low,Optical Glasses,Ray-Ban,1296.03,1,346,0.96,1179.42,Low
+CUST00503,22,Female,Medium,Sunglasses,Persol,1193.23,5,1366,0.91,20318.58,High
+CUST05403,47,Female,High,Sunglasses,Oliver Peoples,1193.59,3,474,0.59,2743.56,Low
+CUST07537,53,Male,High,Sunglasses,Persol,1033.99,4,402,0.95,4327.46,Medium
+CUST00346,50,Female,High,Sunglasses,Vogue Eyewear,1075.06,4,1542,0.95,17258.69,High
+CUST08727,22,Female,High,Sunglasses,Ray-Ban,1472.53,1,1455,0.66,3874.17,Medium
+CUST04240,65,Male,High,Sunglasses,Oakley,1001.37,5,1585,0.84,18263.34,High
+CUST07800,44,Male,High,Optical Glasses,Oakley,1001.81,5,1745,0.58,13889.48,High
+CUST08319,56,Male,Medium,Optical Glasses,Persol,1359.8,3,581,0.63,4090.91,Medium
+CUST05049,22,Male,Low,Sunglasses,Vogue Eyewear,1047.8,3,1707,0.71,10437.55,High
+CUST00452,39,Male,High,Sunglasses,Vogue Eyewear,1218.67,5,1210,0.9,18179.89,High
+CUST05526,38,Male,Medium,Sunglasses,Ray-Ban,1320.31,4,1969,0.77,21937.11,High
+CUST00923,33,Female,Low,Optical Glasses,Oliver Peoples,1244.18,3,194,0.61,1210.16,Low
+CUST08295,24,Male,Low,Sunglasses,Persol,1034.29,2,1236,0.51,3572.47,Low
+CUST04211,55,Female,Medium,Optical Glasses,Vogue Eyewear,1273.63,3,1530,0.67,10730.94,High
+CUST00456,23,Female,Medium,Optical Glasses,Oakley,1022.75,2,1574,0.75,6615.65,Medium
+CUST05779,57,Male,High,Sunglasses,Ray-Ban,1307.5,1,1417,0.86,4365.33,Medium
+CUST03170,65,Male,Medium,Optical Glasses,Persol,1318.4,2,1187,0.91,7803.27,Medium
+CUST09073,39,Male,Medium,Optical Glasses,Vogue Eyewear,1132.6,3,1798,1.0,16737.66,High
+CUST06882,58,Female,Medium,Optical Glasses,Oakley,1351.67,4,396,0.9,5279.29,Medium
+CUST04047,25,Female,Low,Optical Glasses,Vogue Eyewear,1058.57,4,36,0.67,279.81,Low
+CUST06658,29,Male,Low,Sunglasses,Persol,1003.66,1,1828,0.61,3066.2,Low
+CUST03792,19,Female,High,Optical Glasses,Ray-Ban,1160.09,3,1050,0.83,8309.74,Medium
+CUST00240,43,Female,Low,Sunglasses,Persol,1161.73,1,568,0.91,1645.14,Low
+CUST02768,46,Female,Low,Optical Glasses,Oakley,1060.84,4,1266,0.94,13834.98,High
+CUST01510,55,Male,Medium,Sunglasses,Oliver Peoples,932.04,4,1892,0.97,18745.39,High
+CUST00691,46,Female,Medium,Optical Glasses,Oakley,1061.31,4,1146,0.96,12795.73,High
+CUST09750,40,Male,High,Sunglasses,Vogue Eyewear,1193.66,3,1252,0.73,8966.77,High
+CUST06363,33,Female,Low,Optical Glasses,Oakley,1115.38,2,779,0.75,3570.74,Low
+CUST07928,44,Male,Medium,Optical Glasses,Persol,1049.86,1,1580,0.82,3726.57,Medium
+CUST01586,68,Female,Medium,Sunglasses,Ray-Ban,1032.43,3,1271,0.85,9167.55,High
+CUST06177,43,Male,Low,Optical Glasses,Ray-Ban,1269.6,3,1932,0.91,18346.1,High
+CUST05236,64,Male,Medium,Sunglasses,Vogue Eyewear,1253.4,1,1153,0.88,3484.25,Low
+CUST07474,25,Male,Low,Sunglasses,Ray-Ban,1601.07,4,231,0.97,3931.53,Medium
+CUST08071,26,Female,High,Sunglasses,Vogue Eyewear,1368.13,5,1669,0.88,27526.03,High
+CUST00719,30,Male,High,Optical Glasses,Oliver Peoples,1399.76,2,741,0.53,3012.21,Low
+CUST08764,39,Female,High,Sunglasses,Vogue Eyewear,1216.84,1,1824,0.83,5047.12,Medium
+CUST00023,55,Male,Low,Sunglasses,Ray-Ban,1186.3,2,561,0.58,2115.06,Low
+CUST05298,31,Male,Medium,Optical Glasses,Ray-Ban,1241.76,3,412,0.63,2649.13,Low
+CUST06250,59,Male,Medium,Optical Glasses,Vogue Eyewear,997.41,2,1551,0.94,7968.02,Medium
+CUST01449,22,Male,Medium,Optical Glasses,Oliver Peoples,1315.15,1,1065,0.87,3338.5,Low
+CUST00176,68,Female,Low,Optical Glasses,Oliver Peoples,1130.88,3,1013,0.5,4707.87,Medium
+CUST01493,46,Female,Low,Optical Glasses,Ray-Ban,1084.21,2,996,0.63,3727.78,Medium
+CUST06472,22,Male,Low,Optical Glasses,Oakley,1296.73,5,621,0.64,7059.9,Medium
+CUST00667,22,Male,Medium,Optical Glasses,Persol,1459.69,3,1451,0.88,15319.31,High
+CUST05801,20,Female,Low,Optical Glasses,Ray-Ban,1167.66,2,1143,0.8,5850.46,Medium
+CUST06260,56,Female,High,Sunglasses,Oliver Peoples,1215.27,5,63,0.52,545.37,Low
+CUST05326,66,Female,High,Optical Glasses,Oakley,1041.59,4,907,0.68,7040.12,Medium
+CUST00709,36,Male,Medium,Sunglasses,Vogue Eyewear,1236.49,4,1161,0.9,14159.0,High
+CUST00518,66,Male,Medium,Optical Glasses,Ray-Ban,1400.24,5,881,0.73,12336.11,High
+CUST03115,38,Male,High,Optical Glasses,Vogue Eyewear,1142.71,1,1979,0.74,4584.8,Medium
+CUST09113,18,Female,Medium,Optical Glasses,Ray-Ban,1145.99,1,96,0.52,156.73,Low
+CUST08410,56,Male,High,Optical Glasses,Oakley,1002.33,5,596,0.89,7283.23,Medium
+CUST03175,64,Female,Medium,Sunglasses,Oliver Peoples,1153.71,5,1521,0.99,23797.88,High
+CUST07713,47,Female,Medium,Sunglasses,Ray-Ban,1110.63,4,1092,0.83,11031.57,High
+CUST06969,47,Female,High,Optical Glasses,Oakley,1320.71,5,380,0.83,5706.19,Medium
+CUST06222,21,Male,Low,Sunglasses,Persol,1101.79,2,1424,0.84,7221.46,Medium
+CUST03192,23,Female,High,Optical Glasses,Oakley,1017.6,2,1166,0.75,4876.12,Medium
+CUST07878,62,Male,Low,Optical Glasses,Ray-Ban,1307.06,1,591,0.84,1777.74,Low
+CUST08586,62,Female,Medium,Optical Glasses,Oliver Peoples,998.58,5,231,0.55,1737.94,Low
+CUST00332,33,Female,Medium,Optical Glasses,Vogue Eyewear,1311.29,3,90,0.61,591.7,Low
+CUST08431,40,Male,Low,Optical Glasses,Ray-Ban,1315.52,1,661,0.57,1357.94,Low
+CUST01821,49,Female,Low,Optical Glasses,Oakley,1225.32,3,338,0.65,2212.63,Low
+CUST06929,63,Male,Low,Sunglasses,Oakley,1403.54,1,387,0.8,1190.51,Low
+CUST04857,31,Male,Medium,Sunglasses,Vogue Eyewear,1481.83,5,1175,0.59,14072.31,High
+CUST04905,41,Female,Medium,Optical Glasses,Vogue Eyewear,1251.41,1,1621,0.89,4946.29,Medium
+CUST07872,42,Female,Medium,Optical Glasses,Oliver Peoples,1185.49,4,663,0.58,4995.82,Medium
+CUST02160,21,Female,High,Sunglasses,Oliver Peoples,1353.44,1,1247,0.68,3144.28,Low
+CUST00614,66,Male,High,Optical Glasses,Vogue Eyewear,879.9,3,1957,0.89,12596.29,High
+CUST04855,25,Male,High,Optical Glasses,Ray-Ban,922.16,4,1752,0.77,13633.21,High
+CUST00952,29,Female,Medium,Optical Glasses,Vogue Eyewear,1559.97,5,1898,0.75,30419.42,High
+CUST04074,38,Male,Medium,Sunglasses,Persol,1173.15,2,461,0.81,2400.36,Low
+CUST03497,65,Female,Low,Optical Glasses,Vogue Eyewear,1368.09,3,1302,0.52,7613.03,Medium
+CUST04591,51,Female,Medium,Optical Glasses,Persol,907.78,5,56,0.63,438.72,Low
+CUST01596,27,Female,Low,Optical Glasses,Ray-Ban,1214.6,5,1109,0.81,14946.07,High
+CUST02835,18,Female,Low,Sunglasses,Oliver Peoples,1112.35,1,1676,0.79,4035.06,Medium
+CUST02611,40,Female,Low,Optical Glasses,Oliver Peoples,1385.91,3,696,0.63,4994.74,Medium
+CUST04590,44,Female,Medium,Sunglasses,Vogue Eyewear,1180.32,2,108,0.58,405.12,Low
+CUST08770,46,Male,High,Optical Glasses,Oliver Peoples,966.3,2,862,0.97,4427.19,Medium
+CUST00107,18,Female,Medium,Optical Glasses,Persol,1126.55,4,1994,0.71,17478.38,High
+CUST03759,25,Male,Medium,Sunglasses,Oliver Peoples,1272.12,1,1501,0.99,5179.06,Medium
+CUST08578,20,Female,Low,Sunglasses,Persol,1304.56,5,1823,0.98,31926.69,High
+CUST01644,47,Female,Medium,Sunglasses,Persol,1144.07,5,1917,0.52,15622.67,High
+CUST02996,38,Female,Medium,Sunglasses,Ray-Ban,1016.84,1,1855,0.56,2893.95,Low
+CUST00886,51,Female,High,Optical Glasses,Oakley,1533.44,2,1360,0.96,10970.19,High
+CUST01349,39,Female,Medium,Optical Glasses,Ray-Ban,1126.32,2,1404,0.71,6152.11,Medium
+CUST08609,19,Female,High,Sunglasses,Oliver Peoples,1145.89,5,1141,0.7,12537.29,High
+CUST01273,65,Female,Medium,Sunglasses,Oakley,871.11,4,1201,0.95,10891.98,High
+CUST03735,30,Female,High,Optical Glasses,Ray-Ban,1213.15,1,943,0.64,2005.92,Low
+CUST01695,66,Male,Medium,Sunglasses,Persol,1175.2,1,206,0.7,464.28,Low
+CUST03708,55,Male,Low,Optical Glasses,Oliver Peoples,1307.77,3,1683,0.85,15376.69,High
+CUST02424,51,Male,High,Optical Glasses,Vogue Eyewear,1057.23,3,1940,0.6,10114.65,High
+CUST00703,42,Female,Low,Sunglasses,Persol,891.67,4,1935,0.88,16639.3,High
+CUST07124,43,Male,Medium,Sunglasses,Oliver Peoples,1155.27,2,617,0.61,2382.51,Low
+CUST05794,42,Male,Medium,Optical Glasses,Ray-Ban,1407.94,2,514,0.82,3251.61,Low
+CUST03777,53,Male,Medium,Optical Glasses,Vogue Eyewear,718.32,2,40,0.74,116.51,Low
+CUST03148,55,Female,Medium,Optical Glasses,Oakley,927.34,5,44,0.74,413.62,Low
+CUST02326,35,Female,Medium,Optical Glasses,Persol,1265.31,1,1568,0.99,5381.28,Medium
+CUST00989,31,Female,Medium,Sunglasses,Oliver Peoples,1222.8,1,711,0.79,1881.74,Low
+CUST02528,35,Female,Medium,Optical Glasses,Oliver Peoples,1113.96,3,473,0.6,2598.43,Low
+CUST03002,29,Male,High,Sunglasses,Ray-Ban,1434.24,3,1672,0.87,17147.69,High
+CUST08016,65,Male,Medium,Sunglasses,Persol,1054.86,1,662,0.77,1473.16,Low
+CUST04914,19,Female,Medium,Optical Glasses,Vogue Eyewear,1311.55,3,1797,0.65,12591.42,High
+CUST03588,53,Male,Medium,Optical Glasses,Persol,1128.62,3,620,0.56,3220.74,Low
+CUST08030,37,Female,High,Sunglasses,Persol,1024.8,1,1943,0.93,5073.43,Medium
+CUST05339,20,Female,Low,Sunglasses,Ray-Ban,1218.35,1,1816,0.63,3818.88,Medium
+CUST06106,28,Male,High,Sunglasses,Oliver Peoples,1175.99,5,843,0.73,9913.6,High
+CUST03295,50,Male,Medium,Optical Glasses,Ray-Ban,965.65,3,981,0.54,4204.47,Medium
+CUST04323,38,Female,Medium,Optical Glasses,Persol,1191.63,4,307,0.94,3768.55,Medium
+CUST04831,18,Male,High,Optical Glasses,Oliver Peoples,1230.09,2,1652,0.93,10355.4,High
+CUST09063,32,Female,Medium,Optical Glasses,Oakley,1474.48,4,1952,0.71,22394.64,High
+CUST07554,51,Female,High,Sunglasses,Oakley,1484.02,5,592,0.81,9748.18,High
+CUST07794,44,Male,Medium,Optical Glasses,Ray-Ban,1021.57,4,1926,0.99,21346.5,High
+CUST01566,26,Male,Low,Optical Glasses,Persol,1101.07,2,408,0.56,1378.48,Low
+CUST08081,28,Male,Medium,Sunglasses,Persol,1267.0,2,432,0.6,1799.49,Low
+CUST02708,47,Female,Medium,Optical Glasses,Vogue Eyewear,1036.97,5,1200,0.98,16705.16,High
+CUST04862,68,Male,Medium,Optical Glasses,Persol,1190.63,2,290,0.84,1589.25,Low
+CUST04072,27,Male,Low,Sunglasses,Ray-Ban,1048.56,4,1690,0.62,12040.34,High
+CUST00645,45,Male,Low,Optical Glasses,Persol,1164.57,5,282,0.52,2339.35,Low
+CUST04247,46,Female,Low,Optical Glasses,Vogue Eyewear,1144.39,3,1014,0.93,8869.99,High
+CUST06818,55,Female,Medium,Optical Glasses,Oliver Peoples,1111.55,2,1199,0.85,6207.32,Medium
+CUST04718,45,Female,High,Optical Glasses,Persol,1135.96,1,1856,1.0,5776.28,Medium
+CUST02856,69,Female,Medium,Sunglasses,Oliver Peoples,1042.13,2,1523,0.54,4696.27,Medium
+CUST09626,63,Male,Medium,Optical Glasses,Ray-Ban,1049.81,4,889,0.67,6852.58,Medium
+CUST04300,26,Male,Medium,Optical Glasses,Oliver Peoples,1161.59,5,1640,0.99,25835.03,High
+CUST00133,52,Female,Low,Sunglasses,Ray-Ban,1249.39,3,853,0.88,7708.29,Medium
+CUST05965,69,Male,Medium,Optical Glasses,Oliver Peoples,1212.21,5,309,0.65,3335.24,Low
+CUST00218,66,Male,Medium,Sunglasses,Oliver Peoples,1424.0,3,1658,0.89,17270.82,High
+CUST05060,35,Female,Medium,Optical Glasses,Ray-Ban,1059.02,3,1339,0.57,6643.36,Medium
+CUST05062,65,Female,Low,Sunglasses,Oakley,1280.79,1,816,0.99,2834.72,Low
+CUST02761,48,Male,Low,Optical Glasses,Vogue Eyewear,1126.2,4,1331,0.71,11663.24,High
+CUST08997,26,Female,High,Optical Glasses,Vogue Eyewear,932.19,4,1997,0.52,10608.48,High
+CUST00685,59,Female,Low,Optical Glasses,Vogue Eyewear,1023.23,3,1856,0.5,7804.58,Medium
+CUST06448,30,Female,Medium,Sunglasses,Ray-Ban,1339.38,4,804,0.98,11565.2,High
+CUST08654,45,Female,Low,Optical Glasses,Ray-Ban,873.84,4,207,0.65,1288.5,Low
+CUST01323,34,Male,Medium,Sunglasses,Persol,1121.04,1,827,0.76,1930.4,Low
+CUST05309,47,Female,High,Sunglasses,Persol,1166.45,3,718,0.94,6470.63,Medium
+CUST06909,36,Male,Medium,Optical Glasses,Ray-Ban,1408.78,3,1255,0.83,12061.28,High
+CUST08652,26,Female,Medium,Optical Glasses,Vogue Eyewear,1096.3,3,1560,0.95,13353.84,High
+CUST00400,48,Female,Medium,Optical Glasses,Oakley,1259.45,1,1941,0.72,4822.21,Medium
+CUST08440,57,Female,Low,Optical Glasses,Oakley,1181.72,3,1800,0.57,9965.3,High
+CUST08556,40,Female,High,Optical Glasses,Ray-Ban,1106.02,4,851,0.99,10211.63,High
+CUST08093,63,Male,Medium,Optical Glasses,Oliver Peoples,1428.17,3,1091,0.89,11397.85,High
+CUST07966,33,Male,Medium,Optical Glasses,Vogue Eyewear,1413.52,1,1903,0.79,5822.04,Medium
+CUST02597,61,Female,Medium,Sunglasses,Ray-Ban,1257.9,3,1688,0.94,16404.95,High
+CUST03827,43,Male,Medium,Optical Glasses,Oliver Peoples,1360.98,5,1135,0.76,16081.94,High
+CUST05224,45,Male,High,Optical Glasses,Vogue Eyewear,1156.69,2,1120,0.55,3904.22,Medium
+CUST06568,58,Female,High,Optical Glasses,Persol,1147.5,2,1890,0.8,9506.96,High
+CUST07517,52,Male,Medium,Optical Glasses,Vogue Eyewear,1233.34,3,828,0.6,5036.08,Medium
+CUST00009,36,Female,Low,Optical Glasses,Persol,1194.54,5,1859,0.53,16122.53,High
+CUST07547,49,Male,Medium,Sunglasses,Ray-Ban,1197.56,5,1473,0.69,16673.48,High
+CUST07147,30,Female,Low,Sunglasses,Oliver Peoples,1323.78,2,1827,0.99,13119.78,High
+CUST05708,21,Female,Low,Sunglasses,Oliver Peoples,1141.15,1,806,0.59,1486.75,Low
+CUST03926,23,Female,Medium,Sunglasses,Ray-Ban,1194.18,2,1694,0.69,7648.38,Medium
+CUST02420,43,Male,Medium,Optical Glasses,Vogue Eyewear,1122.79,3,1834,0.68,11508.94,High
+CUST06944,35,Male,High,Optical Glasses,Oakley,1077.45,5,575,0.52,4413.12,Medium
+CUST06680,31,Male,Medium,Optical Glasses,Persol,1159.8,5,525,0.58,4837.8,Medium
+CUST01513,59,Female,Medium,Sunglasses,Persol,1276.5,5,1190,0.77,16022.7,High
+CUST07487,52,Female,High,Optical Glasses,Oakley,1095.94,5,41,0.73,449.34,Low
+CUST02136,23,Male,Medium,Sunglasses,Persol,905.06,2,225,0.73,814.55,Low
+CUST09999,64,Female,High,Optical Glasses,Oliver Peoples,1175.29,5,1832,0.58,17107.07,High
+CUST08925,47,Male,Medium,Optical Glasses,Ray-Ban,1049.4,3,1208,0.76,7918.63,Medium
+CUST05188,64,Female,Medium,Optical Glasses,Ray-Ban,1183.38,4,1044,0.82,11102.11,High
+CUST04717,21,Male,Medium,Sunglasses,Ray-Ban,1327.55,5,1063,0.71,13725.23,High
+CUST08043,23,Female,Medium,Sunglasses,Oliver Peoples,1285.08,1,1533,0.82,4425.82,Medium
+CUST06155,23,Male,Low,Optical Glasses,Ray-Ban,1208.27,1,1859,0.6,3692.34,Medium
+CUST03709,66,Male,Low,Optical Glasses,Oliver Peoples,1365.22,1,710,0.93,2469.74,Low
+CUST06290,34,Male,Low,Optical Glasses,Oliver Peoples,1036.6,4,586,0.95,6324.11,Medium
+CUST07148,67,Male,Medium,Optical Glasses,Ray-Ban,1590.44,1,199,0.51,442.23,Low
+CUST04261,61,Female,Medium,Optical Glasses,Oliver Peoples,1552.47,5,762,0.6,9723.14,High
+CUST08029,37,Male,Medium,Optical Glasses,Vogue Eyewear,1064.69,1,1485,0.53,2295.79,Low
+CUST02556,42,Male,Medium,Sunglasses,Persol,1228.45,5,551,0.54,5007.03,Medium
+CUST03819,34,Female,Low,Optical Glasses,Ray-Ban,967.35,2,1561,0.77,6371.1,Medium
+CUST07773,29,Female,Low,Sunglasses,Oliver Peoples,1162.94,4,1720,0.97,21263.0,High
+CUST00759,33,Male,Medium,Optical Glasses,Persol,1306.49,1,856,0.64,1960.95,Low
+CUST09526,26,Female,Medium,Optical Glasses,Ray-Ban,1156.48,1,246,0.73,568.99,Low
+CUST04792,23,Male,Low,Sunglasses,Persol,1088.99,5,549,0.91,7452.72,Medium
+CUST06348,27,Male,Low,Sunglasses,Oliver Peoples,1445.53,4,1258,0.74,14747.1,High
+CUST02039,50,Female,Medium,Optical Glasses,Vogue Eyewear,1276.22,2,635,0.85,3774.46,Medium
+CUST01154,52,Male,Medium,Sunglasses,Persol,1223.56,2,641,0.84,3609.94,Medium
+CUST08693,26,Male,Low,Optical Glasses,Oliver Peoples,979.25,5,822,0.51,5623.58,Medium
+CUST05968,43,Female,Low,Optical Glasses,Oakley,1287.76,3,353,0.73,2727.48,Low
+CUST05001,18,Male,High,Optical Glasses,Oakley,1205.31,1,752,0.99,2458.44,Low
+CUST01201,50,Male,Medium,Sunglasses,Vogue Eyewear,1127.99,3,1595,0.76,11238.49,High
+CUST02070,30,Male,High,Sunglasses,Oliver Peoples,1177.89,5,1205,0.51,9916.06,High
+CUST02617,51,Male,Medium,Optical Glasses,Vogue Eyewear,1262.67,4,825,0.96,10959.28,High
+CUST00997,64,Female,Low,Sunglasses,Ray-Ban,1066.75,2,555,0.53,1719.37,Low
+CUST01754,66,Female,Medium,Sunglasses,Oakley,957.82,4,1201,0.99,12480.42,High
+CUST05175,58,Male,Medium,Sunglasses,Oakley,1473.3,5,934,0.55,10367.59,High
+CUST09532,51,Male,Low,Optical Glasses,Vogue Eyewear,1273.81,4,501,0.58,4056.37,Medium
+CUST07917,46,Female,Medium,Optical Glasses,Persol,1290.43,5,1833,0.75,24301.63,High
+CUST08980,52,Male,Medium,Sunglasses,Oliver Peoples,1055.64,1,204,0.67,395.3,Low
+CUST01128,41,Female,Low,Sunglasses,Oakley,985.95,4,1073,0.69,7999.65,Medium
+CUST02836,30,Male,Low,Optical Glasses,Oakley,1177.88,4,1314,0.62,10516.11,High
+CUST07882,50,Female,Low,Sunglasses,Oakley,1380.02,1,633,0.98,2345.43,Low
+CUST03664,24,Female,High,Sunglasses,Oakley,1070.59,3,403,0.97,3439.76,Low
+CUST06609,32,Female,Medium,Sunglasses,Oliver Peoples,1115.27,3,66,0.82,496.1,Low
+CUST00540,48,Male,Medium,Optical Glasses,Vogue Eyewear,1124.56,3,1190,0.58,6379.49,Medium
+CUST04163,36,Female,Medium,Optical Glasses,Vogue Eyewear,1105.5,4,1064,0.9,11601.39,High
+CUST06134,59,Male,Medium,Sunglasses,Vogue Eyewear,956.35,1,1183,0.66,2045.75,Low
+CUST02780,19,Male,Medium,Optical Glasses,Oliver Peoples,1528.52,2,709,0.7,4156.74,Medium
+CUST05909,29,Female,Low,Optical Glasses,Vogue Eyewear,1255.62,5,1707,0.59,17322.91,High
+CUST06433,42,Male,Medium,Optical Glasses,Ray-Ban,1076.19,1,783,0.65,1500.62,Low
+CUST08993,35,Male,Medium,Sunglasses,Vogue Eyewear,1326.98,4,1327,0.65,12543.41,High
+CUST01379,66,Male,Medium,Sunglasses,Persol,1331.14,2,1275,0.91,8462.77,Medium
+CUST09797,66,Female,High,Optical Glasses,Vogue Eyewear,1412.8,2,1966,0.68,10349.28,High
+CUST01946,56,Male,High,Sunglasses,Ray-Ban,1114.63,3,809,0.58,4298.69,Medium
+CUST01430,31,Female,High,Sunglasses,Persol,1407.8,1,1275,0.86,4229.19,Medium
+CUST01689,49,Female,Medium,Optical Glasses,Vogue Eyewear,1312.69,3,1128,0.78,9492.8,High
+CUST02475,30,Male,High,Sunglasses,Vogue Eyewear,1202.66,3,1421,0.78,10956.2,High
+CUST02197,59,Female,Low,Sunglasses,Vogue Eyewear,1315.24,1,577,0.91,1892.04,Low
+CUST08835,41,Male,Low,Optical Glasses,Oakley,1124.03,5,1496,1.0,23034.92,High
+CUST02620,69,Male,Low,Optical Glasses,Ray-Ban,1142.68,3,900,0.78,6593.11,Medium
+CUST09789,27,Female,Low,Optical Glasses,Oakley,1303.15,2,1801,0.78,10030.9,High
+CUST03439,47,Male,High,Optical Glasses,Oliver Peoples,1103.5,2,1341,0.97,7865.2,Medium
+CUST05554,66,Male,Medium,Sunglasses,Oliver Peoples,1315.73,3,48,0.98,508.7,Low
+CUST09811,65,Female,Medium,Optical Glasses,Oliver Peoples,1253.47,3,471,0.7,3396.73,Low
+CUST08861,25,Male,High,Sunglasses,Oakley,914.07,4,410,0.74,3039.22,Low
+CUST03595,42,Female,High,Optical Glasses,Oakley,1171.81,4,528,0.91,6170.21,Medium
+CUST00808,35,Male,Medium,Sunglasses,Oakley,1297.41,4,1735,0.96,23681.82,High
+CUST04001,28,Male,Medium,Optical Glasses,Ray-Ban,1260.14,4,741,0.63,6446.81,Medium
+CUST00974,66,Male,High,Optical Glasses,Oakley,1298.88,4,935,0.94,12510.53,High
+CUST04506,28,Male,Medium,Optical Glasses,Vogue Eyewear,905.57,4,858,0.55,4683.16,Medium
+CUST08336,50,Male,High,Sunglasses,Oakley,1147.44,1,588,0.55,1016.66,Low
+CUST01560,69,Male,Medium,Optical Glasses,Oakley,1052.5,2,981,0.87,4922.07,Medium
+CUST04826,23,Female,High,Optical Glasses,Persol,1239.57,5,295,0.95,4758.76,Medium
+CUST02561,35,Female,Medium,Sunglasses,Persol,1264.65,5,1597,0.57,15769.84,High
+CUST02112,43,Male,Medium,Optical Glasses,Ray-Ban,1416.74,2,327,0.95,2411.56,Low
+CUST06934,21,Female,Medium,Optical Glasses,Ray-Ban,1184.6,2,564,0.7,2562.63,Low
+CUST08766,27,Male,Medium,Optical Glasses,Ray-Ban,1118.95,2,1919,0.91,10706.91,High
+CUST02142,58,Male,High,Optical Glasses,Ray-Ban,1190.36,2,1737,0.89,10083.36,High
+CUST02899,61,Male,Low,Optical Glasses,Ray-Ban,1384.64,4,691,0.57,5976.64,Medium
+CUST04726,30,Male,Low,Optical Glasses,Vogue Eyewear,1383.78,5,1462,0.96,26604.97,High
+CUST01682,59,Female,Medium,Optical Glasses,Oliver Peoples,900.01,3,358,0.71,1880.26,Low
+CUST00526,43,Male,Medium,Optical Glasses,Oliver Peoples,996.27,3,1072,0.81,7110.26,Medium
+CUST02435,63,Male,High,Optical Glasses,Vogue Eyewear,947.6,2,1507,0.72,5633.88,Medium
+CUST00292,65,Male,Medium,Sunglasses,Ray-Ban,1169.73,3,1456,0.77,10778.69,High
+CUST02396,49,Female,Low,Sunglasses,Vogue Eyewear,1218.46,1,1760,0.72,4230.23,Medium
+CUST05037,37,Female,Medium,Optical Glasses,Oakley,1031.99,5,947,0.83,11111.7,High
+CUST00039,61,Female,Medium,Optical Glasses,Oliver Peoples,1301.31,3,139,0.59,877.15,Low
+CUST07870,28,Male,Medium,Sunglasses,Oliver Peoples,1252.36,1,651,0.97,2166.65,Low
+CUST00283,67,Female,Low,Optical Glasses,Oakley,914.93,4,540,0.9,4872.94,Medium
+CUST06125,29,Male,Medium,Optical Glasses,Vogue Eyewear,1453.42,2,1200,0.95,9078.9,High
+CUST02094,48,Male,High,Sunglasses,Oakley,1180.21,4,1498,0.98,18987.35,High
+CUST08820,58,Male,Low,Optical Glasses,Oakley,1390.57,4,853,0.5,6499.49,Medium
+CUST06328,47,Female,Low,Sunglasses,Oliver Peoples,1275.54,4,920,0.72,9259.37,High
+CUST05196,65,Male,Low,Optical Glasses,Ray-Ban,1391.81,5,1236,0.67,15788.85,High
+CUST09815,23,Female,Low,Optical Glasses,Oliver Peoples,1110.14,5,1288,0.71,13906.86,High
+CUST09675,20,Female,Medium,Optical Glasses,Oliver Peoples,1295.79,4,545,0.73,5649.64,Medium
+CUST01563,62,Male,Medium,Sunglasses,Persol,1571.83,3,525,0.98,6646.9,Medium
+CUST08944,22,Male,High,Sunglasses,Oakley,1109.27,3,1697,0.88,13615.39,High
+CUST03985,56,Female,Medium,Optical Glasses,Persol,1122.39,5,927,0.84,11972.37,High
+CUST02689,52,Male,Medium,Optical Glasses,Persol,1237.62,3,1257,0.77,9845.59,High
+CUST06421,64,Female,Medium,Optical Glasses,Persol,1264.04,2,442,0.68,2081.75,Low
+CUST04084,52,Female,Medium,Optical Glasses,Vogue Eyewear,1123.63,4,1637,0.57,11489.84,High
+CUST04456,66,Female,Medium,Sunglasses,Persol,1231.66,4,1373,0.58,10748.71,High
+CUST02569,41,Female,Medium,Optical Glasses,Vogue Eyewear,1199.15,2,1506,0.94,9301.72,High
+CUST05729,65,Male,Medium,Sunglasses,Oakley,1245.32,5,378,0.67,4320.41,Medium
+CUST08489,31,Female,High,Optical Glasses,Oakley,1061.37,5,1056,0.94,14432.31,High
+CUST04601,37,Male,Medium,Optical Glasses,Ray-Ban,1210.98,5,1532,0.94,23889.15,High
+CUST08429,21,Male,Medium,Optical Glasses,Oakley,1248.69,3,864,0.63,5586.47,Medium
+CUST05183,20,Female,Low,Optical Glasses,Ray-Ban,1297.19,2,1130,0.6,4819.15,Medium
+CUST09371,58,Male,Medium,Sunglasses,Oliver Peoples,1209.8,2,692,0.72,3302.85,Low
+CUST08478,54,Female,Medium,Sunglasses,Ray-Ban,1175.47,3,752,0.89,6466.18,Medium
+CUST07129,65,Female,Low,Sunglasses,Persol,1146.67,5,1851,0.84,24423.13,High
+CUST06088,69,Female,Medium,Sunglasses,Persol,1272.41,5,1889,0.57,18767.7,High
+CUST00514,31,Female,High,Sunglasses,Persol,1185.79,5,200,0.68,2209.14,Low
+CUST02945,57,Male,High,Sunglasses,Persol,1297.29,1,378,0.88,1182.28,Low
+CUST09508,23,Male,Low,Sunglasses,Oliver Peoples,1273.41,5,360,0.88,5526.25,Medium
+CUST02686,21,Male,Low,Optical Glasses,Vogue Eyewear,1094.16,4,1547,0.64,11871.85,High
+CUST05287,26,Female,Medium,Optical Glasses,Ray-Ban,1592.81,5,1161,0.95,24065.61,High
+CUST04097,42,Female,Medium,Sunglasses,Oliver Peoples,1420.75,5,541,0.7,7370.38,Medium
+CUST00981,43,Male,Low,Optical Glasses,Vogue Eyewear,1307.68,1,82,0.76,223.27,Low
+CUST02044,39,Female,Low,Sunglasses,Vogue Eyewear,1054.06,3,760,0.94,6189.21,Medium
+CUST07412,41,Male,Medium,Optical Glasses,Oliver Peoples,1075.1,4,1265,0.53,7899.19,Medium
+CUST08870,49,Male,Low,Optical Glasses,Oakley,1113.55,5,1380,0.65,13682.94,High
+CUST03773,19,Female,Medium,Sunglasses,Persol,1255.59,3,658,0.68,4617.54,Medium
+CUST06482,30,Female,Medium,Optical Glasses,Oakley,1262.29,1,1360,0.78,3668.6,Medium
+CUST05431,49,Male,Medium,Optical Glasses,Persol,1353.17,3,381,0.89,3771.34,Medium
+CUST04195,31,Female,High,Sunglasses,Vogue Eyewear,1096.17,3,1145,0.72,7427.53,Medium
+CUST01033,66,Female,Medium,Sunglasses,Vogue Eyewear,1223.3,4,376,0.66,3326.84,Low
+CUST03101,54,Female,High,Sunglasses,Persol,968.34,5,1320,0.58,10155.63,High
+CUST01656,61,Male,High,Optical Glasses,Oliver Peoples,1393.09,2,83,0.75,475.18,Low
+CUST08507,30,Female,Medium,Sunglasses,Oliver Peoples,1340.91,5,642,0.54,6368.04,Medium
+CUST07299,36,Male,High,Sunglasses,Vogue Eyewear,1535.59,2,1235,0.69,7170.15,Medium
+CUST01306,26,Female,High,Optical Glasses,Vogue Eyewear,1335.67,1,1978,0.94,6803.94,Medium
+CUST05413,19,Male,Medium,Sunglasses,Vogue Eyewear,1240.9,2,508,0.96,3315.96,Low
+CUST04237,36,Male,High,Sunglasses,Oliver Peoples,1256.1,3,1671,0.68,11731.08,High
+CUST07587,19,Female,Medium,Optical Glasses,Persol,1317.13,1,703,0.99,2511.46,Low
+CUST02562,20,Female,Low,Optical Glasses,Vogue Eyewear,1528.26,3,1650,0.94,19482.17,High
+CUST03837,38,Male,Medium,Optical Glasses,Vogue Eyewear,1144.75,2,1356,0.98,8335.54,Medium
+CUST02166,66,Male,Low,Optical Glasses,Vogue Eyewear,925.46,3,523,0.59,2347.14,Low
+CUST06075,44,Female,Medium,Optical Glasses,Vogue Eyewear,1353.31,3,1269,0.93,13127.14,High
+CUST06170,66,Male,Medium,Sunglasses,Persol,1128.64,1,301,0.79,735.29,Low
+CUST09642,56,Female,Low,Sunglasses,Ray-Ban,987.77,5,1659,0.64,14366.78,High
+CUST05731,34,Male,Medium,Sunglasses,Oakley,1310.58,1,666,0.72,1721.78,Low
+CUST07371,26,Male,Medium,Optical Glasses,Vogue Eyewear,1067.2,2,1772,0.79,8186.04,Medium
+CUST06822,68,Female,Low,Optical Glasses,Oakley,1114.72,2,1384,0.51,4311.31,Medium
+CUST07494,44,Female,Medium,Sunglasses,Oliver Peoples,1351.75,3,568,0.66,4165.02,Medium
+CUST04135,57,Male,Medium,Sunglasses,Vogue Eyewear,1360.17,3,1438,0.79,12700.11,High
+CUST02042,25,Female,Medium,Sunglasses,Vogue Eyewear,1182.49,4,918,0.99,11777.21,High
+CUST03689,23,Male,Medium,Optical Glasses,Vogue Eyewear,1192.08,5,428,0.96,6709.61,Medium
+CUST04528,35,Male,Medium,Sunglasses,Ray-Ban,1253.59,4,1073,0.54,7960.06,Medium
+CUST08600,36,Female,Medium,Sunglasses,Oliver Peoples,1250.61,5,1017,0.74,12892.93,High
+CUST09211,65,Female,Medium,Optical Glasses,Vogue Eyewear,1011.86,3,1320,0.65,7135.69,Medium
+CUST09025,32,Male,Medium,Optical Glasses,Persol,1227.98,4,731,0.85,8361.7,Medium
+CUST06330,45,Male,Medium,Optical Glasses,Vogue Eyewear,1305.85,1,1662,0.9,5351.48,Medium
+CUST01384,21,Female,Low,Sunglasses,Oliver Peoples,1202.7,3,1094,0.87,9408.54,High
+CUST04141,19,Male,High,Optical Glasses,Vogue Eyewear,1033.81,5,920,0.5,6514.42,Medium
+CUST00131,41,Male,High,Optical Glasses,Persol,1131.75,1,1089,0.54,1823.39,Low
+CUST08811,30,Male,Medium,Optical Glasses,Oakley,1347.82,2,1727,0.87,11096.36,High
+CUST01862,48,Male,Medium,Sunglasses,Persol,1197.27,3,577,0.55,3122.91,Low
+CUST02114,58,Male,Medium,Sunglasses,Oakley,1495.86,4,1323,0.82,17784.1,High
+CUST08164,34,Male,Low,Optical Glasses,Ray-Ban,1032.11,2,1853,0.62,6497.26,Medium
+CUST05938,54,Male,Low,Optical Glasses,Vogue Eyewear,1169.82,1,1794,0.53,3047.37,Low
+CUST01329,24,Female,Medium,Sunglasses,Persol,1216.22,2,184,0.57,698.94,Low
+CUST05225,28,Female,Low,Sunglasses,Oliver Peoples,1606.57,5,1125,0.89,22035.32,High
+CUST00003,46,Male,Medium,Optical Glasses,Ray-Ban,1284.68,3,497,0.78,4093.31,Medium
+CUST02085,66,Male,Low,Sunglasses,Oakley,1191.96,2,377,0.72,1772.85,Low
+CUST08961,69,Female,Medium,Sunglasses,Oliver Peoples,1059.4,2,735,0.71,3029.3,Low
+CUST01502,59,Female,Medium,Sunglasses,Vogue Eyewear,1004.61,4,1636,0.82,14769.36,High
+CUST07948,36,Female,High,Sunglasses,Vogue Eyewear,1214.03,3,476,0.72,3419.77,Low
+CUST09696,37,Female,Medium,Sunglasses,Ray-Ban,1360.13,3,903,0.74,7470.13,Medium
+CUST06806,52,Male,Low,Sunglasses,Ray-Ban,1072.87,2,636,1.0,3738.88,Medium
+CUST08461,66,Male,Medium,Optical Glasses,Persol,1389.69,2,1560,0.58,6889.82,Medium
+CUST03749,25,Male,High,Optical Glasses,Ray-Ban,1611.48,2,559,0.65,3208.39,Low
+CUST02137,35,Female,Medium,Optical Glasses,Oakley,1195.99,4,1513,0.62,12294.91,High
+CUST00471,47,Female,Low,Optical Glasses,Ray-Ban,1267.51,1,1230,0.93,3972.34,Medium
+CUST08232,30,Female,Low,Optical Glasses,Vogue Eyewear,967.98,2,415,1.0,2201.16,Low
+CUST01494,62,Male,High,Sunglasses,Oliver Peoples,1236.69,5,1111,0.6,11292.84,High
+CUST02419,46,Female,Medium,Sunglasses,Ray-Ban,1142.37,2,207,0.81,1049.54,Low
+CUST06476,54,Male,Medium,Optical Glasses,Vogue Eyewear,1076.38,1,654,0.83,1600.77,Low
+CUST08067,20,Male,Medium,Sunglasses,Oakley,1334.26,3,667,0.85,6217.47,Medium
+CUST05219,68,Male,Medium,Sunglasses,Oakley,1190.43,1,442,0.88,1268.57,Low
+CUST08697,52,Female,Medium,Optical Glasses,Vogue Eyewear,1416.84,4,691,0.71,7617.71,Medium
+CUST00334,53,Female,Medium,Optical Glasses,Oakley,1276.48,5,1661,0.69,20040.56,High
+CUST06065,41,Female,Low,Sunglasses,Ray-Ban,1199.57,2,1665,0.93,10177.94,High
+CUST01016,30,Female,High,Optical Glasses,Oakley,1085.06,4,1554,0.62,11456.81,High
+CUST07779,18,Female,Low,Sunglasses,Oakley,1071.48,3,125,0.86,946.72,Low
+CUST04752,26,Female,Low,Optical Glasses,Oliver Peoples,1199.27,4,808,0.68,7221.12,Medium
+CUST09894,61,Female,High,Sunglasses,Persol,1015.83,1,132,0.78,286.55,Low
+CUST01903,53,Male,Low,Sunglasses,Oliver Peoples,1034.47,1,1218,0.52,1795.05,Low
+CUST03461,69,Female,Medium,Optical Glasses,Oakley,1430.48,1,1737,0.61,4152.59,Medium
+CUST07759,63,Female,Medium,Optical Glasses,Vogue Eyewear,1372.79,3,145,0.77,1259.77,Low
+CUST03046,36,Female,High,Sunglasses,Ray-Ban,1206.77,3,305,0.83,2510.91,Low
+CUST04580,54,Male,Low,Sunglasses,Oakley,944.78,5,1250,0.97,15692.41,High
+CUST00448,39,Female,Low,Optical Glasses,Ray-Ban,1204.89,5,1127,0.59,10974.9,High
+CUST02601,25,Male,Low,Optical Glasses,Ray-Ban,1137.08,1,639,0.96,1911.04,Low
+CUST05928,49,Male,Low,Sunglasses,Persol,1216.94,2,380,0.63,1596.36,Low
+CUST07349,21,Male,Medium,Sunglasses,Oliver Peoples,1453.93,5,1529,0.92,28016.63,High
+CUST02738,33,Male,High,Optical Glasses,Ray-Ban,941.99,4,1216,0.89,11172.16,High
+CUST09096,45,Female,Medium,Optical Glasses,Oliver Peoples,1062.66,5,1377,0.97,19443.62,High
+CUST05707,39,Male,Medium,Optical Glasses,Vogue Eyewear,1077.09,3,1235,0.66,7215.91,Medium
+CUST05742,65,Male,Low,Optical Glasses,Persol,808.09,5,112,0.85,1053.84,Low
+CUST09106,58,Male,Medium,Sunglasses,Vogue Eyewear,1182.62,5,1449,0.5,11737.1,High
+CUST07772,54,Female,Medium,Optical Glasses,Vogue Eyewear,1157.76,4,777,0.62,6112.21,Medium
+CUST07137,35,Male,Medium,Optical Glasses,Ray-Ban,953.01,1,1940,0.81,4102.9,Medium
+CUST03584,64,Female,Medium,Optical Glasses,Persol,998.52,1,1915,0.72,3771.94,Medium
+CUST02714,69,Female,Medium,Optical Glasses,Persol,1402.73,2,1123,0.73,6301.06,Medium
+CUST02199,31,Female,Low,Optical Glasses,Vogue Eyewear,869.36,1,902,0.66,1417.94,Low
+CUST01554,50,Female,Low,Optical Glasses,Oliver Peoples,1349.29,5,1611,0.83,24714.74,High
+CUST01374,68,Male,High,Optical Glasses,Persol,1016.08,2,1591,0.91,8060.77,Medium
+CUST06186,31,Female,High,Sunglasses,Oliver Peoples,1135.68,1,1499,0.84,3917.82,Medium
+CUST00623,30,Male,Medium,Optical Glasses,Vogue Eyewear,1229.66,1,738,0.93,2312.23,Low
+CUST05558,42,Female,Medium,Sunglasses,Vogue Eyewear,1145.64,3,1653,0.68,10584.21,High
+CUST00765,33,Female,High,Optical Glasses,Vogue Eyewear,1252.62,5,1524,0.64,16736.38,High
+CUST09097,45,Male,Low,Sunglasses,Vogue Eyewear,1081.29,3,840,0.59,4404.55,Medium
+CUST04070,60,Female,High,Optical Glasses,Ray-Ban,980.09,3,1489,0.72,8636.18,Medium
+CUST01308,69,Female,Low,Sunglasses,Persol,993.73,1,1307,1.0,3558.37,Low
+CUST09892,60,Female,Low,Optical Glasses,Vogue Eyewear,943.18,4,1319,0.67,9134.43,High
+CUST00414,43,Female,High,Sunglasses,Oakley,964.56,1,80,0.52,109.93,Low
+CUST07404,28,Male,Low,Sunglasses,Oakley,1434.45,4,1284,0.64,12918.07,High
+CUST06439,33,Male,High,Optical Glasses,Oliver Peoples,1350.78,2,907,0.55,3692.26,Medium
+CUST00665,31,Female,High,Sunglasses,Oliver Peoples,1317.0,1,1994,0.76,5468.04,Medium
+CUST02506,26,Female,Medium,Optical Glasses,Persol,1028.6,3,1513,0.78,9977.19,High
+CUST01232,46,Male,Low,Sunglasses,Oliver Peoples,1042.63,5,1239,0.77,13626.03,High
+CUST08936,47,Male,Low,Sunglasses,Ray-Ban,1226.29,1,1563,0.92,4831.11,Medium
+CUST09127,39,Female,Low,Sunglasses,Oliver Peoples,1210.33,5,1926,0.65,20756.33,High
+CUST05993,33,Female,Medium,Optical Glasses,Vogue Eyewear,1165.58,5,1244,0.52,10328.64,High
+CUST05396,28,Female,Low,Optical Glasses,Ray-Ban,1197.82,3,403,0.92,3650.17,Medium
+CUST09989,41,Male,Medium,Optical Glasses,Oakley,1219.09,2,479,0.61,1951.81,Low
+CUST09544,35,Female,Low,Optical Glasses,Oakley,1113.65,3,207,0.84,1591.57,Low
+CUST06272,40,Male,Low,Optical Glasses,Oliver Peoples,1145.59,5,1467,0.83,19107.97,High
+CUST00335,50,Male,Low,Sunglasses,Oakley,1024.16,1,302,0.88,745.7,Low
+CUST02442,60,Female,Medium,Optical Glasses,Ray-Ban,1375.7,2,954,0.74,5321.58,Medium
+CUST08945,40,Male,Medium,Sunglasses,Vogue Eyewear,1303.97,1,1143,0.79,3225.88,Low
+CUST07908,65,Female,Medium,Optical Glasses,Oakley,1137.78,5,796,0.53,6575.43,Medium
+CUST01189,68,Female,Low,Optical Glasses,Oliver Peoples,1032.45,5,1963,0.73,20266.99,High
+CUST07169,45,Male,Low,Optical Glasses,Vogue Eyewear,1084.33,4,222,0.62,1635.59,Low
+CUST05893,40,Female,Medium,Optical Glasses,Persol,1375.08,4,784,0.68,8033.78,Medium
+CUST05079,59,Female,Medium,Optical Glasses,Vogue Eyewear,1213.23,5,853,0.69,9781.79,High
+CUST07306,51,Female,Medium,Sunglasses,Oakley,1003.23,2,138,0.99,751.02,Low
+CUST06201,52,Female,Medium,Optical Glasses,Persol,1186.63,1,1170,0.82,3119.05,Low
+CUST06648,22,Female,High,Sunglasses,Ray-Ban,967.7,1,661,0.98,1717.42,Low
+CUST04165,42,Male,Medium,Optical Glasses,Oakley,1475.44,3,809,0.78,7652.32,Medium
+CUST04290,24,Male,Medium,Optical Glasses,Ray-Ban,1219.11,5,1462,0.89,21729.88,High
+CUST02077,56,Male,Low,Sunglasses,Persol,974.31,3,734,0.82,4819.87,Medium
+CUST08910,48,Female,Low,Sunglasses,Oliver Peoples,1248.04,5,888,0.93,14118.92,High
+CUST04935,19,Male,Low,Sunglasses,Persol,1289.76,4,889,0.94,11811.52,High
+CUST03036,68,Female,Medium,Optical Glasses,Vogue Eyewear,1219.19,2,1558,0.67,6973.5,Medium
+CUST09067,46,Female,Medium,Optical Glasses,Oliver Peoples,974.46,2,1391,0.65,4827.72,Medium
+CUST01452,59,Female,High,Sunglasses,Ray-Ban,1500.24,3,516,0.5,3181.33,Low
+CUST07498,61,Male,Low,Optical Glasses,Oliver Peoples,998.03,4,518,0.86,4872.36,Medium
+CUST07301,51,Female,High,Sunglasses,Vogue Eyewear,1347.56,1,269,0.84,834.23,Low
+CUST03102,21,Female,Low,Optical Glasses,Persol,1225.52,5,672,0.72,8122.68,Medium
+CUST08248,25,Male,Low,Optical Glasses,Ray-Ban,1112.67,4,1754,0.74,15826.86,High
+CUST08767,68,Female,Low,Sunglasses,Oliver Peoples,1062.22,2,1804,0.86,9029.98,High
+CUST04483,22,Female,Medium,Optical Glasses,Ray-Ban,1350.39,5,1550,0.84,24085.04,High
+CUST07983,58,Male,Medium,Optical Glasses,Ray-Ban,1154.57,1,212,0.58,388.95,Low
+CUST06427,38,Female,Medium,Sunglasses,Oliver Peoples,1331.19,3,1017,0.57,6342.56,Medium
+CUST02682,20,Male,High,Optical Glasses,Ray-Ban,1219.51,4,366,0.95,4646.83,Medium
+CUST02308,67,Male,Medium,Optical Glasses,Ray-Ban,903.08,3,569,0.91,3843.34,Medium
+CUST03313,23,Male,High,Optical Glasses,Oakley,1004.5,3,625,0.58,2992.86,Low
+CUST09444,46,Male,High,Sunglasses,Oakley,1317.79,1,545,0.53,1042.86,Low
+CUST01484,62,Female,Low,Optical Glasses,Persol,1084.49,4,672,0.97,7747.0,Medium
+CUST07047,20,Male,Medium,Optical Glasses,Oliver Peoples,1293.72,5,364,0.72,4644.63,Medium
+CUST04131,36,Male,Low,Sunglasses,Vogue Eyewear,1547.73,4,368,0.8,4993.44,Medium
+CUST07591,51,Male,Low,Sunglasses,Vogue Eyewear,1380.3,2,580,0.61,2675.89,Low
+CUST03453,37,Female,Low,Sunglasses,Oakley,1116.02,5,1023,0.54,8445.37,Medium
+CUST07090,63,Male,Low,Optical Glasses,Oakley,1280.2,1,126,0.78,344.71,Low
+CUST00130,40,Male,Medium,Sunglasses,Vogue Eyewear,1219.27,5,1335,0.84,18729.99,High
+CUST00896,41,Male,High,Optical Glasses,Persol,1370.31,1,743,0.75,2092.07,Low
+CUST06575,37,Male,Medium,Optical Glasses,Vogue Eyewear,1279.55,2,739,0.83,4300.48,Medium
+CUST06431,46,Male,Low,Optical Glasses,Vogue Eyewear,1242.45,5,1184,0.93,18740.91,High
+CUST05640,65,Female,High,Optical Glasses,Persol,1274.17,1,1837,0.75,4809.56,Medium
+CUST00612,53,Female,High,Optical Glasses,Persol,1314.59,4,721,0.7,7270.94,Medium
+CUST00192,56,Female,Low,Sunglasses,Persol,1103.9,5,892,0.72,9711.9,High
+CUST08519,66,Female,Medium,Optical Glasses,Ray-Ban,1096.67,3,283,0.86,2193.76,Low
+CUST00492,18,Male,Low,Optical Glasses,Oliver Peoples,1188.89,4,300,0.75,2931.51,Low
+CUST09478,47,Female,Low,Optical Glasses,Ray-Ban,1102.02,3,1104,0.94,9399.72,High
+CUST01298,40,Male,Low,Optical Glasses,Ray-Ban,1439.86,1,1433,0.83,4691.93,Medium
+CUST05685,54,Female,High,Optical Glasses,Persol,1084.65,2,1179,0.74,5185.28,Medium
+CUST09083,55,Male,Medium,Optical Glasses,Oakley,1233.66,2,958,0.55,3561.73,Low
+CUST02968,49,Female,Medium,Optical Glasses,Vogue Eyewear,917.99,2,1714,0.53,4569.43,Medium
+CUST08918,50,Female,Medium,Sunglasses,Oliver Peoples,1123.18,4,1470,0.99,17913.03,High
+CUST04167,48,Female,High,Optical Glasses,Vogue Eyewear,1335.23,2,621,0.69,3134.97,Low
+CUST03073,27,Male,Low,Optical Glasses,Ray-Ban,1185.62,1,160,0.73,379.4,Low
+CUST06124,42,Male,Medium,Optical Glasses,Ray-Ban,1083.43,2,1760,0.86,8985.64,High
+CUST09351,29,Female,Low,Optical Glasses,Oliver Peoples,1077.01,2,209,0.97,1196.4,Low
+CUST03480,47,Male,Medium,Optical Glasses,Persol,1251.54,1,582,0.7,1396.92,Low
+CUST07640,40,Female,Low,Sunglasses,Persol,1384.12,4,453,0.83,5703.18,Medium
+CUST01668,66,Male,Low,Optical Glasses,Ray-Ban,1624.88,4,1535,1.0,27333.6,High
+CUST06865,32,Female,Low,Sunglasses,Ray-Ban,1524.62,1,1818,0.5,3796.93,Medium
+CUST03976,68,Male,High,Sunglasses,Oakley,1193.78,1,1428,0.89,4156.71,Medium
+CUST09723,67,Male,Medium,Sunglasses,Ray-Ban,1323.89,4,1263,0.84,15392.23,High
+CUST03240,45,Male,Medium,Optical Glasses,Vogue Eyewear,1335.84,4,556,0.69,5616.24,Medium
+CUST09416,39,Female,Medium,Optical Glasses,Oliver Peoples,993.22,1,1955,0.78,4149.48,Medium
+CUST08499,21,Female,Low,Sunglasses,Persol,1288.69,5,146,0.61,1572.2,Low
+CUST00686,26,Male,Low,Optical Glasses,Persol,1191.65,2,64,0.71,296.7,Low
+CUST01774,52,Male,Medium,Optical Glasses,Oliver Peoples,1192.92,5,1026,0.54,9053.77,High
+CUST00491,18,Female,Low,Optical Glasses,Ray-Ban,1259.14,5,1495,0.97,25012.9,High
+CUST05259,46,Male,Low,Optical Glasses,Oakley,1245.43,4,60,0.55,450.4,Low
+CUST06881,66,Female,Medium,Sunglasses,Ray-Ban,1485.33,2,1745,0.9,12781.98,High
+CUST09545,56,Male,Medium,Sunglasses,Ray-Ban,1115.39,4,683,0.96,8014.67,Medium
+CUST08044,30,Male,Medium,Sunglasses,Persol,965.33,1,1152,0.84,2559.26,Low
+CUST01764,37,Female,High,Sunglasses,Ray-Ban,1142.8,5,423,0.69,4569.16,Medium
+CUST04482,63,Female,Low,Optical Glasses,Oliver Peoples,1243.2,3,1282,0.96,12575.6,High
+CUST05752,56,Female,Low,Sunglasses,Oliver Peoples,1154.58,5,749,0.86,10187.82,High
+CUST08816,57,Male,Low,Optical Glasses,Oliver Peoples,1456.22,1,1474,0.73,4292.94,Medium
+CUST01886,23,Male,Medium,Optical Glasses,Oakley,1406.65,3,1782,0.57,11743.48,High
+CUST08247,51,Male,Low,Sunglasses,Oliver Peoples,1357.15,2,808,0.68,4085.88,Medium
+CUST09012,20,Male,Low,Sunglasses,Persol,1210.26,4,487,0.94,6071.59,Medium
+CUST06398,25,Female,High,Sunglasses,Oakley,981.59,3,1676,0.7,9465.22,High
+CUST02746,30,Male,Medium,Sunglasses,Oakley,1247.35,1,1970,1.0,6732.27,Medium
+CUST02076,55,Female,Medium,Optical Glasses,Oakley,1262.41,5,545,0.77,7257.13,Medium
+CUST08914,65,Male,Medium,Optical Glasses,Persol,1186.47,1,315,0.63,645.08,Low
+CUST00564,60,Female,High,Optical Glasses,Ray-Ban,1221.15,2,1544,0.77,7955.07,Medium
+CUST00764,49,Female,Low,Optical Glasses,Persol,1262.14,5,746,0.63,8125.76,Medium
+CUST03030,32,Male,High,Sunglasses,Persol,1175.02,4,137,0.92,1623.01,Low
+CUST04455,18,Female,Low,Sunglasses,Oakley,888.03,5,770,0.99,9273.22,High
+CUST09655,52,Male,High,Sunglasses,Persol,996.39,1,1343,0.69,2529.66,Low
+CUST06670,58,Male,Medium,Sunglasses,Oakley,990.49,1,1321,0.84,3011.2,Low
+CUST01553,22,Male,High,Sunglasses,Persol,1228.24,1,317,0.99,1056.05,Low
+CUST00718,62,Female,Medium,Optical Glasses,Oliver Peoples,1331.2,4,1618,0.96,22660.01,High
+CUST09239,53,Female,Medium,Optical Glasses,Persol,1251.3,3,1083,0.73,8130.95,Medium
+CUST00982,45,Male,Medium,Optical Glasses,Ray-Ban,1009.01,2,1023,0.62,3506.71,Low
+CUST03700,57,Female,Low,Optical Glasses,Oakley,1061.89,3,1080,0.9,8483.48,Medium
+CUST07187,33,Male,High,Sunglasses,Oliver Peoples,1150.77,5,1300,0.63,12910.69,High
+CUST05885,36,Male,High,Sunglasses,Persol,995.85,4,62,0.67,453.34,Low
+CUST00889,32,Male,Low,Sunglasses,Oliver Peoples,1045.67,2,796,0.8,3648.67,Medium
+CUST04272,36,Male,Low,Optical Glasses,Oliver Peoples,845.1,5,1170,0.85,11513.04,High
+CUST04727,40,Female,High,Optical Glasses,Vogue Eyewear,1260.77,2,1255,0.73,6329.07,Medium
+CUST08668,27,Female,Medium,Optical Glasses,Persol,1065.74,3,1790,0.88,13797.98,High
+CUST01769,35,Male,Medium,Sunglasses,Oakley,1023.14,5,1549,0.96,20841.78,High
+CUST03496,40,Female,Medium,Optical Glasses,Persol,1135.99,1,97,0.83,250.57,Low
+CUST02165,67,Male,Low,Sunglasses,Vogue Eyewear,1219.03,3,1877,0.61,11471.94,High
+CUST01963,45,Female,Medium,Sunglasses,Oliver Peoples,1156.26,1,1972,0.85,5309.93,Medium
+CUST00881,56,Female,Medium,Sunglasses,Oliver Peoples,1019.19,2,174,0.77,748.23,Low
+CUST00559,67,Male,Low,Sunglasses,Ray-Ban,1259.9,1,247,0.85,724.7,Low
+CUST07584,60,Female,Medium,Optical Glasses,Persol,1229.03,5,1142,0.81,15573.66,High
+CUST00149,56,Female,Medium,Optical Glasses,Ray-Ban,966.51,1,746,0.79,1560.56,Low
+CUST02089,23,Female,Low,Sunglasses,Ray-Ban,947.69,5,1355,0.76,13368.92,High
+CUST00936,46,Female,High,Optical Glasses,Persol,1204.89,1,638,0.72,1516.38,Low
+CUST04926,66,Male,Medium,Sunglasses,Oakley,1337.99,1,463,0.61,1035.31,Low
+CUST00501,33,Female,Medium,Sunglasses,Ray-Ban,1245.97,2,838,0.74,4233.7,Medium
+CUST03055,64,Male,High,Sunglasses,Ray-Ban,1106.38,3,866,0.99,7796.25,Medium
+CUST03601,47,Female,Medium,Optical Glasses,Oliver Peoples,1099.36,3,719,0.53,3443.29,Low
+CUST02916,37,Female,Medium,Sunglasses,Oliver Peoples,1455.72,3,889,0.77,8190.28,Medium
+CUST05605,20,Male,Medium,Sunglasses,Persol,1318.27,2,419,0.64,1937.03,Low
+CUST02805,56,Male,Medium,Sunglasses,Vogue Eyewear,1235.42,5,591,0.97,9701.77,High
+CUST04971,53,Male,Medium,Optical Glasses,Oliver Peoples,1241.62,3,1732,0.52,9191.12,High
+CUST01294,38,Female,Medium,Optical Glasses,Ray-Ban,1383.35,3,703,0.95,7593.45,Medium
+CUST01574,42,Male,Medium,Sunglasses,Vogue Eyewear,1038.02,2,870,0.6,2969.02,Low
+CUST03107,41,Male,Medium,Sunglasses,Vogue Eyewear,1386.61,2,1066,0.57,4616.61,Medium
+CUST03357,31,Male,Medium,Sunglasses,Persol,1409.01,5,791,0.62,9465.84,High
+CUST01163,62,Female,Low,Optical Glasses,Vogue Eyewear,1061.8,4,60,0.5,349.08,Low
+CUST09076,58,Male,Medium,Optical Glasses,Vogue Eyewear,1417.57,2,649,0.62,3125.49,Low
+CUST09541,66,Female,Low,Optical Glasses,Ray-Ban,1112.97,4,1583,0.74,14287.73,High
+CUST00116,52,Female,Medium,Optical Glasses,Oliver Peoples,1492.63,5,465,0.95,9032.46,High
+CUST00725,58,Female,High,Optical Glasses,Persol,1125.95,3,1401,0.62,8038.54,Medium
+CUST00578,63,Female,High,Optical Glasses,Persol,1166.45,2,1453,0.94,8729.65,Medium
+CUST06243,62,Male,Medium,Optical Glasses,Oakley,1172.44,2,1748,0.72,8085.4,Medium
+CUST05700,66,Male,High,Optical Glasses,Oakley,1302.54,1,213,0.84,638.49,Low
+CUST04030,68,Male,High,Sunglasses,Oakley,1257.62,4,480,0.89,5887.73,Medium
+CUST07945,19,Female,Medium,Sunglasses,Oakley,1270.51,4,1465,0.71,14482.42,High
+CUST06158,31,Female,High,Optical Glasses,Persol,1112.25,1,1406,0.73,3127.65,Low
+CUST02319,51,Female,High,Optical Glasses,Vogue Eyewear,1461.07,3,111,0.84,1119.7,Low
+CUST08341,69,Female,Low,Sunglasses,Persol,1311.45,2,1327,0.66,6293.67,Medium
+CUST06333,65,Male,Medium,Optical Glasses,Oakley,1328.4,2,915,0.63,4195.92,Medium
+CUST09609,18,Female,Medium,Sunglasses,Oliver Peoples,1170.52,4,587,0.74,5572.06,Medium
+CUST04498,25,Male,High,Sunglasses,Ray-Ban,1465.53,3,827,0.83,8268.12,Medium
+CUST00267,20,Male,Low,Optical Glasses,Vogue Eyewear,1123.2,3,827,0.58,4428.12,Medium
+CUST03810,44,Female,Medium,Sunglasses,Ray-Ban,1402.94,3,1336,0.55,8472.99,Medium
+CUST07243,57,Male,Low,Sunglasses,Oakley,1174.31,1,603,0.82,1590.82,Low
+CUST06327,40,Male,Medium,Sunglasses,Oakley,911.68,1,878,0.86,1886.0,Low
+CUST09966,20,Male,Medium,Sunglasses,Oakley,1319.35,3,1844,0.82,16396.95,High
+CUST08020,59,Female,Low,Optical Glasses,Persol,1605.11,4,817,0.62,8910.16,High
+CUST06175,64,Male,High,Sunglasses,Oakley,1216.09,2,1878,0.97,12138.64,High
+CUST05621,57,Male,Medium,Optical Glasses,Vogue Eyewear,1211.81,5,461,0.52,3979.38,Medium
+CUST01974,18,Female,Medium,Optical Glasses,Oliver Peoples,1372.65,5,1843,0.74,25644.49,High
+CUST02818,45,Male,Medium,Optical Glasses,Persol,1210.12,2,1425,0.98,9259.9,High
+CUST08180,69,Female,Medium,Sunglasses,Ray-Ban,1323.84,3,1125,0.69,8446.28,Medium
+CUST00963,64,Female,High,Optical Glasses,Ray-Ban,1401.37,2,1007,0.98,7577.84,Medium
+CUST00307,33,Male,Medium,Sunglasses,Oakley,1312.94,2,1384,0.82,8164.54,Medium
+CUST02205,62,Female,High,Sunglasses,Oliver Peoples,1184.11,5,1378,0.78,17434.64,High
+CUST08950,43,Male,High,Optical Glasses,Oakley,1162.18,2,1996,0.52,6609.59,Medium
+CUST08036,53,Male,Low,Sunglasses,Ray-Ban,1314.64,3,1535,0.64,10615.09,High
+CUST07752,40,Female,Medium,Optical Glasses,Oakley,884.96,3,386,0.71,1993.41,Low
+CUST02186,57,Male,Medium,Optical Glasses,Ray-Ban,1310.19,5,1710,0.83,25473.32,High
+CUST06110,56,Female,Medium,Optical Glasses,Persol,1301.92,2,787,0.58,3256.3,Low
+CUST03654,46,Male,Low,Sunglasses,Vogue Eyewear,1083.4,2,805,0.64,3058.45,Low
+CUST06509,63,Female,Medium,Optical Glasses,Oliver Peoples,1127.67,5,1956,0.79,23870.15,High
+CUST09157,45,Male,Medium,Optical Glasses,Vogue Eyewear,1217.2,3,1581,0.76,12020.87,High
+CUST07032,64,Male,High,Optical Glasses,Persol,1375.71,1,235,0.93,823.73,Low
+CUST03264,23,Female,Low,Optical Glasses,Ray-Ban,1410.47,2,861,0.92,6121.98,Medium
+CUST06965,50,Female,Medium,Sunglasses,Oliver Peoples,1199.42,3,792,0.64,4996.95,Medium
+CUST07014,49,Female,High,Optical Glasses,Oakley,1310.79,4,899,0.82,10589.46,High
+CUST02715,31,Female,Medium,Optical Glasses,Ray-Ban,1204.67,3,1467,0.91,13218.07,High
+CUST06553,19,Male,High,Sunglasses,Oliver Peoples,1101.01,4,1420,0.72,12336.14,High
+CUST00136,39,Male,High,Sunglasses,Ray-Ban,1386.67,2,1553,0.56,6608.0,Medium
+CUST00088,57,Female,Medium,Sunglasses,Oliver Peoples,1274.69,1,1289,0.94,4231.48,Medium
+CUST04837,30,Male,Medium,Sunglasses,Persol,1156.93,2,390,0.97,2398.17,Low
+CUST04668,58,Male,Medium,Sunglasses,Ray-Ban,1134.14,3,338,0.85,2678.12,Low
+CUST03825,62,Male,Medium,Optical Glasses,Vogue Eyewear,1281.97,1,827,0.92,2672.26,Low
+CUST08857,59,Female,Medium,Optical Glasses,Oliver Peoples,1346.89,2,674,0.95,4725.55,Medium
+CUST07204,40,Male,Medium,Sunglasses,Oakley,1113.69,5,1759,0.85,22810.05,High
+CUST08763,20,Female,Medium,Sunglasses,Oliver Peoples,1316.69,5,144,0.69,1792.14,Low
+CUST06748,26,Female,Medium,Optical Glasses,Oliver Peoples,1319.52,4,1417,0.67,13728.65,High
+CUST06544,60,Female,Low,Sunglasses,Vogue Eyewear,1280.25,3,359,0.82,3097.64,Low
+CUST08481,34,Male,Low,Optical Glasses,Oakley,919.79,5,681,0.97,8323.09,Medium
+CUST04964,27,Male,Medium,Sunglasses,Persol,1230.44,3,1094,0.67,7412.78,Medium
+CUST01671,39,Male,Medium,Optical Glasses,Ray-Ban,1210.03,5,48,0.6,477.38,Low
+CUST00803,67,Female,Medium,Optical Glasses,Oliver Peoples,1575.04,1,1326,0.62,3547.59,Low
+CUST06557,47,Male,Medium,Sunglasses,Oliver Peoples,1082.22,1,552,0.84,1374.8,Low
+CUST06480,61,Male,Medium,Sunglasses,Oakley,1226.67,1,1694,0.63,3586.65,Low
+CUST08976,28,Female,Low,Optical Glasses,Oliver Peoples,1318.7,4,1727,0.9,22461.98,High
+CUST01873,30,Male,Low,Sunglasses,Oliver Peoples,984.26,1,1778,0.59,2828.79,Low
+CUST05675,67,Female,Medium,Sunglasses,Oakley,1282.35,4,1266,0.84,14944.68,High
+CUST03025,30,Female,Medium,Sunglasses,Oakley,1162.65,2,1766,0.69,7762.93,Medium
+CUST07379,38,Female,High,Optical Glasses,Vogue Eyewear,1068.59,4,322,0.88,3318.31,Low
+CUST04509,28,Male,Medium,Optical Glasses,Ray-Ban,1219.61,5,274,0.72,3295.95,Low
+CUST09163,68,Female,Low,Optical Glasses,Oakley,1189.58,2,740,0.89,4292.92,Medium
+CUST09990,23,Male,Low,Optical Glasses,Oakley,1388.31,4,1262,0.78,14976.4,High
+CUST03846,61,Male,Low,Sunglasses,Oakley,1261.72,2,1404,0.89,8638.88,Medium
+CUST09498,44,Female,Medium,Optical Glasses,Vogue Eyewear,977.71,2,1691,1.0,9059.22,High
+CUST09908,19,Male,High,Optical Glasses,Oliver Peoples,1340.28,3,1951,0.59,12680.41,High
+CUST08746,56,Female,Low,Optical Glasses,Oliver Peoples,1191.42,4,1128,0.82,12076.89,High
+CUST05652,48,Male,High,Sunglasses,Ray-Ban,1221.89,5,560,0.86,8061.13,Medium
+CUST08624,42,Male,Low,Optical Glasses,Persol,1291.88,3,1682,0.74,13216.25,High
+CUST04358,60,Male,Medium,Optical Glasses,Oliver Peoples,1348.53,1,170,0.56,351.73,Low
+CUST08694,63,Male,Low,Optical Glasses,Oakley,1110.08,5,376,0.94,5374.61,Medium
+CUST04227,26,Male,Medium,Optical Glasses,Oliver Peoples,1319.66,5,1339,0.68,16459.96,High
+CUST03699,52,Female,Medium,Optical Glasses,Ray-Ban,1230.6,2,412,0.91,2528.09,Low
+CUST04899,31,Male,Low,Optical Glasses,Oliver Peoples,1248.85,2,443,0.9,2728.31,Low
+CUST06301,52,Male,Medium,Sunglasses,Oakley,1019.73,2,1367,0.55,4201.01,Medium
+CUST06079,52,Female,Medium,Optical Glasses,Persol,1072.75,2,1140,0.56,3752.57,Medium
+CUST06523,48,Male,Low,Sunglasses,Vogue Eyewear,1352.06,4,1100,0.55,8964.34,High
+CUST08140,31,Male,Medium,Optical Glasses,Vogue Eyewear,965.31,2,1568,0.77,6386.17,Medium
+CUST09941,67,Male,Low,Sunglasses,Oliver Peoples,1269.06,5,1092,0.98,18604.07,High
+CUST09038,19,Female,Low,Sunglasses,Vogue Eyewear,1297.71,3,442,0.61,2875.8,Low
+CUST01195,25,Male,Medium,Optical Glasses,Vogue Eyewear,1494.81,2,563,0.72,3320.2,Low
+CUST09173,21,Female,High,Sunglasses,Persol,1310.7,5,1363,0.56,13704.54,High
+CUST01652,31,Female,Low,Optical Glasses,Persol,1128.89,5,475,0.66,4848.04,Medium
+CUST06258,22,Female,Medium,Optical Glasses,Vogue Eyewear,1478.04,3,448,0.74,4027.4,Medium
+CUST09041,43,Male,High,Sunglasses,Vogue Eyewear,1512.29,5,39,0.69,557.48,Low
+CUST00031,66,Male,Low,Sunglasses,Persol,1178.11,5,1447,0.99,23118.88,High
+CUST07859,19,Female,Medium,Optical Glasses,Ray-Ban,1480.48,1,845,0.52,1782.25,Low
+CUST04129,51,Female,Medium,Optical Glasses,Oakley,1296.09,2,867,0.58,3571.24,Low
+CUST02821,24,Male,Low,Optical Glasses,Oliver Peoples,1333.72,3,168,0.98,1804.8,Low
+CUST04976,36,Male,Medium,Optical Glasses,Ray-Ban,962.59,5,1029,0.73,9905.05,High
+CUST03093,51,Female,Medium,Optical Glasses,Oliver Peoples,1038.59,1,779,0.53,1174.8,Low
+CUST07756,61,Female,High,Sunglasses,Persol,1389.02,4,840,0.87,11124.34,High
+CUST04150,25,Female,Low,Optical Glasses,Ray-Ban,1176.09,2,1203,0.79,6124.5,Medium
+CUST03732,56,Male,Medium,Sunglasses,Oliver Peoples,1155.16,2,635,0.88,3537.0,Low
+CUST03047,40,Male,Medium,Optical Glasses,Persol,1242.69,5,1121,0.76,14503.04,High
+CUST07510,65,Male,Low,Optical Glasses,Vogue Eyewear,1196.82,4,1921,0.72,18140.77,High
+CUST01203,47,Male,Medium,Sunglasses,Oakley,1299.46,2,1134,0.53,4279.46,Medium
+CUST06081,57,Male,High,Sunglasses,Ray-Ban,1470.31,5,1852,0.74,27603.16,High
+CUST08135,25,Male,Medium,Optical Glasses,Oliver Peoples,1177.58,5,532,0.9,7723.63,Medium
+CUST03551,55,Male,High,Optical Glasses,Vogue Eyewear,1139.43,3,1692,0.98,15528.96,High
+CUST01672,42,Female,Low,Sunglasses,Ray-Ban,1180.26,4,627,0.77,6244.58,Medium
+CUST05847,41,Female,Medium,Sunglasses,Oliver Peoples,1185.3,5,1868,0.58,17591.8,High
+CUST06722,52,Male,Medium,Sunglasses,Vogue Eyewear,1174.62,5,866,0.76,10590.25,High
+CUST09461,59,Female,Medium,Optical Glasses,Oliver Peoples,1143.86,3,1019,0.96,9197.01,High
+CUST02712,33,Female,Medium,Optical Glasses,Persol,1509.21,2,1400,1.0,11577.5,High
+CUST07337,32,Female,Low,Optical Glasses,Persol,1282.18,3,1955,0.93,19160.51,High
+CUST05387,43,Male,High,Optical Glasses,Vogue Eyewear,1184.63,4,1016,0.78,10288.17,High
+CUST06510,56,Female,High,Sunglasses,Ray-Ban,1204.33,3,517,0.59,3019.37,Low
+CUST08917,40,Female,Medium,Sunglasses,Oakley,1263.38,1,1261,0.86,3753.66,Medium
+CUST03255,37,Male,Low,Sunglasses,Oliver Peoples,1328.05,4,1818,0.79,20902.71,High
+CUST05841,53,Female,High,Optical Glasses,Ray-Ban,1100.75,2,1411,0.79,6723.26,Medium
+CUST00583,40,Female,Medium,Optical Glasses,Persol,1144.02,3,989,0.58,5393.69,Medium
+CUST01865,19,Male,Medium,Sunglasses,Vogue Eyewear,1125.4,5,445,0.68,4665.01,Medium
+CUST08158,55,Male,Low,Optical Glasses,Vogue Eyewear,1386.04,5,1247,0.53,12548.6,High
+CUST04473,28,Male,High,Sunglasses,Persol,1396.63,5,744,0.95,13522.44,High
+CUST07529,31,Male,Low,Optical Glasses,Ray-Ban,1416.42,2,1565,0.55,6680.46,Medium
+CUST05978,63,Female,Medium,Sunglasses,Oakley,1355.6,1,190,0.51,359.88,Low
+CUST02711,20,Female,Low,Optical Glasses,Oliver Peoples,1012.62,1,1025,0.81,2303.36,Low
+CUST09248,33,Male,Medium,Optical Glasses,Ray-Ban,1087.45,1,107,0.97,309.22,Low
+CUST07277,62,Male,Medium,Sunglasses,Vogue Eyewear,1229.65,1,820,0.65,1795.63,Low
+CUST06107,45,Female,Low,Sunglasses,Ray-Ban,1127.94,5,1902,0.59,17339.06,High
+CUST07111,49,Female,Medium,Optical Glasses,Oakley,1045.86,2,1770,0.9,9129.07,High
+CUST03086,39,Male,Medium,Optical Glasses,Oakley,1109.9,1,1001,0.7,2130.7,Low
+CUST08889,39,Male,Medium,Optical Glasses,Oakley,1309.17,3,107,0.77,886.54,Low
+CUST09359,20,Male,High,Optical Glasses,Oakley,1217.95,5,214,0.76,2713.53,Low
+CUST07080,33,Female,Medium,Optical Glasses,Oakley,1270.81,5,348,0.93,5634.04,Medium
+CUST05199,34,Female,High,Optical Glasses,Persol,1201.9,5,660,0.93,10105.84,High
+CUST06030,43,Male,Medium,Sunglasses,Vogue Eyewear,1247.06,3,1649,0.8,13521.55,High
+CUST03769,64,Male,Medium,Sunglasses,Vogue Eyewear,1153.84,4,1947,0.55,13540.71,High
+CUST06862,69,Female,Medium,Optical Glasses,Ray-Ban,1275.75,3,1727,0.72,13038.23,High
+CUST03871,18,Male,High,Optical Glasses,Oakley,1006.55,5,1762,0.95,23080.33,High
+CUST03887,55,Female,Medium,Optical Glasses,Vogue Eyewear,1081.65,2,1714,0.97,9853.86,High
+CUST02626,30,Male,Low,Optical Glasses,Vogue Eyewear,1167.51,3,397,0.54,2057.18,Low
+CUST01608,54,Male,High,Optical Glasses,Oliver Peoples,1196.64,5,1970,0.88,28417.74,High
+CUST07941,66,Female,Low,Optical Glasses,Oliver Peoples,1107.87,4,1316,0.95,15178.73,High
+CUST04378,54,Female,Low,Optical Glasses,Oakley,1123.0,1,539,0.68,1127.68,Low
+CUST00419,60,Male,Low,Optical Glasses,Vogue Eyewear,1128.13,3,1758,0.61,9943.43,High
+CUST04679,52,Female,Low,Optical Glasses,Vogue Eyewear,1227.28,4,1750,0.77,18123.4,High
+CUST08916,35,Male,Low,Sunglasses,Persol,1089.44,5,1214,0.98,17755.19,High
+CUST03614,66,Female,Low,Sunglasses,Persol,1398.92,4,446,0.6,4102.48,Medium
+CUST00632,65,Female,Low,Sunglasses,Oliver Peoples,1486.09,1,269,0.52,569.52,Low
+CUST02975,27,Male,Low,Sunglasses,Oakley,1120.81,5,778,0.98,11706.17,High
+CUST05999,26,Female,Low,Optical Glasses,Oakley,1192.57,1,339,0.51,564.89,Low
+CUST03547,40,Male,Medium,Optical Glasses,Vogue Eyewear,1068.27,3,435,0.62,2368.05,Low
+CUST04622,43,Female,Medium,Sunglasses,Oakley,1243.63,3,934,0.52,4964.43,Medium
+CUST00532,47,Male,High,Optical Glasses,Vogue Eyewear,1353.07,4,318,0.72,3395.06,Low
+CUST05324,45,Male,Low,Sunglasses,Ray-Ban,1199.24,3,1041,0.67,6874.8,Medium
+CUST01641,46,Male,Medium,Optical Glasses,Oakley,1184.26,5,429,0.76,5289.26,Medium
+CUST05420,49,Female,High,Optical Glasses,Vogue Eyewear,1133.46,1,235,0.71,518.13,Low
+CUST03133,41,Female,Low,Sunglasses,Oliver Peoples,1364.88,4,1986,0.56,16635.23,High
+CUST06386,25,Male,Medium,Optical Glasses,Ray-Ban,1304.56,3,52,0.74,412.6,Low
+CUST04701,22,Female,Low,Optical Glasses,Oakley,1265.11,2,1586,0.53,5826.99,Medium
+CUST07495,33,Male,Low,Optical Glasses,Oliver Peoples,1091.88,1,275,0.71,584.08,Low
+CUST09404,19,Female,High,Optical Glasses,Oakley,994.74,2,1093,0.64,3812.82,Medium
+CUST06772,65,Male,Low,Optical Glasses,Vogue Eyewear,1486.99,1,1272,0.52,2694.67,Low
+CUST00198,58,Male,Medium,Optical Glasses,Vogue Eyewear,1207.62,1,429,0.52,738.07,Low
+CUST05523,20,Male,Low,Optical Glasses,Vogue Eyewear,1113.81,2,1058,0.8,5165.64,Medium
+CUST07180,52,Female,Medium,Sunglasses,Ray-Ban,987.37,5,278,0.71,2669.69,Low
+CUST08130,53,Female,Medium,Optical Glasses,Persol,1180.57,1,710,0.8,1837.16,Low
+CUST04777,32,Male,High,Optical Glasses,Persol,1150.94,5,1562,0.71,17485.14,High
+CUST03297,21,Female,High,Optical Glasses,Vogue Eyewear,1086.77,4,1216,0.7,10137.63,High
+CUST00836,54,Male,Medium,Optical Glasses,Oliver Peoples,1301.92,1,1510,0.89,4793.56,Medium
+CUST09353,20,Female,Low,Optical Glasses,Persol,1094.75,3,1306,0.53,6228.2,Medium
+CUST09154,27,Female,Low,Optical Glasses,Vogue Eyewear,1469.98,3,694,0.58,4863.26,Medium
+CUST05560,28,Male,Low,Optical Glasses,Oakley,1232.7,3,122,0.76,939.42,Low
+CUST02203,22,Female,Medium,Optical Glasses,Oakley,1318.02,1,1654,0.58,3464.12,Low
+CUST07336,33,Male,Medium,Optical Glasses,Oakley,1019.77,3,254,0.89,1894.76,Low
+CUST03218,18,Female,Low,Sunglasses,Persol,1179.6,1,905,0.8,2339.81,Low
+CUST03973,51,Male,Medium,Optical Glasses,Vogue Eyewear,1426.81,1,718,0.77,2161.17,Low
+CUST08061,54,Female,High,Sunglasses,Ray-Ban,1116.91,3,938,0.89,7663.72,Medium
+CUST03405,19,Male,Medium,Optical Glasses,Persol,1401.22,3,1490,0.72,12355.31,High
+CUST04501,60,Female,Medium,Optical Glasses,Oakley,1003.34,3,264,0.86,1872.31,Low
+CUST05862,45,Female,Low,Sunglasses,Ray-Ban,1157.77,3,1631,0.62,9622.69,High
+CUST05749,59,Male,Medium,Sunglasses,Oliver Peoples,1247.59,4,1279,0.59,10317.19,High
+CUST03303,41,Male,High,Sunglasses,Vogue Eyewear,1160.3,4,62,0.94,741.07,Low
+CUST09477,67,Female,Medium,Optical Glasses,Persol,1314.0,3,1535,0.95,15749.1,High
+CUST08521,31,Female,Medium,Sunglasses,Persol,915.7,3,128,0.64,616.55,Low
+CUST04016,61,Female,Low,Optical Glasses,Ray-Ban,1209.15,2,691,0.99,4532.42,Medium
+CUST01316,55,Female,High,Optical Glasses,Persol,1233.78,3,1378,0.94,13135.4,High
+CUST09333,45,Female,Low,Optical Glasses,Vogue Eyewear,1311.41,4,1937,0.99,27559.44,High
+CUST04111,57,Male,Medium,Optical Glasses,Vogue Eyewear,1163.05,3,1337,0.92,11758.34,High
+CUST06369,33,Female,High,Optical Glasses,Ray-Ban,1276.0,4,1484,0.74,15356.19,High
+CUST06147,43,Female,Medium,Optical Glasses,Persol,1068.05,1,1403,0.53,2175.87,Low
+CUST06042,65,Female,Medium,Sunglasses,Oliver Peoples,1350.49,5,590,0.52,5675.76,Medium
+CUST08327,33,Female,High,Sunglasses,Oliver Peoples,1102.91,2,952,0.9,5177.94,Medium
+CUST06220,32,Female,Medium,Optical Glasses,Persol,1238.68,2,495,0.56,1881.44,Low
+CUST04775,19,Female,Medium,Sunglasses,Persol,1125.56,1,1432,0.75,3311.92,Low
+CUST02799,21,Male,High,Sunglasses,Persol,971.46,1,136,0.71,257.0,Low
+CUST09728,67,Female,High,Sunglasses,Oakley,1360.03,3,53,0.98,580.6,Low
+CUST01902,49,Female,Medium,Optical Glasses,Persol,1124.88,3,433,0.59,2361.97,Low
+CUST04487,35,Male,Low,Optical Glasses,Ray-Ban,1222.86,4,1801,0.5,12067.79,High
+CUST03389,58,Male,Medium,Optical Glasses,Oliver Peoples,1319.08,4,1417,0.63,12904.72,High
+CUST01464,61,Female,High,Sunglasses,Oliver Peoples,1122.58,3,891,0.56,4603.75,Medium
+CUST08613,22,Male,Medium,Sunglasses,Oliver Peoples,1132.14,2,1188,0.83,6116.91,Medium
+CUST06793,28,Female,Low,Optical Glasses,Persol,1253.73,5,1938,0.52,17307.66,High
+CUST06840,62,Male,Medium,Optical Glasses,Vogue Eyewear,1258.68,2,468,0.59,1904.37,Low
+CUST09476,35,Male,Medium,Optical Glasses,Persol,1207.9,5,1746,0.85,24556.77,High
+CUST00852,66,Male,Medium,Optical Glasses,Oliver Peoples,1404.33,3,1339,0.98,15146.22,High
+CUST08100,48,Male,Medium,Optical Glasses,Ray-Ban,996.24,4,337,0.7,2575.49,Low
+CUST09378,35,Female,Medium,Sunglasses,Ray-Ban,1328.76,3,219,0.57,1363.31,Low
+CUST05522,52,Male,Low,Sunglasses,Oakley,1157.75,3,593,0.9,5078.56,Medium
+CUST00813,38,Female,Medium,Optical Glasses,Oakley,1270.84,1,1311,0.79,3606.02,Medium
+CUST00065,34,Female,Low,Optical Glasses,Oakley,1287.58,5,270,0.83,3952.69,Medium
+CUST05933,40,Male,Low,Sunglasses,Oliver Peoples,1274.15,2,1962,0.56,7670.87,Medium
+CUST09227,53,Male,High,Optical Glasses,Persol,1216.39,5,160,0.77,2052.87,Low
+CUST03035,32,Male,Low,Sunglasses,Ray-Ban,1139.78,5,1707,0.93,24786.47,High
+CUST01044,23,Female,Medium,Sunglasses,Ray-Ban,1357.6,3,32,0.82,292.8,Low
+CUST08160,39,Male,Low,Sunglasses,Oakley,1239.4,2,1223,0.8,6644.54,Medium
+CUST05785,23,Male,High,Optical Glasses,Vogue Eyewear,981.84,3,1003,0.85,6880.01,Medium
+CUST09094,66,Female,Medium,Sunglasses,Ray-Ban,1260.6,5,1708,0.84,24775.45,High
+CUST00393,49,Male,Low,Optical Glasses,Persol,1280.31,2,1460,0.69,7067.31,Medium
+CUST04224,18,Male,High,Optical Glasses,Persol,1304.7,3,815,0.61,5331.22,Medium
+CUST03526,64,Female,Low,Optical Glasses,Ray-Ban,1045.34,1,423,0.65,787.44,Low
+CUST02629,64,Male,Medium,Sunglasses,Ray-Ban,1095.87,3,1987,0.89,15928.52,High
+CUST04387,29,Male,High,Optical Glasses,Ray-Ban,1218.53,1,1412,0.79,3723.96,Medium
+CUST09402,66,Male,Medium,Optical Glasses,Ray-Ban,1248.95,2,494,1.0,3380.72,Low
+CUST01786,20,Female,Medium,Optical Glasses,Oakley,1187.81,5,267,0.67,2910.79,Low
+CUST04205,66,Female,High,Optical Glasses,Vogue Eyewear,1041.68,2,911,0.96,4991.84,Medium
+CUST02428,61,Male,Medium,Optical Glasses,Oakley,1467.22,4,327,0.52,2734.09,Low
+CUST04661,37,Male,High,Optical Glasses,Persol,1027.96,5,1755,0.78,19276.36,High
+CUST02360,30,Male,Medium,Sunglasses,Vogue Eyewear,1378.23,1,1076,0.92,3737.91,Medium
+CUST02285,67,Female,Medium,Optical Glasses,Oliver Peoples,997.85,4,901,0.85,8374.83,Medium
+CUST01470,34,Female,High,Sunglasses,Oakley,952.25,2,1205,0.58,3646.73,Medium
+CUST09131,41,Male,Medium,Sunglasses,Oakley,1343.5,2,869,0.6,3838.36,Medium
+CUST06043,18,Female,High,Sunglasses,Vogue Eyewear,1346.55,3,716,0.91,7211.16,Medium
+CUST00060,61,Male,Low,Optical Glasses,Ray-Ban,787.92,1,841,0.95,1724.68,Low
+CUST00085,25,Female,Low,Optical Glasses,Oliver Peoples,1166.79,2,1739,0.96,10673.35,High
+CUST04308,40,Male,Medium,Optical Glasses,Persol,1009.61,3,771,0.66,4222.6,Medium
+CUST02015,53,Male,Medium,Sunglasses,Oliver Peoples,1320.34,5,626,0.54,6114.08,Medium
+CUST01180,34,Female,Medium,Optical Glasses,Ray-Ban,1354.54,2,605,0.98,4400.59,Medium
+CUST05050,60,Male,Medium,Optical Glasses,Oliver Peoples,1196.38,3,965,0.9,8540.19,Medium
+CUST00630,66,Female,Low,Sunglasses,Vogue Eyewear,1089.76,2,1927,0.93,10701.2,High
+CUST02242,22,Male,Low,Optical Glasses,Vogue Eyewear,1111.16,4,1637,0.69,13754.4,High
+CUST06091,28,Male,High,Sunglasses,Ray-Ban,1126.02,1,1817,0.73,4091.96,Medium
+CUST04330,52,Male,Medium,Optical Glasses,Oakley,1270.18,2,630,0.73,3200.85,Low
+CUST00785,50,Female,Low,Sunglasses,Oakley,965.15,2,346,0.65,1189.38,Low
+CUST05250,30,Male,Medium,Optical Glasses,Persol,1200.53,3,1792,0.64,11316.69,High
+CUST09867,59,Male,Medium,Optical Glasses,Oliver Peoples,928.48,5,1221,0.95,14753.29,High
+CUST00113,34,Male,Low,Sunglasses,Vogue Eyewear,1023.68,2,1191,0.68,4542.78,Medium
+CUST04331,30,Male,High,Optical Glasses,Persol,1188.69,2,665,0.94,4071.51,Medium
+CUST07968,18,Male,High,Optical Glasses,Oliver Peoples,1257.64,1,1452,0.85,4252.55,Medium
+CUST09010,65,Male,Low,Optical Glasses,Oliver Peoples,1229.27,1,1870,0.72,4534.49,Medium
+CUST04025,41,Female,Medium,Sunglasses,Persol,1327.6,3,1236,0.78,10519.83,High
+CUST02013,61,Male,Medium,Sunglasses,Vogue Eyewear,1305.51,3,488,0.73,3822.53,Medium
+CUST04009,29,Male,Medium,Optical Glasses,Persol,1547.81,1,868,0.67,2466.15,Low
+CUST08470,61,Female,High,Sunglasses,Oakley,1159.75,1,1101,0.68,2378.85,Low
+CUST09301,42,Male,Low,Optical Glasses,Oakley,1310.52,4,1684,0.58,14027.52,High
+CUST05042,40,Female,Low,Sunglasses,Oliver Peoples,1301.08,2,1004,0.85,6084.06,Medium
+CUST08156,43,Male,Medium,Sunglasses,Vogue Eyewear,1463.44,1,93,0.65,242.37,Low
+CUST07959,25,Male,Low,Optical Glasses,Vogue Eyewear,1381.15,2,241,0.63,1149.04,Low
+CUST09993,41,Male,Medium,Optical Glasses,Ray-Ban,1147.38,5,75,0.97,1143.45,Low
+CUST05890,27,Male,Medium,Sunglasses,Ray-Ban,1070.41,2,1961,0.85,9776.51,High
+CUST05872,67,Male,Low,Optical Glasses,Oakley,1392.96,5,36,0.75,515.2,Low
+CUST08490,53,Male,Low,Sunglasses,Ray-Ban,1049.35,2,666,0.65,2489.12,Low
+CUST05442,32,Male,Low,Optical Glasses,Oakley,1325.91,5,1632,0.5,14821.13,High
+CUST05958,36,Male,Medium,Optical Glasses,Ray-Ban,1249.4,4,130,0.66,1174.78,Low
+CUST03903,41,Female,Medium,Optical Glasses,Oliver Peoples,923.94,3,739,0.57,3198.83,Low
+CUST08608,64,Female,High,Optical Glasses,Ray-Ban,1220.22,2,934,0.78,4870.98,Medium
+CUST02483,61,Male,High,Optical Glasses,Ray-Ban,1254.34,3,321,0.83,2746.8,Low
+CUST01582,67,Male,Medium,Sunglasses,Ray-Ban,950.09,4,1611,0.96,16102.7,High
+CUST08382,40,Male,High,Optical Glasses,Vogue Eyewear,1308.91,5,188,0.57,1921.41,Low
+CUST03626,37,Male,High,Sunglasses,Vogue Eyewear,1427.84,1,822,0.74,2379.52,Low
+CUST08676,49,Male,High,Optical Glasses,Oakley,1206.14,5,1603,0.75,19864.13,High
+CUST09830,54,Male,Low,Sunglasses,Vogue Eyewear,1131.88,1,700,0.72,1562.92,Low
+CUST04244,34,Female,High,Optical Glasses,Ray-Ban,1257.32,3,1538,1.0,15893.9,High
+CUST05089,54,Female,Medium,Sunglasses,Ray-Ban,1268.52,1,289,0.62,622.72,Low
+CUST06719,46,Female,Medium,Optical Glasses,Ray-Ban,1218.62,5,570,0.89,8468.57,Medium
+CUST08310,54,Female,High,Optical Glasses,Persol,1334.04,3,1411,0.67,10365.71,High
+CUST03174,23,Female,Low,Optical Glasses,Ray-Ban,1208.6,2,359,0.84,1997.07,Low
+CUST09265,68,Female,Low,Sunglasses,Oliver Peoples,1176.01,3,1981,0.9,17233.22,High
+CUST00323,42,Female,Medium,Optical Glasses,Vogue Eyewear,1242.97,1,421,0.97,1390.66,Low
+CUST01340,67,Female,High,Sunglasses,Oliver Peoples,1188.1,1,1498,0.98,4778.57,Medium
+CUST06116,26,Female,Medium,Optical Glasses,Persol,1216.43,3,669,0.64,4280.77,Medium
+CUST06061,32,Female,Low,Sunglasses,Oliver Peoples,1252.62,3,1146,0.63,7433.15,Medium
+CUST00005,60,Male,Medium,Optical Glasses,Persol,1038.45,5,1574,0.53,11867.07,High
+CUST03845,47,Female,High,Sunglasses,Vogue Eyewear,932.09,4,1073,0.94,10302.74,High
+CUST02440,38,Male,Medium,Sunglasses,Ray-Ban,1241.49,4,888,0.58,7007.31,Medium
+CUST00722,37,Male,Medium,Optical Glasses,Oliver Peoples,1339.94,2,1752,0.67,8618.49,Medium
+CUST09846,49,Male,Medium,Optical Glasses,Oliver Peoples,1299.61,2,361,0.96,2467.91,Low
+CUST06734,25,Female,Medium,Sunglasses,Ray-Ban,1064.97,4,1267,0.97,14343.42,High
+CUST00682,63,Male,Medium,Optical Glasses,Oakley,860.82,4,979,0.78,7203.72,Medium
+CUST01183,19,Female,Medium,Sunglasses,Persol,1384.77,4,934,0.66,9354.82,High
+CUST00697,62,Male,Medium,Optical Glasses,Persol,1214.32,4,573,0.79,6023.96,Medium
+CUST04872,44,Male,Medium,Optical Glasses,Persol,1148.23,5,752,0.63,7451.86,Medium
+CUST00831,48,Female,Medium,Sunglasses,Ray-Ban,1293.06,4,378,0.59,3160.31,Low
+CUST01006,45,Female,Medium,Optical Glasses,Oakley,903.97,4,1948,0.68,13122.57,High
+CUST00844,26,Male,Low,Sunglasses,Ray-Ban,1177.13,4,571,0.59,4345.9,Medium
+CUST09241,56,Male,Medium,Optical Glasses,Persol,1308.83,3,1397,0.65,9768.35,High
+CUST06388,64,Female,Medium,Sunglasses,Ray-Ban,1298.02,1,1440,0.57,2918.94,Low
+CUST06695,52,Female,Medium,Optical Glasses,Oliver Peoples,1339.04,1,486,0.9,1604.65,Low
+CUST02772,36,Female,Low,Optical Glasses,Oakley,1174.08,3,1398,0.51,6880.24,Medium
+CUST07574,47,Female,Medium,Sunglasses,Persol,1094.73,2,1694,0.72,7316.28,Medium
+CUST05277,42,Male,Low,Optical Glasses,Ray-Ban,970.21,5,1325,0.9,15848.98,High
+CUST06176,22,Female,Medium,Optical Glasses,Persol,1326.87,1,1099,0.61,2437.04,Low
+CUST07788,40,Female,Medium,Sunglasses,Vogue Eyewear,1044.46,5,1613,0.98,22616.71,High
+CUST03748,25,Male,Medium,Optical Glasses,Vogue Eyewear,1229.7,1,1549,0.53,2765.88,Low
+CUST08069,40,Male,Medium,Optical Glasses,Ray-Ban,1272.94,5,1764,0.56,17225.49,High
+CUST01253,23,Female,Low,Optical Glasses,Ray-Ban,1200.85,1,565,0.54,1003.78,Low
+CUST08581,55,Female,Low,Sunglasses,Oliver Peoples,1081.91,1,517,0.74,1134.02,Low
+CUST03363,66,Male,Medium,Optical Glasses,Oliver Peoples,1046.07,3,243,0.59,1232.67,Low
+CUST02229,48,Male,Medium,Sunglasses,Oakley,1158.36,2,848,0.56,3014.15,Low
+CUST07160,58,Female,Low,Sunglasses,Vogue Eyewear,950.37,3,1945,0.5,7596.45,Medium
+CUST09112,44,Male,Low,Optical Glasses,Oliver Peoples,1411.8,2,634,0.65,3187.96,Low
+CUST03612,33,Female,Medium,Optical Glasses,Vogue Eyewear,1230.87,1,394,0.56,744.05,Low
+CUST04646,43,Male,Medium,Optical Glasses,Oakley,1231.29,1,144,0.71,344.9,Low
+CUST02293,48,Male,Low,Sunglasses,Vogue Eyewear,1283.37,2,1602,0.88,9913.66,High
+CUST07787,40,Male,Low,Optical Glasses,Oakley,1596.75,1,592,0.91,2356.72,Low
+CUST01760,40,Male,Medium,Sunglasses,Ray-Ban,1250.01,2,349,0.59,1410.35,Low
+CUST02618,40,Male,High,Sunglasses,Vogue Eyewear,957.07,2,1137,0.79,4710.51,Medium
+CUST05270,24,Male,Medium,Optical Glasses,Oakley,978.17,1,936,0.67,1680.63,Low
+CUST08332,29,Male,Medium,Sunglasses,Oakley,1068.32,5,1081,0.76,12023.14,High
+CUST09791,38,Female,High,Optical Glasses,Persol,1177.0,3,1832,0.94,16659.35,High
+CUST00185,61,Female,Medium,Optical Glasses,Oakley,1314.2,5,1061,0.95,18145.86,High
+CUST05536,60,Male,Low,Sunglasses,Persol,1269.66,3,985,0.88,9045.54,High
+CUST04220,61,Male,Medium,Optical Glasses,Oakley,930.93,4,54,0.54,297.49,Low
+CUST01789,26,Female,Medium,Optical Glasses,Ray-Ban,1100.98,2,1457,0.83,7295.49,Medium
+CUST08435,57,Female,High,Optical Glasses,Oakley,1064.29,4,811,0.5,4729.53,Medium
+CUST00476,33,Male,Medium,Sunglasses,Vogue Eyewear,1132.14,1,1032,0.84,2688.85,Low
+CUST08514,68,Male,Medium,Sunglasses,Oliver Peoples,1236.27,1,1503,0.62,3156.25,Low
+CUST06861,47,Male,Low,Optical Glasses,Oliver Peoples,1058.32,3,867,0.9,6787.46,Medium
+CUST09627,39,Male,Low,Optical Glasses,Ray-Ban,1378.06,1,267,0.77,776.21,Low
+CUST02764,35,Female,High,Sunglasses,Oakley,1157.52,3,854,0.97,7881.09,Medium
+CUST06991,50,Female,Low,Sunglasses,Oakley,1187.04,4,147,0.96,1835.78,Low
+CUST09708,69,Male,Medium,Sunglasses,Persol,1226.09,2,539,0.64,2317.55,Low
+CUST02231,27,Male,Low,Optical Glasses,Vogue Eyewear,1430.9,2,1145,0.75,6733.07,Medium
+CUST05165,50,Female,Low,Optical Glasses,Oliver Peoples,1332.34,1,255,0.67,623.64,Low
+CUST03780,36,Male,High,Optical Glasses,Oliver Peoples,1069.72,3,1323,0.54,6281.34,Medium
+CUST09459,25,Female,Low,Optical Glasses,Oakley,1275.49,3,59,0.92,569.04,Low
+CUST08955,46,Female,Low,Sunglasses,Persol,1129.27,4,1853,0.88,20180.09,High
+CUST06795,51,Male,Medium,Sunglasses,Oliver Peoples,1099.22,2,501,0.64,1931.25,Low
+CUST06242,56,Female,High,Sunglasses,Ray-Ban,1085.52,2,1368,0.87,7079.14,Medium
+CUST01990,42,Female,Low,Sunglasses,Persol,1097.14,3,329,0.7,2076.75,Low
+CUST02255,54,Male,Low,Optical Glasses,Ray-Ban,1402.06,1,1829,0.5,3512.83,Low
+CUST04276,34,Female,Low,Optical Glasses,Oakley,1288.03,2,1924,0.79,10727.42,High
+CUST09376,19,Male,Medium,Optical Glasses,Ray-Ban,1139.04,3,353,0.85,2809.06,Low
+CUST09388,54,Male,High,Sunglasses,Persol,1131.86,1,1481,0.67,3077.02,Low
+CUST05246,46,Female,Low,Sunglasses,Oakley,925.33,2,1060,0.96,5159.54,Medium
+CUST06310,20,Female,High,Sunglasses,Oakley,1020.92,2,1926,0.76,8188.39,Medium
+CUST05465,63,Male,High,Sunglasses,Oakley,1184.45,1,1404,0.85,3872.66,Medium
+CUST08947,51,Female,Low,Sunglasses,Persol,1569.57,4,474,0.57,4647.3,Medium
+CUST01637,65,Male,Low,Sunglasses,Ray-Ban,1135.69,1,1820,0.95,5379.75,Medium
+CUST00927,25,Female,Low,Optical Glasses,Ray-Ban,1198.4,3,238,0.64,1500.33,Low
+CUST01213,21,Female,Low,Optical Glasses,Oliver Peoples,1281.82,5,1788,0.9,28256.23,High
+CUST03572,68,Male,Medium,Optical Glasses,Ray-Ban,1499.33,1,1615,0.97,6435.0,Medium
+CUST06583,43,Male,Medium,Optical Glasses,Oakley,1036.43,4,1278,0.67,9725.52,High
+CUST02606,61,Male,High,Optical Glasses,Oliver Peoples,978.48,4,407,0.8,3491.43,Low
+CUST07417,61,Female,Low,Optical Glasses,Ray-Ban,1528.59,5,945,0.83,16423.97,High
+CUST02509,32,Male,Medium,Optical Glasses,Oliver Peoples,1067.88,4,804,0.89,8374.05,Medium
+CUST04194,48,Female,Medium,Optical Glasses,Oakley,1162.68,1,1397,0.65,2892.52,Low
+CUST03091,31,Female,Medium,Sunglasses,Oakley,1039.3,3,1807,0.92,14200.88,High
+CUST09261,50,Male,Low,Sunglasses,Ray-Ban,1264.99,4,1353,0.72,13504.69,High
+CUST00531,50,Female,Medium,Optical Glasses,Vogue Eyewear,1073.68,3,695,0.89,5458.56,Medium
+CUST05105,39,Female,Medium,Sunglasses,Vogue Eyewear,1220.88,3,1158,0.71,8250.27,Medium
+CUST04125,31,Female,Low,Optical Glasses,Persol,1374.75,2,492,0.79,2927.88,Low
+CUST01508,54,Female,Low,Optical Glasses,Ray-Ban,1121.43,1,1875,0.78,4493.4,Medium
+CUST07320,47,Female,Low,Optical Glasses,Oliver Peoples,1151.74,3,1252,0.75,8888.91,High
+CUST04552,60,Female,High,Optical Glasses,Vogue Eyewear,1107.8,5,676,0.72,7386.14,Medium
+CUST07305,35,Male,High,Optical Glasses,Persol,1139.63,3,242,0.86,1949.42,Low
+CUST04736,65,Female,Low,Optical Glasses,Oliver Peoples,772.7,5,1976,0.85,17778.45,High
+CUST03096,33,Male,Medium,Optical Glasses,Persol,945.6,4,546,0.96,5431.73,Medium
+CUST08571,62,Female,Medium,Sunglasses,Oakley,1165.89,1,908,0.79,2291.28,Low
+CUST08834,29,Female,High,Sunglasses,Ray-Ban,1374.91,3,1680,0.95,18035.81,High
+CUST09403,53,Male,Low,Sunglasses,Vogue Eyewear,1139.41,3,563,0.88,4639.8,Medium
+CUST01451,28,Male,High,Sunglasses,Ray-Ban,1093.33,5,1623,0.75,18230.9,High
+CUST00650,64,Male,Medium,Sunglasses,Oliver Peoples,1042.2,2,1257,0.62,4450.57,Medium
+CUST05455,25,Male,High,Optical Glasses,Oakley,1074.84,5,131,0.83,1600.92,Low
+CUST00598,28,Male,Low,Optical Glasses,Ray-Ban,1196.87,3,990,0.93,9057.19,High
+CUST02619,47,Female,Low,Sunglasses,Ray-Ban,1144.05,1,860,1.0,2695.57,Low
+CUST00390,50,Male,High,Sunglasses,Vogue Eyewear,1488.94,5,1778,0.98,35539.57,High
+CUST03869,54,Female,Medium,Optical Glasses,Oakley,1126.36,5,409,0.98,6184.49,Medium
+CUST07302,33,Male,Low,Optical Glasses,Ray-Ban,1102.94,1,398,0.79,950.1,Low
+CUST05622,60,Female,Medium,Sunglasses,Persol,1173.57,3,1004,0.65,6294.84,Medium
+CUST07984,31,Female,High,Sunglasses,Persol,1290.67,1,1292,0.78,3563.52,Low
+CUST03906,62,Male,Low,Optical Glasses,Vogue Eyewear,1176.0,4,751,0.99,9581.85,High
+CUST04259,50,Female,Medium,Sunglasses,Oliver Peoples,1219.09,4,992,0.97,12855.42,High
+CUST05421,66,Male,Medium,Sunglasses,Vogue Eyewear,1076.72,1,404,0.88,1048.75,Low
+CUST08268,39,Female,Medium,Optical Glasses,Ray-Ban,1468.98,1,580,0.53,1237.16,Low
+CUST02383,42,Female,Medium,Sunglasses,Persol,1183.26,2,1656,0.65,6978.96,Medium
+CUST00572,60,Female,Low,Sunglasses,Oakley,1154.93,2,1631,0.98,10115.16,High
+CUST05252,51,Female,Medium,Sunglasses,Oliver Peoples,1045.39,2,1713,0.78,7653.63,Medium
+CUST03224,61,Male,High,Optical Glasses,Oliver Peoples,1562.68,1,40,0.77,131.86,Low
+CUST01143,52,Male,Low,Optical Glasses,Oakley,1130.19,3,1035,0.78,7499.2,Medium
+CUST04310,62,Male,Medium,Optical Glasses,Persol,1227.56,1,208,0.84,587.61,Low
+CUST07331,62,Female,Low,Optical Glasses,Ray-Ban,1100.41,3,1811,0.57,9336.33,High
+CUST02018,65,Female,Low,Sunglasses,Persol,1006.04,2,1093,0.73,4398.41,Medium
+CUST05237,50,Male,High,Sunglasses,Persol,1129.22,4,1024,0.97,12291.85,High
+CUST01542,57,Female,Medium,Optical Glasses,Persol,1074.61,3,802,0.91,6446.07,Medium
+CUST09856,49,Female,Medium,Optical Glasses,Oliver Peoples,1206.01,5,1253,0.56,11592.23,High
+CUST01813,30,Female,Medium,Optical Glasses,Oakley,1069.28,2,683,0.57,2280.99,Low
+CUST06041,65,Male,Low,Sunglasses,Ray-Ban,1128.08,3,1012,0.56,5254.57,Medium
+CUST04460,41,Female,Low,Sunglasses,Persol,1256.17,2,1436,0.69,6820.07,Medium
+CUST07914,26,Male,Medium,Optical Glasses,Ray-Ban,1169.86,5,1461,0.65,15218.6,High
+CUST02348,43,Female,High,Sunglasses,Oliver Peoples,1254.89,4,588,0.73,5903.0,Medium
+CUST08562,22,Female,Medium,Optical Glasses,Ray-Ban,1354.8,4,745,0.82,9070.11,High
+CUST07450,41,Female,Medium,Optical Glasses,Oliver Peoples,1317.48,1,498,0.98,1761.6,Low
+CUST02382,24,Male,Medium,Optical Glasses,Ray-Ban,949.41,5,1872,0.77,18746.82,High
+CUST08614,56,Female,Low,Optical Glasses,Vogue Eyewear,1244.84,3,523,0.57,3050.13,Low
+CUST08799,54,Male,High,Sunglasses,Oliver Peoples,1157.02,2,1950,0.53,6552.22,Medium
+CUST09837,43,Male,Medium,Optical Glasses,Oakley,1283.83,1,1634,0.66,3793.24,Medium
+CUST02825,19,Male,Medium,Sunglasses,Ray-Ban,1296.0,3,638,0.81,5504.77,Medium
+CUST04558,39,Female,Medium,Sunglasses,Oliver Peoples,1287.46,1,1577,0.73,4060.65,Medium
+CUST04465,67,Male,Low,Optical Glasses,Oliver Peoples,1053.55,1,1402,1.0,4046.79,Medium
+CUST04834,33,Male,Medium,Optical Glasses,Vogue Eyewear,1302.69,1,1420,0.84,4257.12,Medium
+CUST09631,26,Male,Medium,Sunglasses,Vogue Eyewear,1320.15,4,1541,0.58,12930.67,High
+CUST02350,19,Female,Medium,Sunglasses,Oakley,1204.41,5,128,0.66,1393.82,Low
+CUST00194,18,Female,Medium,Sunglasses,Vogue Eyewear,1214.43,4,97,0.86,1110.22,Low
+CUST00278,57,Female,Medium,Optical Glasses,Oliver Peoples,1303.2,2,1538,0.74,8127.11,Medium
+CUST05818,29,Male,Medium,Sunglasses,Vogue Eyewear,1320.75,5,628,0.94,10680.34,High
+CUST02204,55,Male,Medium,Optical Glasses,Oliver Peoples,1020.21,3,1464,0.91,11171.22,High
+CUST01569,26,Male,Medium,Sunglasses,Persol,1325.54,1,1697,1.0,6162.85,Medium
+CUST02024,30,Male,Low,Optical Glasses,Ray-Ban,1014.7,1,1850,0.57,2931.51,Low
+CUST01665,61,Male,Medium,Optical Glasses,Vogue Eyewear,1330.83,5,1121,0.79,16144.79,High
+CUST02214,23,Male,High,Sunglasses,Ray-Ban,1214.87,1,1144,0.56,2132.31,Low
+CUST05133,24,Male,High,Sunglasses,Persol,1088.56,3,1512,0.85,11498.77,High
+CUST01691,56,Male,Low,Sunglasses,Persol,1097.52,2,1138,0.66,4516.85,Medium
+CUST07116,37,Female,Medium,Sunglasses,Ray-Ban,1173.27,3,1204,0.89,10333.39,High
+CUST00851,18,Female,Low,Optical Glasses,Oakley,982.08,5,449,0.5,3020.23,Low
+CUST04442,27,Female,Medium,Optical Glasses,Ray-Ban,993.53,1,1650,0.72,3233.74,Low
+CUST04804,20,Female,Medium,Optical Glasses,Oakley,1187.97,2,1184,0.86,6628.16,Medium
+CUST06172,42,Male,Medium,Sunglasses,Oliver Peoples,1268.24,5,410,0.51,3632.73,Medium
+CUST06356,24,Female,Medium,Optical Glasses,Oakley,1092.25,2,1634,0.66,6454.39,Medium
+CUST02666,69,Female,Medium,Sunglasses,Oliver Peoples,1101.82,2,319,0.78,1502.22,Low
+CUST01591,36,Female,Low,Optical Glasses,Oliver Peoples,1200.89,2,858,0.72,4065.0,Medium
+CUST09914,67,Female,Low,Sunglasses,Oakley,1267.18,2,1227,0.6,5111.77,Medium
+CUST00275,57,Female,Medium,Sunglasses,Oliver Peoples,1126.33,2,934,0.86,4957.33,Medium
+CUST07416,42,Male,Medium,Optical Glasses,Ray-Ban,1410.6,3,1963,0.82,18662.35,High
+CUST01001,52,Female,Low,Optical Glasses,Ray-Ban,1160.19,3,798,0.6,4565.74,Medium
+CUST07762,31,Female,Medium,Optical Glasses,Persol,1031.85,5,1637,0.7,16197.22,High
+CUST03506,52,Female,Medium,Optical Glasses,Oliver Peoples,1131.75,4,868,0.76,8181.84,Medium
+CUST02008,42,Male,Medium,Optical Glasses,Oakley,1005.19,3,1515,0.83,10388.85,High
+CUST09296,35,Female,Medium,Sunglasses,Vogue Eyewear,1402.69,1,1156,0.56,2487.8,Low
+CUST06607,19,Female,Low,Sunglasses,Vogue Eyewear,1164.7,3,695,0.51,3393.11,Low
+CUST08849,62,Male,Medium,Optical Glasses,Persol,905.54,4,853,0.85,7195.2,Medium
+CUST00416,57,Male,Medium,Optical Glasses,Ray-Ban,1036.14,2,530,0.57,1715.17,Low
+CUST00013,41,Male,High,Optical Glasses,Oakley,1258.95,4,1471,0.95,19280.22,High
+CUST08894,46,Male,Medium,Sunglasses,Oliver Peoples,1225.42,1,456,0.95,1454.39,Low
+CUST03032,44,Female,Low,Sunglasses,Oliver Peoples,1087.85,4,1932,0.76,17504.79,High
+CUST04618,21,Female,Medium,Optical Glasses,Vogue Eyewear,904.9,1,1878,0.57,2653.86,Low
+CUST07156,31,Female,Medium,Optical Glasses,Persol,983.63,5,1212,0.68,11105.05,High
+CUST05336,46,Female,Medium,Sunglasses,Oakley,1139.99,2,387,0.99,2393.23,Low
+CUST09733,39,Male,Medium,Sunglasses,Vogue Eyewear,1233.8,1,887,0.76,2278.71,Low
+CUST04398,49,Female,High,Sunglasses,Persol,1346.58,2,567,0.91,3807.1,Medium
+CUST07300,50,Male,Medium,Sunglasses,Persol,1278.84,5,1064,0.88,16402.79,High
+CUST00821,51,Female,Low,Optical Glasses,Persol,1088.16,3,1746,0.9,14054.26,High
+CUST08152,40,Male,Medium,Sunglasses,Vogue Eyewear,1328.03,3,1562,0.59,10059.34,High
+CUST01635,26,Female,Medium,Sunglasses,Ray-Ban,997.22,2,89,0.78,379.33,Low
+CUST01113,40,Female,Low,Optical Glasses,Oliver Peoples,1324.35,4,1739,0.56,14133.75,High
+CUST03162,64,Female,High,Optical Glasses,Vogue Eyewear,1086.26,4,712,0.96,8136.77,Medium
+CUST08981,52,Female,Medium,Sunglasses,Persol,1148.77,3,1345,0.55,6984.68,Medium
+CUST09958,66,Female,Medium,Sunglasses,Ray-Ban,1103.54,5,1716,0.91,23606.08,High
+CUST04960,20,Male,Medium,Sunglasses,Vogue Eyewear,1286.44,4,1135,0.88,14081.06,High
+CUST05482,55,Male,High,Optical Glasses,Ray-Ban,955.11,1,1348,0.64,2257.51,Low
+CUST05211,34,Female,Low,Optical Glasses,Oliver Peoples,1122.06,5,1348,0.51,10567.04,High
+CUST01623,27,Male,Medium,Sunglasses,Vogue Eyewear,1116.38,3,1777,0.54,8804.84,Medium
+CUST06121,51,Female,High,Sunglasses,Ray-Ban,1132.86,4,1986,0.99,24409.44,High
+CUST07044,30,Female,Medium,Sunglasses,Ray-Ban,1262.38,3,1436,0.95,14154.57,High
+CUST01615,29,Male,Low,Sunglasses,Ray-Ban,1220.65,3,1224,0.79,9701.26,High
+CUST08554,33,Female,Medium,Sunglasses,Ray-Ban,1098.43,2,1202,0.51,3689.64,Medium
+CUST01713,47,Male,Medium,Sunglasses,Oliver Peoples,1384.76,1,718,0.95,2587.79,Low
+CUST04219,22,Male,Medium,Optical Glasses,Oliver Peoples,1259.48,2,714,0.67,3301.42,Low
+CUST05169,23,Female,Medium,Sunglasses,Ray-Ban,1522.14,3,682,0.93,7935.06,Medium
+CUST03638,49,Female,Low,Optical Glasses,Persol,1175.54,5,1500,0.91,21980.99,High
+CUST03875,46,Female,Medium,Optical Glasses,Vogue Eyewear,1086.93,4,1887,0.6,13486.27,High
+CUST00711,56,Male,Medium,Sunglasses,Oliver Peoples,1367.82,4,464,0.95,6607.51,Medium
+CUST06056,69,Female,Low,Sunglasses,Oliver Peoples,1134.31,2,274,0.61,1038.84,Low
+CUST06338,59,Female,Medium,Sunglasses,Vogue Eyewear,1406.68,4,1048,0.56,9047.15,High
+CUST08376,48,Male,Low,Optical Glasses,Oakley,975.58,1,575,0.85,1306.34,Low
+CUST07023,40,Male,Medium,Sunglasses,Oliver Peoples,1108.42,5,1929,0.6,17573.77,High
+CUST03479,45,Male,Medium,Sunglasses,Oakley,1147.27,3,1410,0.96,12763.93,High
+CUST00382,58,Female,High,Sunglasses,Oliver Peoples,1368.3,3,615,0.68,4703.2,Medium
+CUST01831,50,Male,Medium,Optical Glasses,Oliver Peoples,1059.42,4,309,0.54,1937.26,Low
+CUST04619,18,Male,Low,Sunglasses,Oakley,1229.06,2,577,0.98,3808.13,Medium
+CUST06968,29,Female,Medium,Optical Glasses,Oakley,1376.87,5,771,0.8,11633.61,High
+CUST07144,64,Male,High,Optical Glasses,Ray-Ban,1339.47,5,415,0.51,3883.55,Medium
+CUST09258,65,Male,Medium,Optical Glasses,Oliver Peoples,1176.78,5,1157,0.56,10444.65,High
+CUST08544,53,Female,Medium,Sunglasses,Vogue Eyewear,1045.45,3,482,1.0,4141.7,Medium
+CUST04231,21,Female,High,Optical Glasses,Vogue Eyewear,1244.52,3,35,0.92,329.37,Low
+CUST06744,29,Male,Medium,Optical Glasses,Ray-Ban,1278.03,5,1365,0.89,21268.7,High
+CUST07663,35,Male,High,Optical Glasses,Persol,1069.02,3,408,0.6,2150.93,Low
+CUST07239,62,Male,Medium,Optical Glasses,Vogue Eyewear,1163.02,4,1757,0.72,16123.47,High
+CUST02539,51,Male,Medium,Sunglasses,Ray-Ban,1451.62,4,1502,0.81,19354.19,High
+CUST05423,64,Male,Medium,Optical Glasses,Ray-Ban,1076.53,5,142,0.91,1905.61,Low
+CUST00522,22,Male,High,Optical Glasses,Persol,1196.74,4,600,0.96,7554.22,Medium
+CUST07999,19,Male,Medium,Sunglasses,Vogue Eyewear,1186.84,5,601,0.69,6742.06,Medium
+CUST04940,43,Female,Medium,Optical Glasses,Persol,1115.16,2,841,0.54,2775.01,Low
+CUST02631,59,Female,Medium,Sunglasses,Oliver Peoples,1199.57,3,1084,0.68,7267.62,Medium
+CUST05332,32,Female,Low,Optical Glasses,Ray-Ban,1289.38,3,1893,0.86,17252.75,High
+CUST07309,23,Male,Medium,Optical Glasses,Vogue Eyewear,1005.22,4,1857,0.96,19638.64,High
+CUST06781,36,Female,Medium,Optical Glasses,Vogue Eyewear,1122.77,5,1866,0.67,19228.9,High
+CUST03567,40,Female,Medium,Optical Glasses,Vogue Eyewear,1077.56,2,571,0.88,2966.86,Low
+CUST05000,36,Female,Medium,Optical Glasses,Vogue Eyewear,1002.69,4,143,0.59,927.09,Low
+CUST07600,33,Female,Medium,Optical Glasses,Ray-Ban,1150.6,4,627,0.88,6957.32,Medium
+CUST05472,46,Male,High,Sunglasses,Oliver Peoples,1090.8,4,1111,0.8,10624.69,High
+CUST05137,37,Female,Medium,Optical Glasses,Ray-Ban,1237.03,4,975,0.64,8459.25,Medium
+CUST04575,19,Male,Medium,Sunglasses,Vogue Eyewear,1374.66,1,804,0.97,2937.18,Low
+CUST03437,62,Male,Medium,Optical Glasses,Oliver Peoples,1033.2,4,1671,0.56,10595.37,High
+CUST01319,35,Male,Low,Sunglasses,Oakley,1142.78,4,1098,0.97,13338.4,High
+CUST05517,49,Female,Medium,Sunglasses,Persol,890.15,1,791,0.85,1639.71,Low
+CUST03171,64,Male,Medium,Sunglasses,Oliver Peoples,1216.78,5,1146,0.69,13180.23,High
+CUST00991,24,Male,Low,Sunglasses,Ray-Ban,1111.02,5,1128,0.68,11673.93,High
+CUST09199,58,Male,Medium,Optical Glasses,Oakley,1118.2,4,788,0.54,5214.43,Medium
+CUST07730,18,Male,High,Optical Glasses,Ray-Ban,1423.02,1,298,0.71,824.88,Low
+CUST03042,60,Male,Medium,Sunglasses,Persol,1165.86,3,146,0.57,797.45,Low
+CUST02994,63,Male,Medium,Optical Glasses,Vogue Eyewear,1214.84,4,317,0.55,2321.18,Low
+CUST08753,51,Male,Low,Optical Glasses,Vogue Eyewear,1417.89,4,367,0.74,4219.95,Medium
+CUST00595,21,Female,High,Sunglasses,Ray-Ban,1211.19,1,391,0.77,999.05,Low
+CUST08640,29,Male,Medium,Optical Glasses,Ray-Ban,1171.83,2,477,0.71,2174.6,Low
+CUST09762,46,Female,Low,Sunglasses,Oliver Peoples,1279.36,4,506,0.69,4895.08,Medium
+CUST04933,52,Female,Medium,Optical Glasses,Vogue Eyewear,1154.84,4,1795,0.99,22489.96,High
+CUST09255,54,Male,Low,Optical Glasses,Persol,1202.2,1,1090,0.88,3159.32,Low
+CUST02922,28,Male,Medium,Sunglasses,Vogue Eyewear,992.24,5,1324,0.74,13317.22,High
+CUST02220,54,Male,High,Optical Glasses,Oakley,1161.83,3,1953,0.86,16038.79,High
+CUST04248,50,Female,Low,Optical Glasses,Ray-Ban,1395.23,2,1526,0.82,9566.46,High
+CUST00892,51,Male,Medium,Sunglasses,Oakley,1168.53,1,573,0.97,1779.4,Low
+CUST06489,36,Male,High,Sunglasses,Vogue Eyewear,1046.16,1,65,0.54,100.6,Low
+CUST09124,40,Male,Low,Sunglasses,Ray-Ban,973.18,2,370,0.87,1716.53,Low
+CUST05990,29,Male,Medium,Sunglasses,Oliver Peoples,1149.84,1,1153,0.58,2106.7,Low
+CUST09865,25,Male,High,Optical Glasses,Oakley,1429.34,5,1511,0.86,25443.43,High
+CUST06857,34,Female,Medium,Optical Glasses,Oliver Peoples,1204.02,2,1591,0.89,9341.81,High
+CUST08231,64,Male,Medium,Sunglasses,Ray-Ban,1282.51,4,604,0.52,4414.36,Medium
+CUST04584,61,Female,Medium,Optical Glasses,Ray-Ban,1062.5,3,227,0.53,1050.65,Low
+CUST02777,51,Male,Medium,Sunglasses,Vogue Eyewear,1053.06,2,774,0.87,3885.53,Medium
+CUST05921,68,Female,High,Optical Glasses,Oakley,1360.9,3,1532,0.97,16622.07,High
+CUST01479,34,Female,Medium,Optical Glasses,Persol,938.59,4,509,0.76,3979.0,Medium
+CUST00062,64,Female,High,Sunglasses,Oliver Peoples,1156.2,2,1307,0.9,7452.26,Medium
+CUST06425,30,Male,Medium,Sunglasses,Vogue Eyewear,970.11,3,1118,0.65,5794.35,Medium
+CUST02185,35,Female,Medium,Optical Glasses,Oakley,1383.05,2,531,0.9,3621.7,Medium
+CUST03468,19,Male,Low,Optical Glasses,Oakley,1041.48,1,1801,0.75,3854.19,Medium
+CUST08995,27,Male,Medium,Sunglasses,Ray-Ban,1415.33,4,411,0.89,5673.57,Medium
+CUST06787,48,Male,Medium,Optical Glasses,Oliver Peoples,1186.71,2,682,0.53,2350.4,Low
+CUST09533,68,Male,Low,Sunglasses,Oakley,1472.16,4,1670,0.65,17512.65,High
+CUST06959,54,Male,Medium,Sunglasses,Persol,1006.08,3,903,0.65,4853.58,Medium
+CUST04961,23,Female,Low,Optical Glasses,Oliver Peoples,1285.45,1,1630,0.66,3788.73,Medium
+CUST05602,37,Female,Medium,Optical Glasses,Vogue Eyewear,1213.07,2,1751,0.63,7332.46,Medium
+CUST02033,48,Male,Medium,Optical Glasses,Vogue Eyewear,1300.73,2,876,0.6,3746.1,Medium
+CUST08337,45,Female,Medium,Optical Glasses,Oliver Peoples,1316.01,4,1163,0.92,15430.99,High
+CUST06769,25,Female,Medium,Optical Glasses,Persol,1012.57,2,142,0.51,401.81,Low
+CUST04551,18,Male,Medium,Optical Glasses,Oakley,1355.85,4,1007,0.93,13915.26,High
+CUST04829,57,Female,Medium,Optical Glasses,Oakley,1176.98,3,220,0.53,1127.97,Low
+CUST05594,37,Female,Medium,Sunglasses,Ray-Ban,1229.76,2,1859,0.84,10522.43,High
+CUST00403,63,Male,Low,Optical Glasses,Persol,1296.49,4,1301,0.97,17930.21,High
+CUST00911,22,Male,Low,Optical Glasses,Oliver Peoples,1048.15,2,944,0.97,5259.01,Medium
+CUST05631,37,Female,Low,Optical Glasses,Oliver Peoples,1061.55,5,1801,0.83,21737.49,High
+CUST07091,65,Female,High,Sunglasses,Oakley,1192.4,4,333,0.62,2697.89,Low
+CUST01040,69,Female,Medium,Sunglasses,Ray-Ban,1212.75,5,32,0.86,457.19,Low
+CUST02462,44,Male,Medium,Optical Glasses,Oakley,1204.35,1,121,0.94,375.3,Low
+CUST06697,26,Female,Medium,Sunglasses,Ray-Ban,1219.52,3,1453,0.63,9175.37,High
+CUST03250,61,Male,Low,Optical Glasses,Ray-Ban,1075.48,5,332,0.91,4451.01,Medium
+CUST09401,29,Male,High,Sunglasses,Ray-Ban,1295.6,3,231,0.73,1795.7,Low
+CUST01834,36,Male,Medium,Sunglasses,Vogue Eyewear,1181.45,3,1771,0.66,11350.27,High
+CUST05005,62,Male,Medium,Sunglasses,Oakley,1382.58,5,1310,0.96,23818.25,High
+CUST07190,52,Male,High,Optical Glasses,Vogue Eyewear,1108.65,4,731,1.0,8881.35,High
+CUST09633,28,Male,Low,Sunglasses,Vogue Eyewear,1577.15,4,1249,0.62,13384.26,High
+CUST03560,66,Female,Medium,Optical Glasses,Oakley,1284.8,1,1487,0.76,3978.02,Medium
+CUST01386,25,Female,Medium,Sunglasses,Oliver Peoples,1322.18,3,1456,0.88,13923.97,High
+CUST00457,32,Male,Low,Optical Glasses,Persol,1510.28,4,793,0.75,9843.72,High
+CUST06384,44,Female,Medium,Optical Glasses,Oakley,1351.46,3,1328,0.64,9440.82,High
+CUST04152,31,Male,Medium,Sunglasses,Oakley,1278.89,3,486,0.81,4137.93,Medium
+CUST07003,19,Female,Medium,Sunglasses,Oakley,1448.86,2,1514,0.5,6009.79,Medium
+CUST09317,20,Male,Medium,Sunglasses,Ray-Ban,1169.34,4,1152,0.81,11957.64,High
+CUST09703,41,Female,Medium,Sunglasses,Vogue Eyewear,1169.2,2,1201,0.57,4385.75,Medium
+CUST09614,61,Female,Low,Optical Glasses,Oliver Peoples,1187.41,4,1613,0.94,19730.13,High
+CUST00741,38,Female,Low,Sunglasses,Ray-Ban,1282.08,5,1262,0.74,16401.49,High
+CUST05156,49,Female,Medium,Optical Glasses,Oakley,1277.67,2,1243,0.54,4699.17,Medium
+CUST08185,44,Male,Low,Sunglasses,Persol,1228.65,5,1330,0.99,22161.14,High
+CUST07223,61,Male,High,Optical Glasses,Oliver Peoples,1110.25,3,805,0.53,3893.33,Medium
+CUST01292,63,Female,Medium,Optical Glasses,Persol,1128.86,3,1190,0.7,7728.83,Medium
+CUST04783,40,Female,Low,Sunglasses,Persol,1177.46,3,567,0.67,3676.48,Medium
+CUST00739,62,Male,Low,Optical Glasses,Oakley,1344.05,5,1873,0.67,23104.96,High
+CUST00525,43,Male,Low,Optical Glasses,Oliver Peoples,1088.18,5,1552,0.56,12955.6,High
+CUST00327,35,Male,Low,Sunglasses,Oliver Peoples,1049.13,5,616,0.64,5665.88,Medium
+CUST04612,62,Male,Low,Sunglasses,Oliver Peoples,1048.98,2,1593,0.54,4944.4,Medium
+CUST07890,21,Male,Medium,Optical Glasses,Vogue Eyewear,1105.98,5,179,0.88,2386.49,Low
+CUST04166,39,Female,Low,Sunglasses,Oliver Peoples,1220.64,4,191,1.0,2554.98,Low
+CUST07796,50,Male,Medium,Optical Glasses,Ray-Ban,1155.94,3,916,0.75,6527.1,Medium
+CUST01971,36,Male,Medium,Optical Glasses,Oliver Peoples,1088.64,5,1522,0.67,15207.26,High
+CUST03632,26,Female,Medium,Sunglasses,Vogue Eyewear,1038.14,5,1807,0.59,15161.54,High
+CUST07667,23,Male,Low,Sunglasses,Oakley,1176.93,3,1368,0.96,12703.88,High
+CUST04178,67,Female,Medium,Optical Glasses,Oliver Peoples,1058.71,3,1863,0.71,11510.03,High
+CUST04462,48,Female,High,Sunglasses,Persol,1277.01,5,310,0.52,2819.92,Low
+CUST08689,53,Female,Low,Optical Glasses,Oliver Peoples,872.25,2,1336,0.61,3895.06,Medium
+CUST00732,42,Male,High,Sunglasses,Persol,1359.13,1,1491,0.54,2998.05,Low
+CUST07235,44,Male,Low,Optical Glasses,Oliver Peoples,1220.26,5,1614,0.8,21583.56,High
+CUST04092,47,Male,High,Sunglasses,Vogue Eyewear,1371.68,4,1222,0.88,16164.93,High
+CUST05047,50,Male,High,Sunglasses,Persol,1100.04,1,1360,0.72,2951.12,Low
+CUST03600,31,Male,Low,Optical Glasses,Vogue Eyewear,1425.03,4,208,0.86,2793.53,Low
+CUST01803,32,Male,Medium,Optical Glasses,Ray-Ban,999.94,5,235,0.77,2478.62,Low
+CUST06142,33,Male,High,Optical Glasses,Oliver Peoples,1403.94,1,1110,0.95,4056.04,Medium
+CUST06468,49,Female,Medium,Sunglasses,Oliver Peoples,1266.88,4,560,0.88,6841.85,Medium
+CUST07939,63,Male,Low,Sunglasses,Oakley,1126.49,5,86,0.91,1207.66,Low
+CUST06215,30,Female,Low,Optical Glasses,Ray-Ban,1449.95,3,824,0.89,8739.74,Medium
+CUST07475,68,Female,Low,Optical Glasses,Ray-Ban,1424.19,3,816,0.9,8596.64,Medium
+CUST06054,38,Male,High,Optical Glasses,Oakley,1224.73,2,1517,0.71,7228.05,Medium
+CUST00657,38,Male,High,Optical Glasses,Ray-Ban,1374.12,4,1111,0.75,12547.79,High
+CUST07261,55,Male,Medium,Sunglasses,Vogue Eyewear,1202.67,3,34,1.0,336.09,Low
+CUST05998,44,Male,Low,Sunglasses,Persol,1163.33,5,788,0.92,11552.98,High
+CUST03736,28,Female,High,Optical Glasses,Oakley,1318.95,4,1807,0.88,22984.56,High
+CUST00337,50,Female,Medium,Sunglasses,Oakley,1205.45,3,1390,0.53,7299.08,Medium
+CUST07256,42,Male,Low,Optical Glasses,Oakley,956.74,4,1210,0.86,10910.51,High
+CUST00688,44,Male,High,Sunglasses,Vogue Eyewear,1308.9,5,899,0.96,15474.43,High
+CUST06470,67,Female,Medium,Sunglasses,Oakley,1428.53,4,1658,0.53,13756.78,High
+CUST07503,50,Female,Medium,Optical Glasses,Vogue Eyewear,1043.0,2,1277,0.87,6349.38,Medium
+CUST08004,29,Female,Medium,Optical Glasses,Persol,1412.96,4,50,0.85,658.09,Low
+CUST03647,63,Female,High,Optical Glasses,Ray-Ban,1182.28,4,1951,0.77,19464.15,High
+CUST01490,63,Male,Low,Optical Glasses,Persol,999.6,5,1271,0.71,12356.84,High
+CUST06807,57,Female,Medium,Optical Glasses,Oliver Peoples,1497.54,1,1688,0.7,4847.93,Medium
+CUST00561,50,Male,Medium,Optical Glasses,Persol,1350.01,2,1786,0.93,12286.79,High
+CUST03350,32,Male,Low,Sunglasses,Persol,1218.63,4,303,0.78,3156.29,Low
+CUST00541,27,Male,High,Optical Glasses,Vogue Eyewear,1255.87,4,1450,0.94,18758.91,High
+CUST08736,27,Male,Low,Optical Glasses,Ray-Ban,1066.0,1,1243,0.97,3521.33,Low
+CUST02563,59,Male,Low,Sunglasses,Vogue Eyewear,1128.34,2,1991,0.58,7139.64,Medium
+CUST08790,36,Male,Medium,Sunglasses,Oliver Peoples,1139.42,4,1462,0.96,17525.47,High
+CUST00545,22,Male,High,Sunglasses,Persol,1250.94,4,587,0.58,4667.34,Medium
+CUST03576,26,Male,Medium,Sunglasses,Persol,1348.33,3,909,0.72,7253.05,Medium
+CUST01730,54,Male,Medium,Optical Glasses,Oliver Peoples,1204.92,4,1915,0.95,24022.47,High
+CUST07039,52,Female,Medium,Sunglasses,Vogue Eyewear,1389.61,3,720,0.62,5098.54,Medium
+CUST05129,27,Male,Medium,Optical Glasses,Ray-Ban,1310.32,5,1104,0.76,15060.42,High
+CUST03406,24,Male,Medium,Sunglasses,Oliver Peoples,1019.48,5,1933,0.55,14847.4,High
+CUST01869,29,Female,High,Optical Glasses,Ray-Ban,1176.91,4,1221,0.96,15118.1,High
+CUST04172,27,Male,Medium,Sunglasses,Ray-Ban,1095.21,1,1931,0.77,4461.47,Medium
+CUST03312,51,Male,Low,Sunglasses,Vogue Eyewear,1186.3,4,1924,0.83,20760.84,High
+CUST06115,47,Male,High,Sunglasses,Persol,1208.57,4,1662,0.51,11226.39,High
+CUST04786,51,Female,Low,Optical Glasses,Persol,1027.37,4,752,0.88,7450.66,Medium
+CUST04372,44,Female,Medium,Optical Glasses,Oakley,1096.81,2,933,0.7,3925.08,Medium
+CUST06414,62,Female,High,Sunglasses,Persol,1076.61,4,1060,0.8,10005.1,High
+CUST04825,36,Male,Low,Sunglasses,Vogue Eyewear,1137.81,5,1203,0.56,10500.27,High
+CUST09244,46,Male,Low,Optical Glasses,Vogue Eyewear,1180.21,2,1406,0.62,5637.33,Medium
+CUST06655,48,Male,Medium,Sunglasses,Oliver Peoples,1161.35,1,1677,0.84,4482.11,Medium
+CUST08732,29,Male,Medium,Optical Glasses,Oakley,985.91,2,653,0.92,3245.45,Low
+CUST05741,42,Male,Medium,Optical Glasses,Oliver Peoples,1346.78,2,963,0.63,4477.14,Medium
+CUST06902,24,Female,Low,Optical Glasses,Oliver Peoples,1432.56,2,1909,0.56,8391.58,Medium
+CUST08479,38,Male,Medium,Optical Glasses,Oakley,1159.24,1,289,0.77,706.76,Low
+CUST08242,40,Male,Low,Optical Glasses,Persol,1225.04,3,459,0.98,4529.16,Medium
+CUST06815,42,Male,Medium,Sunglasses,Ray-Ban,1228.05,4,420,0.99,5595.87,Medium
+CUST05424,20,Male,Low,Sunglasses,Ray-Ban,1210.23,1,808,0.72,1928.94,Low
+CUST05577,36,Male,Medium,Optical Glasses,Vogue Eyewear,1059.7,1,931,0.58,1567.72,Low
+CUST02273,18,Male,Medium,Optical Glasses,Oakley,1267.68,1,1104,0.72,2760.69,Low
+CUST00750,35,Male,Medium,Optical Glasses,Ray-Ban,1171.61,5,1139,0.52,9505.77,High
+CUST07814,40,Female,Medium,Sunglasses,Ray-Ban,1428.68,1,1559,0.88,5369.96,Medium
+CUST00173,30,Male,Medium,Optical Glasses,Ray-Ban,1263.24,5,655,0.87,9861.06,High
+CUST08755,32,Male,Low,Optical Glasses,Persol,1312.96,1,1049,0.65,2452.72,Low
+CUST01081,28,Male,Low,Sunglasses,Vogue Eyewear,1072.44,3,1401,0.67,8273.98,Medium
+CUST00451,39,Male,Medium,Sunglasses,Oliver Peoples,1222.31,3,1850,0.56,10408.05,High
+CUST02642,47,Male,High,Sunglasses,Ray-Ban,1268.54,4,1299,0.87,15710.85,High
+CUST02240,58,Female,Medium,Optical Glasses,Persol,1129.41,4,691,0.85,7269.69,Medium
+CUST05504,38,Female,High,Optical Glasses,Ray-Ban,1099.15,5,710,0.75,8017.77,Medium
+CUST01968,54,Male,Medium,Optical Glasses,Vogue Eyewear,1081.17,5,578,0.56,4793.88,Medium
+CUST07742,61,Male,Medium,Sunglasses,Oliver Peoples,1284.78,1,1288,0.77,3490.94,Low
+CUST05833,62,Female,Medium,Sunglasses,Oliver Peoples,1114.11,3,120,0.69,758.21,Low
+CUST03027,19,Male,Low,Sunglasses,Persol,1101.11,4,1257,0.6,9100.9,High
+CUST00779,54,Male,Medium,Optical Glasses,Persol,1078.73,5,1622,0.73,17497.0,High
+CUST04922,37,Female,Low,Optical Glasses,Oliver Peoples,1361.08,5,971,0.98,17742.14,High
+CUST03577,45,Female,High,Sunglasses,Persol,1155.27,1,1053,0.7,2333.01,Low
+CUST00573,61,Female,Medium,Sunglasses,Persol,1119.06,1,1759,0.65,3505.42,Low
+CUST00554,49,Male,Low,Optical Glasses,Oliver Peoples,1385.03,4,1830,0.95,26387.67,High
+CUST03239,52,Female,Medium,Sunglasses,Oliver Peoples,1059.72,4,1941,0.57,12848.68,High
+CUST07570,34,Female,Low,Optical Glasses,Oliver Peoples,1217.19,2,1481,0.67,6617.98,Medium
+CUST07173,45,Male,Low,Sunglasses,Oliver Peoples,1087.81,5,467,0.62,4314.58,Medium
+CUST07706,46,Male,High,Sunglasses,Oliver Peoples,1208.66,3,1727,0.58,9950.68,High
+CUST08097,34,Female,Medium,Optical Glasses,Oliver Peoples,1147.6,2,35,0.82,180.47,Low
+CUST07230,59,Female,Medium,Optical Glasses,Ray-Ban,1449.99,4,202,0.93,2985.15,Low
+CUST00755,32,Female,Low,Sunglasses,Vogue Eyewear,1188.24,3,493,0.77,3707.41,Medium
+CUST04063,48,Female,Low,Optical Glasses,Oliver Peoples,1363.04,2,1672,0.51,6368.72,Medium
+CUST03128,41,Female,High,Optical Glasses,Oakley,865.91,3,847,0.94,5666.47,Medium
+CUST02075,19,Female,Low,Optical Glasses,Oakley,1157.34,3,905,0.9,7747.84,Medium
+CUST01627,40,Male,High,Optical Glasses,Oakley,1252.15,5,192,0.69,2272.39,Low
+CUST08846,50,Male,High,Optical Glasses,Oakley,1220.17,3,808,0.6,4861.96,Medium
+CUST00772,45,Male,Medium,Sunglasses,Persol,1167.31,5,1263,0.99,19994.1,High
+CUST01800,28,Male,Medium,Sunglasses,Persol,1189.07,3,361,0.74,2610.81,Low
+CUST04665,62,Female,High,Optical Glasses,Oakley,1276.07,1,315,0.6,660.76,Low
+CUST00214,41,Male,Low,Optical Glasses,Persol,1108.63,4,599,0.67,4875.91,Medium
+CUST08903,22,Male,Medium,Optical Glasses,Persol,1318.27,1,308,0.88,978.91,Low
+CUST00426,67,Female,High,Optical Glasses,Oliver Peoples,1036.55,3,502,0.82,3507.0,Low
+CUST01734,63,Female,Low,Sunglasses,Oakley,1381.19,1,266,0.63,634.14,Low
+CUST00879,28,Female,Medium,Optical Glasses,Ray-Ban,1321.62,3,1345,0.77,11249.88,High
+CUST03277,61,Male,Low,Sunglasses,Persol,1167.61,3,126,0.89,1076.18,Low
+CUST03817,57,Female,Medium,Optical Glasses,Oakley,1258.64,1,1253,0.99,4277.55,Medium
+CUST01097,64,Female,Medium,Optical Glasses,Persol,1407.28,1,1227,0.64,3027.7,Low
+CUST04357,46,Male,Medium,Optical Glasses,Vogue Eyewear,849.85,3,520,0.96,3486.95,Low
+CUST04809,49,Female,Medium,Optical Glasses,Oliver Peoples,1257.34,2,1269,0.98,8567.96,Medium
+CUST03507,50,Female,Medium,Optical Glasses,Oliver Peoples,1226.35,4,795,0.87,9295.4,High
+CUST06045,19,Male,Medium,Optical Glasses,Ray-Ban,1049.93,5,284,0.7,2859.26,Low
+CUST05445,49,Male,High,Optical Glasses,Ray-Ban,1235.08,1,379,0.93,1192.68,Low
+CUST02397,66,Female,Low,Optical Glasses,Oakley,1421.93,1,1205,0.71,3332.96,Low
+CUST05620,61,Male,Low,Sunglasses,Ray-Ban,1315.6,3,1192,0.93,11987.03,High
+CUST05373,61,Male,Medium,Sunglasses,Ray-Ban,1233.04,4,1648,0.78,17369.85,High
+CUST06404,46,Male,High,Optical Glasses,Persol,1242.2,4,1031,0.65,9122.85,High
+CUST06685,52,Female,Medium,Sunglasses,Persol,1219.77,1,995,0.86,2859.61,Low
+CUST07560,35,Male,Medium,Optical Glasses,Ray-Ban,1050.58,5,413,0.89,5289.89,Medium
+CUST08897,66,Male,Medium,Optical Glasses,Oliver Peoples,1365.92,1,486,0.52,945.74,Low
+CUST08433,66,Male,Medium,Sunglasses,Oakley,1373.9,5,1390,0.83,21713.27,High
+CUST09684,42,Male,Medium,Optical Glasses,Oliver Peoples,1179.68,1,902,0.54,1574.24,Low
+CUST00588,43,Male,Medium,Optical Glasses,Persol,1217.91,5,1569,0.84,21988.45,High
+CUST09501,45,Male,Low,Optical Glasses,Oliver Peoples,926.56,5,328,0.64,2664.43,Low
+CUST04628,28,Male,Low,Optical Glasses,Oliver Peoples,1119.89,1,1936,0.72,4276.81,Medium
+CUST07496,55,Female,Medium,Optical Glasses,Vogue Eyewear,1015.84,3,1963,0.76,12456.26,High
+CUST09490,66,Female,Low,Optical Glasses,Persol,1274.96,5,678,0.82,9709.96,High
+CUST03398,63,Male,Low,Optical Glasses,Oliver Peoples,1305.39,3,354,0.52,1975.04,Low
+CUST06373,64,Female,Low,Sunglasses,Oakley,1103.97,3,1339,0.79,9598.28,High
+CUST00699,39,Female,Low,Optical Glasses,Persol,926.51,1,462,0.6,703.64,Low
+CUST06628,53,Female,Medium,Sunglasses,Oliver Peoples,1197.54,5,1011,0.58,9619.36,High
+CUST08756,31,Male,High,Optical Glasses,Ray-Ban,1206.68,5,80,0.91,1203.37,Low
+CUST04369,57,Male,Medium,Optical Glasses,Persol,1226.0,2,1618,0.92,9999.86,High
+CUST02043,28,Female,Low,Optical Glasses,Oakley,1045.16,4,271,0.93,2886.7,Low
+CUST08650,32,Female,Medium,Sunglasses,Persol,943.0,2,343,0.93,1648.26,Low
+CUST07115,49,Female,Medium,Optical Glasses,Persol,1000.81,4,1136,0.6,7475.64,Medium
+CUST00988,43,Male,Medium,Optical Glasses,Vogue Eyewear,1001.92,1,1250,0.99,3396.92,Low
+CUST00734,55,Female,Low,Sunglasses,Ray-Ban,1160.61,4,480,0.55,3357.82,Low
+CUST03977,34,Female,High,Optical Glasses,Persol,1259.4,5,1284,0.69,15284.63,High
+CUST09128,54,Female,Low,Sunglasses,Vogue Eyewear,1275.88,1,1307,0.54,2467.1,Low
+CUST07649,54,Male,High,Optical Glasses,Ray-Ban,1591.49,2,219,0.53,1012.19,Low
+CUST03474,41,Male,Low,Optical Glasses,Persol,1256.86,5,1003,0.86,14851.26,High
+CUST01092,37,Female,Medium,Optical Glasses,Vogue Eyewear,1200.36,5,1322,0.69,14999.24,High
+CUST00044,24,Female,High,Optical Glasses,Vogue Eyewear,1261.27,2,133,0.66,606.65,Low
+CUST06599,18,Female,Medium,Sunglasses,Oakley,1110.31,4,546,0.75,4982.71,Medium
+CUST03585,69,Male,Medium,Optical Glasses,Persol,1010.66,5,833,0.53,6112.28,Medium
+CUST09888,54,Male,Low,Optical Glasses,Oakley,1259.96,2,404,0.54,1506.15,Low
+CUST09921,61,Female,Low,Sunglasses,Persol,1402.27,1,300,0.81,933.57,Low
+CUST07696,64,Female,Medium,Optical Glasses,Ray-Ban,1022.78,4,187,0.91,1907.36,Low
+CUST08527,34,Female,Medium,Optical Glasses,Oliver Peoples,1028.68,1,972,0.99,2712.0,Low
+CUST00439,29,Female,Medium,Optical Glasses,Oliver Peoples,1086.75,2,404,0.98,2357.62,Low
+CUST02434,23,Female,Low,Optical Glasses,Ray-Ban,1069.22,1,870,0.94,2395.64,Low
+CUST02565,58,Male,Medium,Optical Glasses,Oliver Peoples,1070.94,4,534,0.79,4951.09,Medium
+CUST02314,55,Female,Medium,Sunglasses,Oakley,1078.63,3,369,0.9,2944.22,Low
+CUST05400,57,Male,Medium,Optical Glasses,Oakley,1545.12,4,219,0.7,2595.8,Low
+CUST05115,32,Female,High,Optical Glasses,Oliver Peoples,1385.28,5,704,0.93,12424.25,High
+CUST07006,59,Male,Low,Optical Glasses,Oakley,1243.57,1,1611,0.81,4445.88,Medium
+CUST03007,30,Female,Low,Optical Glasses,Oakley,929.25,1,1832,0.67,3124.93,Low
+CUST06228,62,Male,High,Sunglasses,Ray-Ban,1011.63,3,1458,0.78,9455.89,High
+CUST02175,51,Female,Medium,Sunglasses,Persol,1151.46,2,680,0.98,4204.56,Medium
+CUST09237,19,Female,Medium,Optical Glasses,Oliver Peoples,1291.88,3,69,0.74,542.16,Low
+CUST01941,21,Female,Medium,Optical Glasses,Oliver Peoples,1149.17,3,1756,0.97,16088.25,High
+CUST04004,22,Female,Low,Optical Glasses,Vogue Eyewear,1219.94,5,1371,0.73,16725.38,High
+CUST07184,30,Female,Medium,Sunglasses,Oliver Peoples,1108.73,5,241,0.98,3587.12,Low
+CUST08838,56,Female,Medium,Sunglasses,Oliver Peoples,1240.87,1,279,0.53,502.71,Low
+CUST03220,53,Male,Medium,Optical Glasses,Ray-Ban,932.56,2,242,0.58,717.23,Low
+CUST09432,32,Male,Low,Optical Glasses,Vogue Eyewear,1097.79,2,1022,0.75,4610.72,Medium
+CUST09913,35,Male,Low,Optical Glasses,Oliver Peoples,1169.97,4,1122,0.59,8487.64,Medium
+CUST00664,56,Male,Low,Optical Glasses,Persol,1336.25,3,1659,0.84,15305.3,High
+CUST01090,21,Female,Medium,Optical Glasses,Oliver Peoples,1445.83,4,113,0.66,1181.7,Low
+CUST07034,36,Female,Low,Optical Glasses,Oliver Peoples,1236.16,4,1267,0.64,10984.96,High
+CUST06394,34,Female,Medium,Optical Glasses,Ray-Ban,1353.22,5,357,0.82,5426.6,Medium
+CUST03744,57,Female,High,Optical Glasses,Ray-Ban,1411.35,3,1321,0.85,13025.21,High
+CUST07578,39,Female,Medium,Optical Glasses,Oakley,1048.44,3,1594,0.9,12362.4,High
+CUST02372,51,Female,High,Optical Glasses,Ray-Ban,1119.75,1,144,0.92,406.42,Low
+CUST02072,43,Male,Medium,Sunglasses,Persol,1043.72,1,970,0.84,2329.93,Low
+CUST07265,31,Female,Low,Sunglasses,Persol,1185.19,2,1292,0.84,7048.02,Medium
+CUST07910,54,Male,Medium,Optical Glasses,Persol,1124.25,4,683,0.97,8162.49,Medium
+CUST09603,43,Male,Medium,Optical Glasses,Oliver Peoples,1148.68,3,1985,0.75,14055.59,High
+CUST03615,65,Female,Medium,Optical Glasses,Persol,1252.17,3,1597,0.52,8546.73,Medium
+CUST01684,47,Male,Low,Optical Glasses,Ray-Ban,1259.59,5,1471,0.51,12944.62,High
+CUST05034,58,Female,Low,Sunglasses,Vogue Eyewear,1337.88,1,792,0.8,2322.41,Low
+CUST06265,22,Male,Medium,Optical Glasses,Ray-Ban,1044.4,5,304,0.57,2479.09,Low
+CUST01617,43,Male,High,Optical Glasses,Vogue Eyewear,1187.84,1,411,0.63,842.65,Low
+CUST00504,39,Male,Medium,Sunglasses,Persol,956.19,3,1334,0.71,7443.66,Medium
+CUST03125,46,Female,High,Sunglasses,Persol,1096.4,1,707,0.6,1274.23,Low
+CUST00869,47,Female,High,Sunglasses,Oliver Peoples,1420.14,3,990,0.95,10977.88,High
+CUST08595,40,Male,Medium,Optical Glasses,Oliver Peoples,1504.26,2,417,0.58,1993.54,Low
+CUST08199,40,Male,Medium,Sunglasses,Vogue Eyewear,1134.67,3,1301,0.78,9463.89,High
+CUST00387,63,Female,Medium,Optical Glasses,Vogue Eyewear,923.54,2,1280,0.73,4728.52,Medium
+CUST07174,69,Female,Low,Optical Glasses,Oliver Peoples,1120.22,1,667,0.94,1924.26,Low
+CUST00152,32,Male,Medium,Sunglasses,Oliver Peoples,1067.48,4,269,0.75,2360.15,Low
+CUST09055,37,Female,Low,Optical Glasses,Persol,1022.61,2,1032,0.95,5493.52,Medium
+CUST06948,43,Male,Medium,Sunglasses,Oliver Peoples,938.62,1,862,0.57,1263.51,Low
+CUST00081,31,Female,Medium,Optical Glasses,Persol,1262.39,4,50,0.64,442.7,Low
+CUST01075,66,Male,Medium,Sunglasses,Persol,1250.63,3,1615,0.95,15770.79,High
+CUST06726,18,Female,Medium,Sunglasses,Oakley,1210.82,2,469,0.66,2053.68,Low
+CUST04225,60,Male,High,Optical Glasses,Oakley,1115.39,1,1700,0.54,2805.28,Low
+CUST00257,50,Female,High,Optical Glasses,Oakley,1405.93,3,724,0.6,5019.75,Medium
+CUST09801,52,Female,Low,Sunglasses,Vogue Eyewear,1290.47,4,1815,0.7,17967.59,High
+CUST07709,59,Female,Low,Optical Glasses,Oakley,1234.36,3,181,0.59,1083.43,Low
+CUST06486,48,Male,Medium,Optical Glasses,Oliver Peoples,1048.91,1,745,0.78,1669.92,Low
+CUST05563,35,Female,High,Optical Glasses,Ray-Ban,1279.39,1,1862,0.88,5743.44,Medium
+CUST01492,43,Female,High,Sunglasses,Persol,1275.07,2,436,0.64,1949.56,Low
+CUST09677,18,Male,Low,Optical Glasses,Ray-Ban,1255.94,5,1094,0.57,10728.48,High
+CUST09660,22,Female,Medium,Optical Glasses,Persol,1388.15,3,1461,0.65,10834.99,High
+CUST04204,48,Female,Medium,Optical Glasses,Persol,942.46,4,285,0.77,2266.55,Low
+CUST05991,25,Male,High,Optical Glasses,Vogue Eyewear,1321.12,1,447,0.76,1229.62,Low
+CUST06619,31,Male,Low,Optical Glasses,Oakley,1376.26,5,983,0.61,11304.75,High
+CUST03859,49,Female,Medium,Optical Glasses,Persol,1115.89,5,56,0.67,573.54,Low
+CUST03177,28,Female,Low,Optical Glasses,Oliver Peoples,1233.63,5,705,0.62,7386.57,Medium
+CUST01559,52,Male,Medium,Optical Glasses,Oliver Peoples,1065.21,3,1013,0.67,5942.21,Medium
+CUST01282,26,Male,Low,Optical Glasses,Ray-Ban,1301.32,2,1912,0.72,9816.16,High
+CUST06063,42,Male,Medium,Optical Glasses,Oliver Peoples,1425.43,2,1270,1.0,9919.43,High
+CUST01657,62,Male,Medium,Optical Glasses,Oakley,1266.04,3,1819,0.8,15142.53,High
+CUST02490,59,Female,Low,Optical Glasses,Ray-Ban,1239.93,1,823,0.64,1789.3,Low
+CUST06596,37,Male,High,Optical Glasses,Persol,985.69,2,1244,0.82,5509.49,Medium
+CUST00730,45,Female,Medium,Sunglasses,Vogue Eyewear,1409.69,4,1087,0.86,14441.71,High
+CUST00924,48,Male,Low,Optical Glasses,Oakley,799.84,1,1948,0.94,4012.61,Medium
+CUST07877,58,Female,High,Optical Glasses,Persol,1112.48,1,1003,0.93,2843.04,Low
+CUST02817,44,Male,Medium,Optical Glasses,Vogue Eyewear,1401.91,2,798,0.76,4658.8,Medium
+CUST01428,54,Female,Medium,Optical Glasses,Persol,1285.19,2,1463,0.53,5460.4,Medium
+CUST03062,22,Male,Medium,Optical Glasses,Persol,1365.46,1,1571,0.65,3820.11,Medium
+CUST06731,46,Male,Medium,Sunglasses,Oakley,1296.9,1,969,0.64,2203.52,Low
+CUST08085,41,Female,Low,Optical Glasses,Oakley,1083.26,4,1056,0.66,8273.85,Medium
+CUST03475,51,Female,Low,Optical Glasses,Oliver Peoples,1102.8,5,1546,0.95,22187.43,High
+CUST08392,51,Male,Medium,Sunglasses,Oakley,1602.61,5,834,0.8,14647.42,High
+CUST03883,44,Male,Low,Optical Glasses,Oliver Peoples,1315.32,3,1369,0.59,8732.03,Medium
+CUST08780,34,Male,Low,Optical Glasses,Vogue Eyewear,1458.95,3,852,0.63,6436.49,Medium
+CUST03452,42,Female,High,Sunglasses,Oliver Peoples,1257.34,2,313,0.99,2134.86,Low
+CUST04439,59,Male,High,Sunglasses,Oakley,1176.93,1,1885,0.69,4193.9,Medium
+CUST08206,19,Male,High,Sunglasses,Vogue Eyewear,1218.31,1,707,0.65,1533.9,Low
+CUST05690,40,Male,Medium,Optical Glasses,Ray-Ban,1291.49,5,188,0.92,3059.95,Low
+CUST00402,57,Male,Low,Sunglasses,Persol,1282.95,1,130,0.58,265.03,Low
+CUST06498,49,Female,High,Optical Glasses,Oliver Peoples,1288.88,4,1970,0.94,26156.14,High
+CUST03528,32,Male,Low,Sunglasses,Persol,1223.86,5,368,0.81,4997.37,Medium
+CUST00111,28,Male,Medium,Sunglasses,Oliver Peoples,1017.41,3,1527,0.99,12641.5,High
+CUST07973,33,Male,High,Sunglasses,Persol,1342.44,4,81,0.51,607.74,Low
+CUST05095,55,Male,Low,Optical Glasses,Persol,1124.16,4,419,0.74,3819.8,Medium
+CUST03130,33,Male,Low,Optical Glasses,Oakley,1299.39,1,1285,0.51,2333.03,Low
+CUST05547,22,Male,Low,Sunglasses,Vogue Eyewear,1195.7,4,721,0.53,5007.26,Medium
+CUST03815,33,Female,Medium,Optical Glasses,Vogue Eyewear,1315.44,2,1705,0.78,9585.77,High
+CUST01224,53,Male,Medium,Optical Glasses,Persol,1240.61,3,261,0.69,1836.34,Low
+CUST06939,19,Female,Low,Sunglasses,Persol,1210.5,4,777,0.96,9895.19,High
+CUST04762,64,Female,High,Sunglasses,Ray-Ban,1203.07,3,237,0.52,1218.63,Low
+CUST04673,63,Male,High,Optical Glasses,Vogue Eyewear,1022.86,5,974,0.74,10099.13,High
+CUST06667,32,Male,Medium,Optical Glasses,Vogue Eyewear,747.27,3,647,0.64,2543.26,Low
+CUST01020,27,Female,Low,Optical Glasses,Ray-Ban,1207.34,5,1436,0.76,18049.9,High
+CUST09093,68,Female,Medium,Sunglasses,Oakley,1119.41,2,198,0.52,631.53,Low
+CUST07366,53,Female,Medium,Sunglasses,Persol,1046.29,5,470,0.8,5389.11,Medium
+CUST06785,29,Male,Medium,Optical Glasses,Persol,1517.37,4,1501,0.91,22713.32,High
+CUST09713,56,Female,High,Sunglasses,Vogue Eyewear,1423.01,2,376,0.95,2785.2,Low
+CUST05041,66,Male,Medium,Sunglasses,Oakley,1155.24,4,1514,0.53,10158.77,High
+CUST06008,51,Female,Low,Optical Glasses,Oakley,1057.81,2,250,0.57,825.96,Low
+CUST00592,68,Female,Medium,Sunglasses,Vogue Eyewear,1034.05,2,1076,0.98,5974.71,Medium
+CUST06714,28,Female,High,Sunglasses,Ray-Ban,1122.56,4,1808,0.63,14012.5,High
+CUST02584,53,Male,Medium,Sunglasses,Vogue Eyewear,1379.88,3,518,0.58,3407.43,Low
+CUST06942,47,Female,Medium,Optical Glasses,Vogue Eyewear,1157.58,2,1972,0.51,6379.19,Medium
+CUST05724,57,Female,High,Sunglasses,Ray-Ban,1247.79,2,1770,0.72,8713.33,Medium
+CUST06254,27,Female,Medium,Sunglasses,Persol,1391.6,1,342,0.92,1199.6,Low
+CUST00544,18,Male,Medium,Optical Glasses,Ray-Ban,1217.86,5,1101,0.74,13592.32,High
+CUST01216,27,Female,Medium,Sunglasses,Persol,1013.38,3,1585,0.94,12409.6,High
+CUST08184,59,Female,Low,Sunglasses,Persol,1319.61,5,579,0.73,7640.54,Medium
+CUST00026,50,Male,High,Optical Glasses,Oakley,1189.25,4,1264,0.83,13673.05,High
+CUST09882,36,Male,Medium,Sunglasses,Oakley,1403.49,2,1545,0.62,7366.59,Medium
+CUST02316,64,Male,Medium,Optical Glasses,Oakley,1292.36,1,854,0.5,1511.88,Low
+CUST09198,19,Female,Medium,Optical Glasses,Vogue Eyewear,1009.69,2,1446,0.56,4480.04,Medium
+CUST00025,38,Male,High,Optical Glasses,Persol,1251.1,1,1283,0.8,3518.16,Low
+CUST07390,37,Female,Medium,Sunglasses,Vogue Eyewear,1234.56,5,1847,0.93,29049.54,High
+CUST06199,37,Female,Medium,Optical Glasses,Vogue Eyewear,1206.96,4,254,0.6,2015.79,Low
+CUST09499,58,Female,High,Optical Glasses,Oakley,1174.08,4,1387,0.9,16061.41,High
+CUST06430,69,Male,Low,Optical Glasses,Oliver Peoples,1256.53,4,1785,1.0,24579.79,High
+CUST06274,49,Male,High,Sunglasses,Oakley,1274.62,5,1537,0.68,18249.07,High
+CUST01239,48,Male,Medium,Sunglasses,Ray-Ban,1260.71,5,1709,0.75,22135.82,High
+CUST00352,63,Male,Medium,Optical Glasses,Ray-Ban,1045.59,5,1061,0.52,7902.37,Medium
+CUST00723,45,Male,Medium,Optical Glasses,Vogue Eyewear,1077.8,3,36,0.86,274.26,Low
+CUST08441,65,Female,Medium,Optical Glasses,Ray-Ban,1331.37,1,450,0.98,1608.59,Low
+CUST00873,40,Male,Medium,Optical Glasses,Persol,1223.27,3,669,0.62,4170.31,Medium
+CUST09206,49,Female,High,Optical Glasses,Oakley,1269.14,2,560,0.76,2959.7,Low
+CUST05065,55,Female,Medium,Sunglasses,Persol,996.69,2,159,0.94,816.25,Low
+CUST05824,42,Female,Medium,Optical Glasses,Ray-Ban,1305.65,2,1755,0.96,12053.47,High
+CUST08559,55,Female,Medium,Sunglasses,Oliver Peoples,1250.87,1,1247,0.81,3461.55,Low
+CUST03946,51,Female,Medium,Optical Glasses,Oakley,1021.29,3,1655,0.86,11947.41,High
+CUST06449,60,Female,Low,Optical Glasses,Oakley,1037.77,3,980,0.86,7188.76,Medium
+CUST03755,43,Female,Medium,Optical Glasses,Oakley,1351.27,4,1918,0.62,17609.6,High
+CUST07864,32,Female,Low,Sunglasses,Vogue Eyewear,1378.35,2,671,0.95,4814.41,Medium
+CUST01005,54,Female,Low,Optical Glasses,Persol,1162.14,3,1442,0.52,7162.35,Medium
+CUST06867,42,Female,Medium,Optical Glasses,Vogue Eyewear,1412.07,4,766,0.82,9719.99,High
+CUST08543,66,Male,Medium,Sunglasses,Oliver Peoples,1052.6,5,1229,0.8,14176.94,High
+CUST08939,43,Female,Medium,Optical Glasses,Vogue Eyewear,1299.74,3,1165,0.64,7965.09,Medium
+CUST09737,41,Male,Low,Sunglasses,Oakley,1511.47,2,567,0.91,4273.28,Medium
+CUST02152,29,Female,High,Sunglasses,Persol,1097.02,5,473,0.88,6255.12,Medium
+CUST04354,29,Female,Low,Optical Glasses,Oliver Peoples,1279.53,4,1076,0.73,11014.19,High
+CUST08117,29,Male,Medium,Sunglasses,Vogue Eyewear,1145.57,4,1401,0.69,12136.01,High
+CUST09562,58,Female,Low,Optical Glasses,Vogue Eyewear,1247.95,1,1475,0.77,3883.18,Medium
+CUST00499,62,Female,Medium,Optical Glasses,Oakley,953.33,2,191,0.9,897.96,Low
+CUST09563,19,Female,High,Optical Glasses,Oliver Peoples,1082.36,3,1442,0.86,11032.24,High
+CUST03849,20,Male,Medium,Optical Glasses,Vogue Eyewear,1261.99,4,1094,0.83,12557.94,High
+CUST08066,32,Male,Low,Optical Glasses,Oliver Peoples,1351.5,2,855,0.51,3229.16,Low
+CUST08523,47,Female,Medium,Optical Glasses,Oakley,1005.89,1,718,0.8,1582.97,Low
+CUST04889,47,Male,Medium,Sunglasses,Oliver Peoples,1135.06,4,1857,0.81,18710.39,High
+CUST09738,35,Male,Medium,Sunglasses,Vogue Eyewear,1218.36,1,1097,0.96,3515.29,Low
+CUST05710,35,Male,Medium,Optical Glasses,Ray-Ban,906.19,5,1312,0.58,9446.22,High
+CUST04296,53,Male,Low,Sunglasses,Oakley,1395.71,3,1427,0.97,15878.86,High
+CUST09420,47,Male,Low,Sunglasses,Vogue Eyewear,1224.06,4,1711,0.97,22263.4,High
+CUST06979,19,Male,Medium,Optical Glasses,Oliver Peoples,955.6,2,1794,0.74,6951.32,Medium
+CUST07850,33,Male,Medium,Optical Glasses,Vogue Eyewear,1446.86,1,1622,0.53,3407.69,Low
+CUST06326,69,Female,Medium,Optical Glasses,Vogue Eyewear,1413.25,5,392,0.84,6374.73,Medium
+CUST08379,57,Female,Medium,Optical Glasses,Persol,1270.31,3,1882,0.57,11200.38,High
+CUST01775,55,Male,Medium,Optical Glasses,Persol,1459.95,5,1205,0.86,20725.29,High
+CUST01853,68,Female,High,Sunglasses,Oakley,1061.93,5,228,0.58,1923.69,Low
+CUST09659,38,Male,Medium,Optical Glasses,Persol,1188.06,1,1953,0.57,3623.45,Medium
+CUST04877,22,Male,Low,Sunglasses,Oakley,1144.46,5,1411,0.51,11281.71,High
+CUST04027,32,Female,Low,Optical Glasses,Oliver Peoples,1162.2,5,703,0.53,5931.84,Medium
+CUST04393,24,Male,Medium,Optical Glasses,Persol,1290.26,5,1995,0.9,31735.09,High
+CUST00943,35,Female,Medium,Optical Glasses,Oliver Peoples,1039.06,3,1201,0.53,5436.11,Medium
+CUST00271,24,Female,Low,Sunglasses,Ray-Ban,1194.82,1,234,0.87,666.41,Low
+CUST09104,59,Male,Low,Optical Glasses,Ray-Ban,925.85,3,1022,0.89,6921.65,Medium
+CUST03445,48,Male,Medium,Sunglasses,Persol,1047.02,3,1428,0.6,7373.32,Medium
+CUST03806,45,Male,Low,Sunglasses,Ray-Ban,1331.25,1,405,0.55,812.43,Low
+CUST01505,55,Male,Medium,Sunglasses,Ray-Ban,947.63,5,94,0.57,695.53,Low
+CUST04054,49,Female,Low,Sunglasses,Oakley,1183.37,1,339,0.58,637.46,Low
+CUST01557,37,Male,Medium,Sunglasses,Vogue Eyewear,1220.97,2,1795,0.96,11528.63,High
+CUST05012,55,Female,Low,Optical Glasses,Oliver Peoples,1220.97,2,781,0.58,3030.55,Low
+CUST00322,65,Male,Medium,Optical Glasses,Ray-Ban,1176.17,3,1229,0.99,11762.12,High
+CUST03656,57,Female,Medium,Sunglasses,Vogue Eyewear,1220.04,1,162,0.57,308.65,Low
+CUST05017,67,Male,Medium,Optical Glasses,Vogue Eyewear,1093.01,4,1923,0.97,22343.04,High
+CUST03816,47,Female,Low,Sunglasses,Oakley,981.4,4,607,0.75,4896.24,Medium
+CUST08700,31,Female,Medium,Optical Glasses,Oakley,1252.52,1,1198,0.83,3412.14,Low
+CUST04207,43,Male,Medium,Optical Glasses,Oliver Peoples,1086.12,5,1340,0.74,14753.38,High
+CUST06149,34,Male,Medium,Sunglasses,Ray-Ban,797.15,5,1332,0.81,11781.66,High
+CUST07862,24,Female,High,Optical Glasses,Vogue Eyewear,1488.99,2,1956,0.51,8138.94,Medium
+CUST05486,29,Male,Low,Optical Glasses,Oliver Peoples,979.66,3,1204,0.85,8240.42,Medium
+CUST08890,37,Male,Medium,Optical Glasses,Ray-Ban,1317.31,2,632,0.81,3695.11,Medium
+CUST03244,33,Male,Low,Sunglasses,Oakley,989.32,4,1747,0.9,17046.66,High
+CUST03279,54,Female,Low,Sunglasses,Oakley,1369.49,1,1667,0.78,4878.61,Medium
+CUST04258,54,Female,High,Optical Glasses,Persol,1082.35,1,1420,0.6,2526.47,Low
+CUST05478,19,Male,Medium,Optical Glasses,Oliver Peoples,1221.33,2,1197,0.57,4566.03,Medium
+CUST03829,38,Female,Medium,Optical Glasses,Persol,1094.17,5,1685,0.79,19952.12,High
+CUST00839,27,Female,Medium,Sunglasses,Ray-Ban,1359.24,3,1708,0.5,9540.75,High
+CUST02087,28,Male,High,Optical Glasses,Oliver Peoples,1296.09,3,593,0.53,3348.07,Low
+CUST01118,57,Female,Medium,Sunglasses,Vogue Eyewear,1192.45,1,940,0.65,1996.13,Low
+CUST00268,36,Female,High,Sunglasses,Ray-Ban,1136.94,4,408,0.51,2592.6,Low
+CUST09368,40,Male,Low,Sunglasses,Vogue Eyewear,914.68,2,113,0.54,305.83,Low
+CUST01119,19,Male,Medium,Sunglasses,Oliver Peoples,1040.34,2,732,0.65,2712.29,Low
+CUST04078,58,Male,High,Sunglasses,Oliver Peoples,1214.1,3,840,0.75,6286.71,Medium
+CUST00493,64,Male,Low,Optical Glasses,Ray-Ban,1145.89,5,1367,0.96,20599.65,High
+CUST06093,62,Female,High,Sunglasses,Oakley,1317.29,1,1264,0.91,4151.23,Medium
+CUST06453,69,Male,High,Sunglasses,Oakley,1253.33,1,1857,0.81,5164.99,Medium
+CUST01421,31,Male,Medium,Sunglasses,Persol,1091.37,1,746,0.89,1985.22,Low
+CUST06120,64,Male,Medium,Optical Glasses,Oakley,1273.77,4,209,0.81,2363.14,Low
+CUST00823,52,Male,Medium,Optical Glasses,Ray-Ban,1120.48,4,283,0.89,3092.77,Low
+CUST08518,45,Male,Low,Optical Glasses,Oliver Peoples,1251.39,5,54,0.97,897.92,Low
+CUST04980,32,Female,Low,Sunglasses,Vogue Eyewear,1120.58,2,298,0.6,1097.86,Low
+CUST01607,40,Male,High,Sunglasses,Oliver Peoples,1412.9,2,1158,0.61,5468.74,Medium
+CUST04789,26,Female,Low,Sunglasses,Ray-Ban,1278.15,2,1101,0.82,6322.96,Medium
+CUST01909,39,Male,Low,Sunglasses,Ray-Ban,1223.84,2,835,0.89,4983.54,Medium
+CUST05747,34,Male,Low,Sunglasses,Vogue Eyewear,999.34,3,869,0.92,6566.73,Medium
+CUST00752,58,Female,Low,Sunglasses,Oakley,1531.29,1,1936,0.74,6010.38,Medium
+CUST00774,43,Male,Low,Optical Glasses,Persol,1005.24,5,739,0.51,5189.93,Medium
+CUST01723,26,Female,Medium,Optical Glasses,Ray-Ban,1244.5,4,1045,0.54,7696.12,Medium
+CUST09987,23,Female,Medium,Optical Glasses,Ray-Ban,1199.6,1,428,0.99,1392.59,Low
+CUST02984,42,Female,Low,Sunglasses,Vogue Eyewear,1410.65,1,240,0.72,667.84,Low
+CUST06024,66,Female,Medium,Optical Glasses,Oakley,1019.41,4,88,0.65,639.02,Low
+CUST07311,23,Male,Low,Optical Glasses,Oliver Peoples,1222.27,5,1742,0.88,25667.0,High
+CUST08122,25,Female,Medium,Optical Glasses,Vogue Eyewear,1287.96,3,1247,0.52,6864.37,Medium
+CUST04449,21,Male,Low,Optical Glasses,Ray-Ban,1245.07,5,795,0.67,9084.75,High
+CUST01836,57,Female,Medium,Optical Glasses,Ray-Ban,1032.06,5,1190,0.83,13963.91,High
+CUST06152,65,Female,Low,Optical Glasses,Oakley,1283.4,4,792,0.97,10805.03,High
+CUST08456,61,Female,Low,Sunglasses,Ray-Ban,1143.27,1,1318,0.58,2394.41,Low
+CUST04335,64,Female,High,Optical Glasses,Oliver Peoples,1031.99,5,146,0.7,1444.79,Low
+CUST08041,61,Female,Medium,Optical Glasses,Oakley,1277.99,5,1356,0.55,13056.51,High
+CUST09766,56,Male,Medium,Optical Glasses,Oliver Peoples,1092.09,3,1715,0.52,8004.87,Medium
+CUST05209,50,Female,Low,Optical Glasses,Oakley,1061.36,3,542,0.63,2978.73,Low
+CUST00477,30,Male,Medium,Sunglasses,Vogue Eyewear,1288.37,2,1833,0.85,10999.15,High
+CUST01599,29,Male,Medium,Sunglasses,Ray-Ban,1088.1,4,1585,0.97,18333.14,High
+CUST08340,22,Male,Medium,Optical Glasses,Oakley,1230.4,5,1242,0.93,19468.3,High
+CUST05976,58,Male,Medium,Optical Glasses,Oliver Peoples,1440.24,2,616,0.88,4277.95,Medium
+CUST07139,35,Female,Medium,Optical Glasses,Ray-Ban,1209.18,2,201,0.75,998.82,Low
+CUST09407,51,Male,Low,Sunglasses,Ray-Ban,1386.92,1,1467,0.84,4682.39,Medium
+CUST02646,68,Male,Low,Sunglasses,Oakley,1048.75,5,854,0.91,11164.73,High
+CUST01795,26,Female,Medium,Optical Glasses,Oliver Peoples,1134.81,4,499,0.97,6019.53,Medium
+CUST04256,60,Female,High,Optical Glasses,Oliver Peoples,1240.21,2,1553,0.69,7282.04,Medium
+CUST08375,21,Female,High,Optical Glasses,Vogue Eyewear,1309.96,2,273,0.96,1881.17,Low
+CUST09320,59,Female,Medium,Optical Glasses,Oakley,1370.69,2,892,0.97,6498.5,Medium
+CUST02006,63,Male,Medium,Optical Glasses,Oliver Peoples,1627.05,2,838,0.92,6873.37,Medium
+CUST05475,30,Female,Low,Optical Glasses,Ray-Ban,740.6,3,382,0.58,1348.66,Low
+CUST03596,31,Male,Medium,Optical Glasses,Vogue Eyewear,1078.42,1,246,0.68,494.24,Low
+CUST08888,19,Male,High,Sunglasses,Ray-Ban,913.76,5,1937,0.72,17457.07,High
+CUST03711,66,Female,Low,Optical Glasses,Oliver Peoples,1187.81,5,628,0.61,6233.24,Medium
+CUST03212,43,Male,Low,Optical Glasses,Ray-Ban,1083.48,2,1734,0.75,7720.91,Medium
+CUST01534,18,Male,Low,Sunglasses,Oakley,1155.23,4,360,0.73,3327.06,Low
+CUST02029,47,Male,High,Sunglasses,Oliver Peoples,980.87,4,69,0.53,393.1,Low
+CUST09329,30,Male,Low,Optical Glasses,Oakley,1031.26,3,1075,0.94,8565.11,Medium
+CUST03812,46,Female,Medium,Optical Glasses,Vogue Eyewear,1167.93,4,432,0.86,4755.17,Medium
+CUST04425,22,Male,Medium,Sunglasses,Vogue Eyewear,1260.69,1,821,0.66,1871.55,Low
+CUST07278,52,Female,Medium,Optical Glasses,Oakley,1119.38,2,1239,0.74,5623.64,Medium
+CUST08594,66,Female,Medium,Sunglasses,Persol,1131.11,2,1786,0.93,10294.53,High
+CUST01227,69,Male,High,Sunglasses,Vogue Eyewear,1241.71,1,1355,0.81,3733.8,Medium
+CUST03739,28,Male,Low,Optical Glasses,Ray-Ban,898.62,4,822,0.99,8014.02,Medium
+CUST00631,37,Male,Medium,Optical Glasses,Oakley,1342.26,4,1667,0.59,14467.43,High
+CUST05028,44,Male,Medium,Optical Glasses,Vogue Eyewear,1232.59,4,1774,0.56,13419.22,High
+CUST02802,57,Female,Low,Optical Glasses,Persol,1211.03,2,1421,0.64,6034.84,Medium
+CUST00784,26,Female,High,Optical Glasses,Persol,1338.97,3,253,0.64,1781.97,Low
+CUST00479,59,Male,High,Optical Glasses,Vogue Eyewear,1016.71,2,398,0.65,1441.22,Low
+CUST03051,61,Male,High,Sunglasses,Persol,1393.03,5,645,0.84,10338.95,High
+CUST07567,25,Male,Low,Sunglasses,Persol,1323.47,2,619,0.86,3860.47,Medium
+CUST05964,68,Male,Medium,Sunglasses,Persol,1204.43,4,614,0.57,4619.47,Medium
+CUST04756,27,Female,Low,Sunglasses,Oliver Peoples,1283.56,5,509,0.6,5369.85,Medium
+CUST04999,53,Male,Medium,Optical Glasses,Ray-Ban,1115.19,4,85,1.0,1038.81,Low
+CUST05386,38,Female,Low,Optical Glasses,Persol,1043.71,4,1351,0.86,13289.26,High
+CUST05344,28,Female,Low,Optical Glasses,Vogue Eyewear,1347.53,3,1442,0.89,14214.19,High
+CUST01761,66,Female,High,Optical Glasses,Oakley,1063.43,2,1468,0.84,7185.41,Medium
+CUST00222,19,Male,Medium,Sunglasses,Oakley,1064.32,4,47,0.76,416.63,Low
+CUST01845,59,Male,Medium,Optical Glasses,Oliver Peoples,1291.75,4,90,0.81,1031.98,Low
+CUST05066,36,Male,High,Sunglasses,Oakley,1099.42,3,772,0.8,5580.84,Medium
+CUST05514,41,Female,Medium,Optical Glasses,Ray-Ban,1195.12,5,364,0.55,3277.58,Low
+CUST08714,40,Female,Low,Sunglasses,Ray-Ban,1313.66,5,329,0.68,4025.92,Medium
+CUST05607,43,Male,Medium,Optical Glasses,Vogue Eyewear,1317.49,3,81,0.86,754.33,Low
+CUST07889,26,Female,Low,Optical Glasses,Ray-Ban,1138.53,5,1522,0.89,21126.44,High
+CUST04316,53,Male,Low,Optical Glasses,Ray-Ban,1153.93,5,509,0.68,5471.21,Medium
+CUST00319,57,Female,Medium,Sunglasses,Ray-Ban,1233.04,3,1564,0.96,15216.46,High
+CUST06244,19,Male,High,Optical Glasses,Oakley,1176.88,4,151,0.53,1032.17,Low
+CUST03921,54,Male,Medium,Optical Glasses,Ray-Ban,1374.41,3,1522,0.5,8596.65,Medium
+CUST04409,20,Female,High,Optical Glasses,Vogue Eyewear,1284.32,5,976,1.0,17171.18,High
+CUST05491,27,Female,Low,Sunglasses,Oliver Peoples,1294.96,2,650,0.51,2352.22,Low
+CUST09756,38,Female,Medium,Sunglasses,Vogue Eyewear,952.55,1,1805,0.57,2685.02,Low
+CUST07653,34,Female,Medium,Sunglasses,Vogue Eyewear,1305.04,2,762,0.61,3323.88,Low
+CUST01208,55,Female,Medium,Optical Glasses,Persol,1139.66,3,802,0.99,7437.27,Medium
+CUST07458,41,Male,Low,Sunglasses,Oakley,1604.66,1,1165,0.83,4251.03,Medium
+CUST05696,47,Male,Low,Optical Glasses,Oakley,1347.79,4,792,0.6,7018.85,Medium
+CUST05492,20,Male,Medium,Optical Glasses,Oakley,1024.62,1,309,0.54,468.41,Low
+CUST05335,59,Female,Low,Sunglasses,Vogue Eyewear,1048.71,4,1835,0.84,17714.87,High
+CUST00791,30,Female,Low,Sunglasses,Oliver Peoples,1062.59,5,1886,1.0,27452.67,High
+CUST07437,69,Male,Medium,Sunglasses,Persol,1529.76,4,781,0.55,7201.19,Medium
+CUST03938,65,Male,Low,Sunglasses,Ray-Ban,1414.81,4,984,0.56,8543.75,Medium
+CUST05654,32,Female,Medium,Optical Glasses,Oakley,1227.33,4,1237,0.92,15306.86,High
+CUST04201,29,Male,Low,Optical Glasses,Oliver Peoples,1079.35,4,291,0.75,2581.57,Low
+CUST09225,54,Male,Medium,Optical Glasses,Oakley,945.72,1,448,0.99,1149.17,Low
+CUST04450,64,Female,Low,Optical Glasses,Oakley,1326.27,4,935,0.92,12502.55,High
+CUST00350,39,Male,Medium,Sunglasses,Oliver Peoples,1253.38,3,1684,0.93,16133.78,High
+CUST05303,58,Male,Low,Optical Glasses,Vogue Eyewear,1282.13,1,51,0.91,163.02,Low
+CUST09638,19,Male,Medium,Optical Glasses,Oakley,1238.88,4,1137,0.5,7718.39,Medium
+CUST00843,31,Male,Low,Optical Glasses,Persol,1041.61,1,1476,0.63,2653.62,Low
+CUST07802,19,Male,High,Optical Glasses,Vogue Eyewear,1180.02,3,1946,0.95,17930.16,High
+CUST06118,48,Female,Medium,Optical Glasses,Oliver Peoples,1171.97,5,1514,0.7,17014.44,High
+CUST08813,23,Male,Low,Optical Glasses,Oliver Peoples,1177.42,1,405,0.91,1188.87,Low
+CUST00548,33,Male,High,Sunglasses,Ray-Ban,1201.5,1,570,0.74,1388.47,Low
+CUST03214,56,Female,Low,Optical Glasses,Oakley,1254.36,2,1700,0.67,7828.58,Medium
+CUST01648,35,Male,Low,Optical Glasses,Oakley,1036.19,2,276,0.54,846.21,Low
+CUST04743,38,Female,Medium,Sunglasses,Oakley,961.4,2,829,0.58,2532.93,Low
+CUST06703,19,Male,Medium,Sunglasses,Persol,1141.55,1,560,0.77,1348.59,Low
+CUST07531,32,Female,Medium,Sunglasses,Oliver Peoples,1231.85,3,1397,0.69,9759.59,High
+CUST02301,40,Male,Medium,Sunglasses,Persol,1258.78,1,1801,0.88,5465.8,Medium
+CUST06678,40,Female,Medium,Optical Glasses,Oliver Peoples,1081.22,3,1069,0.7,6649.95,Medium
+CUST01709,66,Male,High,Sunglasses,Vogue Eyewear,1339.58,1,678,0.69,1716.94,Low
+CUST08198,57,Female,Medium,Optical Glasses,Vogue Eyewear,1330.19,4,458,0.61,4072.64,Medium
+CUST04988,47,Female,High,Optical Glasses,Oliver Peoples,1071.92,1,1906,0.7,3918.23,Medium
+CUST00398,42,Male,High,Sunglasses,Oakley,1195.87,5,1871,0.89,27278.78,High
+CUST07205,68,Male,Medium,Sunglasses,Oakley,1332.16,5,461,0.9,7571.41,Medium
+CUST00949,18,Female,Medium,Optical Glasses,Oliver Peoples,1238.31,1,235,0.58,462.42,Low
+CUST03138,48,Female,High,Sunglasses,Oakley,1107.61,3,1679,0.92,14062.22,High
+CUST07688,41,Male,Medium,Sunglasses,Persol,1416.72,1,885,0.53,1820.58,Low
+CUST04192,35,Male,Low,Sunglasses,Oakley,1057.56,1,1805,0.84,4393.08,Medium
+CUST03254,60,Female,Medium,Optical Glasses,Vogue Eyewear,1327.33,2,1979,0.85,12234.35,High
+CUST09807,38,Male,Low,Optical Glasses,Persol,1376.34,2,981,0.97,7176.35,Medium
+CUST05929,46,Female,High,Optical Glasses,Oakley,1223.99,1,113,0.54,204.62,Low
+CUST06792,44,Female,Medium,Optical Glasses,Ray-Ban,1381.23,2,1163,0.88,7745.79,Medium
+CUST05608,47,Male,Medium,Optical Glasses,Persol,1169.65,5,1909,0.5,15293.57,High
+CUST06547,20,Female,Medium,Optical Glasses,Oliver Peoples,1272.93,3,1796,0.85,15971.96,High
+CUST08855,24,Male,Medium,Sunglasses,Vogue Eyewear,1290.76,2,1952,0.58,8007.38,Medium
+CUST02068,47,Male,Medium,Sunglasses,Oliver Peoples,1152.43,2,1518,0.67,6422.41,Medium
+CUST03498,39,Male,Low,Optical Glasses,Oakley,1195.62,1,1823,0.93,5553.54,Medium
+CUST08601,24,Male,Medium,Optical Glasses,Persol,1113.41,4,1921,0.89,20861.22,High
+CUST03288,66,Male,Low,Sunglasses,Persol,1403.79,4,1499,0.98,22599.4,High
+CUST08360,58,Female,Low,Sunglasses,Oliver Peoples,1083.64,2,778,0.6,2771.74,Low
+CUST07414,21,Female,Medium,Optical Glasses,Oakley,1275.95,2,1422,0.52,5169.8,Medium
+CUST07912,35,Male,Medium,Optical Glasses,Vogue Eyewear,1183.47,2,116,0.71,534.09,Low
+CUST00668,52,Female,Medium,Optical Glasses,Ray-Ban,1261.88,1,421,0.79,1149.83,Low
+CUST01993,25,Male,Low,Optical Glasses,Persol,990.16,2,578,0.73,2289.25,Low
+CUST00884,55,Female,Medium,Sunglasses,Persol,1389.22,5,1213,0.74,17082.08,High
+CUST01991,34,Male,Low,Sunglasses,Oliver Peoples,1364.4,4,176,0.88,2315.82,Low
+CUST00971,53,Female,High,Optical Glasses,Persol,1433.25,5,694,0.5,6812.85,Medium
+CUST07465,28,Male,Medium,Sunglasses,Vogue Eyewear,1120.47,1,254,0.53,413.25,Low
+CUST04419,61,Male,High,Sunglasses,Oliver Peoples,1522.39,5,1010,0.51,10742.23,High
+CUST08145,38,Male,Medium,Optical Glasses,Ray-Ban,1366.37,3,1176,0.62,8188.34,Medium
+CUST08039,36,Male,Low,Optical Glasses,Vogue Eyewear,1171.59,3,120,0.92,1063.1,Low
+CUST03697,62,Female,Low,Optical Glasses,Ray-Ban,1242.52,3,1482,0.62,9383.65,High
+CUST05857,64,Male,High,Optical Glasses,Persol,1310.27,3,1405,0.88,13315.22,High
+CUST08691,55,Male,Medium,Optical Glasses,Ray-Ban,1230.13,4,1924,0.72,18674.79,High
+CUST01787,45,Male,Medium,Optical Glasses,Ray-Ban,1356.61,3,444,0.69,3415.98,Low
